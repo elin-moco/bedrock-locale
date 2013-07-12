@@ -1,0 +1,685 @@
+## active ##
+
+# <title> tag
+;Firefox at Mobile World Congress 2013
+Mobile World Congress 2013 的 Firefox
+
+
+## CONTACT FORM ##
+# Title
+;Get involved
+加入我們
+
+
+# Sub-title
+;Contact our business development team to get on board.
+連絡我們的業務發展團隊。
+
+
+# Field
+;First Name
+名字
+
+
+# Field
+;Last Name
+姓氏
+
+
+# Field
+;Title
+職稱
+
+
+# Field
+;Company
+公司名稱
+
+
+# Field
+;Website
+網站
+
+
+# Field
+;Email
+電子郵件地址
+
+
+# Field
+;Phone
+電話號碼
+
+
+;Interest:
+有興趣的項目:
+
+
+# Specific interest
+;Firefox for Android
+Firefox for Android {ok}
+
+
+# Specific interest
+;Other
+其他
+
+
+# Tooltip for selected options
+;Interest
+興趣
+
+
+# Comment field default text
+;Comments or questions?
+有其他意見或問題？
+
+
+# Submit button text
+;Submit my request
+送出我的請求
+
+
+;Thanks for your interest in partnering with us
+感謝您有興趣成為我們的夥伴
+
+
+;We will review your request and get back to you about possibilities and opportunities soon.
+我們將會整理所收到的資料，並且盡快回覆您未來的合作機會。
+
+
+## MAIN CONTENT ##
+# Top menu item
+;Overview
+概觀
+
+
+# Text on the left, on top of the Firefox logo
+;Explore the site
+瀏覽網站
+
+
+# Page title
+;Blaze Your Own Path
+走自己的路
+
+
+;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+我們透過 <a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a> 以及 <a %(url3)s>Firefox for Android</a> 等行動平台產品，讓電信業者、手機製造商、開發者都能夠管理、自訂且實際掌控客戶關係。
+
+
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+我們透過 <a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a> 以及 <a %(url3)s>Firefox for Android</a> 等行動平台產品，讓電信業者、手機製造商、開發者都能夠管理、自訂且改善客戶關係。
+
+
+;See more partners
+看看更多夥伴
+
+
+;Recent news
+最新消息
+
+
+# This is a button showing the contact form
+;Partner with us
+成為我們的夥伴
+
+
+# App Planet is a location in the building, don't translate
+;Join us at Stand F20, Hall 8.1, App Planet
+來 App Planet，Hall 8.1 的 F20 攤位看看
+
+
+;Our keynote & other scheduled events
+我們的 Keynote 與其他表定活動
+
+
+;Firefox tweets from MWC in Barcelona
+Firefox 在巴塞隆納 MWC 發出的 tweet
+
+
+# Title
+;The Web is the platform
+Web 就是我們的平台
+
+
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
+由業界的主要廠商支援，Firefox OS 是一套讓您能在價值鏈中深入參與的開放作業系統。<a %(url)s>看看您該如何參與。</a>
+
+
+# Rewording of the previous sentence to link to the Firefox OS consumer site
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+
+
+# Title
+;Made of the Web
+以 Web 打造
+
+
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+完全使用 HTML5 與其他開放網路標準所打造，Firefox OS 不囿於現存專有平台的規範與藩籬。
+
+
+# Title
+;Made by Firefox
+由 Firefox 建立
+
+
+;For the past 15 years, we’ve been instrumental in innovating and shaping the Web to keep it open and accessible to all. As a result of our efforts, one fifth of all Web activity today happens through Firefox products.
+過去 15 年來，我們幫助網路的創新與塑型，讓其保持開放，任誰都可以使用。我們所努力的結果是，現今全球五分之一的網頁流量都經由 Firefox 產品而產生。
+
+
+# Title
+;The difference the Open Web makes
+Open Web 的獨特之處
+
+
+# List title
+;Firefox OS offers:
+Firefox OS 提供:
+
+
+# List item
+;A level playing field against other OS and marketplace providers
+與其他的作業系統與軟體市集業者有一致的競爭立足點
+
+
+# List item
+;Greater participation in the value chain
+在價值鏈中更大的參與程度
+
+
+# List item
+;Ownership and control over relationships with customers
+實際擁有並掌控客戶關係
+
+
+# List item
+;Customized phones that meet the specific needs of various target markets
+符合不同目標市場需求的客製化手機
+
+
+;White Papers
+白皮書
+
+
+;Learn more about the technology behind Firefox OS
+了解更多 Firefox OS 背後的技術的相關資料
+
+
+# This is the same string as the one in the contact form but it doesn't have a final dot
+;Contact our business development team to get on board
+請連絡我們的業務發展團隊
+
+
+# Title
+;HTML5 apps for all
+人人都能使用的 HTML5 應用程式
+
+
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
+探索參與生態系統的全新方式：不只包含那些世界知名的應用程式，也包含與您切身相關、更符合在地需求的應用程式。看看這樣對<a %(url1)s>電信商、製造商</a>與<a %(url2)s>開發者</a>有什麼好處。
+
+
+# Title
+;Your needs
+您的需求
+
+
+;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
+結合您自有的收費方案，搭配我們提供的開放源碼服務來擴展您的業務、進入新興市場、自訂購買與應用程式體驗，以符合您的特殊需求。
+
+
+# Title
+;Our experience
+我們的經歷
+
+
+;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
+眾所皆知，我們的可靠經驗來自於提供全球大量使用者優秀的使用體驗與內容服務。我們的附加元件網站也對全球數以億計的使用者提供內容服務。
+
+
+# Title
+;Testimonials
+證言
+
+
+;See what Box, SoundCloud and others have to say
+看看 Box、SoundCloud 與其他公司說了什麼
+
+
+# Title
+;Join the Conversation
+加入對話
+
+
+;Follow @firefoxapps on Twitter
+在 Twitter 上關注 @firefoxapps
+
+
+;Read more on the Apps Blog
+到 Apps 部落格閱讀更多文章
+
+
+# Title
+;The world’s largest developer community
+全世界最大的開發者社群
+
+
+# List title
+;Marketplace offers:
+Marketplace 提供您:
+
+
+# List item. Tier 1 developers = very famous developpers from top companies
+;Commitment from well-known, tier 1 developers
+來自知名開發者的承諾
+
+
+# List item
+;Micro-targeted content for every use-case to meet customers’ local needs
+針對不同使用情境的細微目標內容，符合客戶的在地需求
+
+
+# List item
+;Lower barriers to entry for local app developers in both resource and cost
+在地的應用程式開發者只需更低的資源與成本即可加入
+
+
+# This is a button
+;MWC demonstrations
+MWC 現場展示
+
+
+# Title
+;Developed with developers in mind
+對於開發者的需求銘記於心
+
+
+# List item
+;Apps that customers can access across multiple platforms, devices and operating systems
+讓客戶可跨不同平台、裝置或作業系統使用的應用程式
+
+
+# List item
+;Flexible business models and multiple payment monetization options
+更靈活的商業模式與多重金流選項
+
+
+# List item
+;Optional carrier billing in regional currencies
+可使用在地幣值計費出帳
+
+
+# List item
+;The ability to connect with hundreds of millions of Firefox supporters around the world
+連結全球數億認同 Firefox 的支持者
+
+
+# List item
+;Access to relatively untapped markets
+前進較未開發的市場
+
+
+# Title
+;Developer hub
+開發者交流中心
+
+
+;Learn how to make HTML5 apps for an open marketplace
+了解如何為開放商城打造 HTML5 應用程式
+
+
+# Title
+;Have an app?
+您有 App 嗎？
+
+
+;Submit it to the Firefox Marketplace today
+今天就上架到 Firefox Marketplace
+
+
+# WIMJam is an event in MWC where developpers meet and code
+;Jam with us, learn about new tools, meet other developers and more
+與我們一起腦力激盪、學習新工具、認識其他開發者。了解更多
+
+
+# Button
+;Register
+報名
+
+
+# Title
+;A superior Web experience
+卓越的網路體驗
+
+
+;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
+透過高效能、進步的跨平台功能，以及最先進的安全性，我們最受歡迎的瀏覽器是您在封閉平台中的不同選擇，讓您能靈活地設計、並且用您覺得適合的方式發佈與收費。<a %(url)s>了解更多關於夥伴機會的資訊。</a>
+
+
+# Title
+;Strengthen customer relationships
+強化客戶關係
+
+
+;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
+建立您獨特品牌的 Firefox for Android 及 Firefox Marketplace，讓您的品牌能見度更高，有更好的使用者體驗。
+
+
+# Title
+;Create new value for both you and your users
+為您與您的用戶創造價值
+
+
+;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
+掌握 Firefox Marketplace 與 WebRTC 等機會，提供全新、不受平台限制的服務，並直接讓您直接向客戶收費。
+
+
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
+脫穎而出
+
+
+# Title.
+;Stand out from the crowd
+脫穎而出
+
+
+;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
+結合我們強大的品牌與服務，讓您的產品與眾不同，增加銷售量。
+
+
+# List Title
+;Firefox for Android lets you:
+Firefox for Android 可讓您:
+
+
+# list item sub-title
+;Customize the experience
+自訂使用體驗
+
+
+;Add your brand and content to increase customer touchpoints, improve retention and drive future sales.
+加入您的品牌與內容以增加客戶接觸點，增加留客率與未來的銷售機會。
+
+
+# list item sub-title
+;Build new service offerings
+自行建置並提供新的服務
+
+
+;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
+透過 Firefox Marketplace 與 WebRTC 直接將服務整合進瀏覽器，將您自專有平台的限制與約束中解放出來。
+
+
+# list item sub-title
+;Direct customer billing
+直接對客戶收費
+
+
+;Grow your business by combining your own customer payment plans with our open source service offerings.
+結合您自有的收費方案，搭配我們的開放源碼服務，讓您的業務更加茁壯。
+
+
+;Partner Opportunities
+夥伴機會
+
+
+;For Developers
+針對開發者
+
+
+## LOCATION OVERLAY AND MAP ##
+;Location
+位置
+
+
+;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
+MWC 2013 大會中的 Firefox — App Planet，Hall 8.1，F20 攤位
+
+
+;From the South Entrance:
+從南入口:
+
+
+;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
+沿著走廊直走到底，我們的攤位位於右手邊的 Hall 8.1 展覽廳中間。
+
+
+;From the North Entrance:
+從北入口:
+
+
+;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
+直接搭手扶梯至 Hall 8.1，我們的攤位位於展覽廳中間。
+
+
+;Download map (PDF)
+下載地圖 (PDF)
+
+
+;For Operators & Manufacturers
+針對電信業者與製造商
+
+
+;Mobile World Congress, Barcelona, 25 - 28 February 2013
+Mobile World Congress，巴塞隆納，2013 年 2 月 25 - 28 日
+
+
+;Firefox at MWC 2013 — Schedule of events
+Firefox at MWC 2013 — 活動時間表
+
+
+;Schedule
+時間表
+
+
+;09:00-10:30 CET
+09:00-10:30 CET {ok}
+
+
+;12:30-13:00 CET
+12:30-13:00 CET {ok}
+
+
+;09:00-16:00 CET
+09:00-16:00 CET {ok}
+
+
+;13:00-15:00 CET
+13:00-15:00 CET {ok}
+
+
+;16:00-17:30 CET
+16:00-17:30 CET {ok}
+
+
+;16:00-23:00 CET (awards at 22:30)
+16:00-23:00 CET (於 22:30 頒獎)
+
+
+;17:45-18:30 CET
+17:45-18:30 CET {ok}
+
+
+;09:00 – 11:30:
+09:00 – 11:30: {ok}
+
+
+;11:30 – 14:00:
+11:30 – 14:00: {ok}
+
+
+;14:00 – 16:30:
+14:00 – 16:30: {ok}
+
+
+;16:30 – 19:00:
+16:30 – 19:00: {ok}
+
+
+;VP of Products, Mozilla
+Mozilla 產品副總裁
+
+
+# Title
+;Gary Kovacs CEO of Mozilla Keynote
+Mozilla 執行長 Gary Kovacs 的 Keynote
+
+
+;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
+Mozilla 執行長 Gary Kovacs 將會討論 Open Web 裝置在世界上不同市場中有哪些利基點，以及 Firefox OS 將如何幫助電信業者、手機製造商與開發者接觸次十億個網路使用者。
+
+
+;Hall 4, Conference Village, Auditorium 1
+Hall 4, Conference Village, Auditorium 1 {ok}
+
+
+# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
+;Mobile World Live Keynote with Mitchell Baker
+Mitchell Baker 的 Mobile World Live Keynote
+
+
+;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
+Mozilla 基金會主席 Mitchell Baker，將討論將開放網路的創新帶到行動裝置的重要性。
+
+
+# Title
+;Mobile App Privacy Debate
+行動應用程式隱私權辯論會
+
+
+;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
+Mozilla 的業務副總裁與法律總顧問 Harvey Anderson 將參與“Mobile app privacy: What’s your view?”辯論會。此互動議程歡迎對幫助消費者能簡單地在行動裝置上對隱私權做出決定的議題有興趣的人參加。
+
+
+# Title
+;Apps Panel: Evolving Ecosystems
+Apps 議程: Evolving Ecosystems
+
+
+;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
+產品副總裁 Jay Sullivan 將參與 Apps Panel: Evolving Ecosystems。此議程將討論 App 產業的現況，產業中的各個角色與其職責又將如何隨著市場發展而改變。
+
+
+;Hall 4, Conference Village, Auditorium 2
+Hall 4, Conference Village, Auditorium 2 {ok}
+
+
+;GSMA Pavilion, Congress Square (CS80)
+GSMA Pavilion, Congress Square (CS80) {ok}
+
+
+# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
+;Mobile World Live TV Panel
+Mobile World Live TV 電視轉播議程
+
+
+;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
+Firefox 工程副總裁 Johnathan Nightingale 將參與討論 App 市場未來有什麼機會。
+
+
+;Location: the live panel will be streamed on all major screens throughout the show area
+地點: 本現場 Panel 將於會場的主要大螢幕串流播放
+
+
+# Title
+;Mobile Premier Awards & AppCircus After Party
+Mobile Premier Awards 與 AppCircus 會後派對
+
+
+;Firefox Marketplace VP Rick Fant will select and present the winning app.
+Firefox Marketplace 副總裁 Rick Fant 將評選並展示得獎的 App 作品。
+
+
+# Title
+;WIP Jam - Day for Developers
+WIP Jam - 開發者日
+
+
+;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
+這是行動應用程式開發者在 MWC 的重要活動。Mozilla 技術長 Brendan Eich 與 Mozilla 開發者傳教士 Robert Nyman 將舉辦一場主題為“Why Open Web Apps & Firefox OS are good for mobile developers.”工作坊及的問與答議程。Mozilla 開發者傳教士 Chris Heilmann 將出席一場主題為 "HTML5 Beyond the Hype" 的 UnPanel，並帶領幾個 HTML5 的議題討論小組。WIP Jam 中也將會在 DemoCamps 看到在 Mozilla Developer Days 中新打造的 HTML5 應用程式。可在此處找到完整活動時間表: %(link)s
+
+
+;Location TBD
+地點未定
+
+
+;Monday
+星期一
+
+
+;Tuesday
+星期二
+
+
+;Wednesday
+星期三
+
+
+;Thursday
+星期四
+
+
+;February 25
+2 月 25 日
+
+
+;February 26
+2 月 26 日
+
+
+;February 27
+2 月 27 日
+
+
+;February 28
+2 月 28 日
+
+
+;CEO, Mozilla
+Mozilla 執行長
+
+
+;Mobile
+行動電話
+
+
+;Back to top
+回到頂端
+
+
+;Firefox Marketplace — Developer testimonials
+Firefox Marketplace — 開發者的證言
+
+
+;Get it on Google Play
+到 Google Play 下載
+
+
+# Press title in Recent News
+;Mozilla Announces Global Expansion for Firefox OS
+Mozilla 宣布 Firefox OS 全球市場擴張計畫
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
+
+
+# Press title in Recent News
+;Mozilla and partners prepare to launch first Firefox OS smartsphones
+Mozilla and partners prepare to launch first Firefox OS smartsphones
+
+
+;View the version notes
+View the version notes
+
+
+;Read about features, changes and more
+Read about features, changes and more
+
+

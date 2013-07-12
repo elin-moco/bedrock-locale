@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Dobijajte mjesečne novosti
+
+
+;Your Email Address
+Vaša email adresa
+
+
+;Text
+Tekst
+
+
+;Available Languages
+Dostupni jezici
+
+
+;Select country
+Izaberite državu
+
+
+;Whoops! Be sure to enter a valid email address.
+Ups! Pobrinite se da unesete ispravnu email adresu.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Molimo da pročitate Mozilla policu privatnosti i da je prihvatite.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Prihvatam <a href="%s">policu privatnosti</a>
+
+
+;Sign me up!
+Prijavi me!
+
+
+;We will only send you Mozilla-related information.
+Mi ćemo vam slati samo informacije vezane za Mozillu.
+
+
+;Thanks for Subscribing!
+Hvala za prijavu!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Jedva čekamo da uskoro počnemo sa vama dijeliti tajne i trikove kako da izvučete maksimum iz Firefoxa, kao i uzbudljive novosti o Mozilli i našem trudu da Web učinimo boljim.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Prijavite se na mjesečne novosti i ostanite u korak sa Mozilla novostima, uključujući najnovije trikove kako da izvučete maksimum iz svog Firefox browsera. To je savršen način da ostanemo u kontaktu!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Upravo smo Vam poslali email poruku za potvrdu. Kliknite na link za potvrdu u ovom emailu kako biste potvrdili svoju prijavu na ovu mailing listu.
+
+
+;Read all about it in our <span>newsletter</span>
+Pročitajte sve o tome u našem <span>newsletteru</span>
+
+
+;Your newsletter subscription has been confirmed.
+Vaša prijava na newsletter je potvrđena.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Spremni ste! <span>No sačekajte, ima još</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Želite dobijati najrelevantnije informacija? Recite nam malo više o sebi. A kad ste već ovdje, prijavite se i na druge Mozilla novosti.
+
+
+;Firefox & You
+Firefox & vi
+
+
+;Our Other Newsletters:
+Ostali naši newsletteri:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Dobijajte najnovije savjete i trikove kako da izvučete maksimum iz vašeg omiljenog browsera.
+
+
+;Firefox Mobile
+Mobilni Firefox
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Naučite o najboljim novim add-onima i mogućnostima za mobilni Firefox.
+
+
+;Beta News
+Novosti o beti
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Čitajte o najnovijim mogućnostima Firefoxa za desktop i mobitel prije finalne verzije.
+
+
+;Let’s Be Friends!
+Budimo prijatelji!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox je takođe na vašim omiljenim društvenim mrežama. Povežite se nama i pridružite se konverzaciji.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Upravljajte svojim <span>prijavama na newsletter</span>
+
+
+;Subscribe
+Prijava
+
+
+;Unsubscribe
+Odjava
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Uključite ovdje ako želite da budete uklonjeni sa svih Mozilla emailova
+
+
+;Remove me from all Mozilla emails
+Ukloni me sa svih Mozilla emailova
+
+
+;Save Preferences
+Spasi postavke
+
+
+;Thanks for updating your email preferences.
+Hvala na ažuriranju vaših email postavki.
+
+
+;You've been unsubscribed.
+Odjavljeni ste.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Žao nam je vidjeti vas kako odlazite? Da li biste nam rekli zašto nas napuštate?
+
+
+;You send too many emails.
+Šaljete previše emailova.
+
+
+;Your content wasn't relevant to me.
+Vaš sadržaj mi nije bio relevantan.
+
+
+;Your email design was too hard to read.
+Dizajn vašem emaila mi je bio teško čitljiv.
+
+
+;I didn't sign up for this.
+Ja se nisam prijavio na ovo.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Radije pratim vijesti iz Mozille na Facebooku i Twitteru.
+
+
+;Submit
+Pošalji
+
+
+;Thanks for telling us why you’re leaving.
+Hvala što ste nam rekli zašto odlazite.
+
+
+;Mozilla Newsletters
+Mozilla Newsletteri
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Hvala! Molimo da posjetite svoj inbox i potvrdite svoju prijavu.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Primit ćete email od mozilla@e.mozilla.org da potvrdite vašu prijavu. Ukoliko ga ne vidite, provjerite vaš spam filter. Morate potvrditi svoju prijavu da biste dobijali naš newsletter.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Molimo da dodate našu adresu: mozilla@e.mozilla.org u vaš adresar kako biste osigurali da naši emailovi uvijek dospiju u vaš inbox.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Get Firefox news
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+YOUR EMAIL HERE
+
+
+# Button
+;Sign me up
+Prijavi me
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

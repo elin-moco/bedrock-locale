@@ -1,0 +1,80 @@
+## active ##
+# Used for the new http://www.mozilla.org/firefox/new
+;Firefox for desktop
+Masaüstü için Firefox
+
+
+;Different by design
+Felsefesi farklı
+
+
+;Proudly<br />non-profit
+Kâr amacı <br />gütmez
+
+
+;Innovating<br />for you
+Tüm yenilikleri <br />sizin için
+
+
+;Fast, flexible,<br />secure
+Hızlı, esnek, <br />güvenli
+
+
+;As a non-profit, we’re free to innovate on your behalf without any pressure to compromise. You’re going to love the difference.
+Kâr amacı gütmeyen bir kuruluş olarak, ilkelerimizden taviz vermeden ve baskı görmeden sizin için yenilikler yapmakta özgürüz. Farkımızı seveceksiniz.
+
+
+;Firefox screenshot
+Firefox ekran görüntüsü
+
+
+;Thanks for downloading Firefox!
+Firefox'u indirdiğiniz için teşekkürler!
+
+
+;Start the process by clicking Run.
+Çalıştır'a tıklayarak işlemi başlatın.
+
+
+;Your download should begin automatically. If not, <a id="%s" href="">click here</a>. It could take a few minutes, but it’s worth the wait.
+İndirme işlemi otomatik olarak başlayacaktır. Başlamazsa <a id="%s" href="">buraya tıklayın</a>. Birkaç dakika sürebilir ama beklediğinize değecek.
+
+
+;When prompted, drag the Firefox icon into the image of your Applications folder.
+İstendiğinde Firefox simgesini Uygulamalar dizininizin resmi üzerine sürükleyin.
+
+
+;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
+Mozilla Firefox kurulum sihirbazını başlatmak için Çalıştır'a tıklayın. Ardından, ekrandaki adımlar izleyin. (Süreci olabildiğince basitleştirdik.)
+
+
+;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
+Firefox simgesini Uygulamalar dizininden dock'a sürükleyin. Artık web’i kullanmak istediğiniz zaman Firefox’a tıklamanız yeterli!
+
+
+;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
+Artık web'de sörfün tadını çıkarmaya hazırsınız. Web'e erişmek istediğiniz zaman Firefox simgesine çift tıklamanız yeterli.
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+# <Meta description> tag
+;Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
+Özgür web tarayıcısı Mozilla Firefox, bireylerin kontrol hakkını savunan ve web'in geleceğini insanlığın yararı için şekillendirmeye çalışan, kâr amacı gütmeyen küresel bir topluluk tarafından oluşturulmuştur.
+
+
+# file <title> tag
+;Mozilla Firefox Web Browser
+Mozilla Firefox Web Tarayıcısı
+
+

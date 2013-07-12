@@ -1,0 +1,210 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+;Get Monthly News
+Derbyn Newyddion Misol
+
+
+;Your Email Address
+Eich Cyfeiriad E-bost
+
+
+;Text
+Testun
+
+
+;Available Languages
+Ieithoedd sydd ar Gael
+
+
+;Select country
+Dewis gwlad
+
+
+;Whoops! Be sure to enter a valid email address.
+Wps! Cofiwch roi cyfeiriad e-bost dilys.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Darllenwch Bolisi Preifatrwydd Mozilla a chytuno drwy dicio'r blwch.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Rwy'n cytuno i'r <a href="%s">Polisi Preifatrwydd</a>
+
+
+;Sign me up!
+Cofrestru!
+
+
+;We will only send you Mozilla-related information.
+Dim ond gwybodaeth am Mozilla fyddwn ni'n anfon atoch.
+
+
+;Thanks for Subscribing!
+Diolch am Danysgrifio!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Rydym yn edrych ymlaen at rannu gwybodaeth ar sut i gael y gorau allan o Firefox, yn ogystal â newyddion cyffrous am Mozilla a'r ffordd rydym yn gweithio i greu gwell Gwe.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Tanysgrifiwch i'r diweddariadau misol a chadw'n gyfredol gyda newyddion Mozilla, gan gynnwys y ffyrdd o gael y gorau allan o'ch porwr Firefox. Dyma'r ffordd berffaith i ni gadw mewn cysylltiad!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Rydym newydd anfon neges i gadarnhau drwy'r e-bost. Cliciwch ar y ddolen cadarnhau o fewn yr e-bost er mwyn dilysu eich tanysgrifiad i'r rhestr e-bostio hon.
+
+
+;Read all about it in our <span>newsletter</span>
+Darllen ein newyddion yn ein <span>newyddlen</span>
+
+
+;Your newsletter subscription has been confirmed.
+Mae eich tanysgrifiad i'r newyddlen wedi ei gadarnhau.
+
+
+;Format
+Fformat
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Dyna ni! <span>Ond Arhoswch, Mae yna Ragor</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Eisiau derbyn y wybodaeth fwyaf perthnasol? Dywedwch wrthym ychydig amdanoch chi eich hun. A tra bo chi yma, tanysgrifiwch i newyddion eraill Mozilla.
+
+
+;Firefox & You
+Firefox & You {ok}
+
+
+;Our Other Newsletters:
+Ein Newyddlenni Eraill:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Derbyn y wybodaeth ddiweddaraf ar sut mae cael y gorau allan o'ch hoff borwr.
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Dysgu am yr ychwanegion newydd gorau a nodweddion Firefox symudol.
+
+
+;Beta News
+Beta News {ok}
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Darllen am nodweddion diweddaraf Firefox ar y bwrdd gwaith a symudol cyn eu rhyddhau'n derfynnol.
+
+
+;Let’s Be Friends!
+Bod yn Ffrind!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Mae Firefox hefyd ar eich hoff wefannau rhwydweithio cymdeithasol. Cysylltwch â ni ac ymuno yn y sgwrs.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Rheoli eich <span>Tanysgrifiadau Newyddlen</span>
+
+
+;Subscribe
+Tanysgrifio
+
+
+;Unsubscribe
+Dad-danysgrifio
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Ticiwch yma os hoffech chi gael eich tynnu oddi ar holl restrau e-bostio Mozilla
+
+
+;Remove me from all Mozilla emails
+Tynnu oddi ar holl e-byst Mozilla
+
+
+;Save Preferences
+Cadw Dewisiadau
+
+
+;Thanks for updating your email preferences.
+Diolch am ddiweddaru eich dewisiadau e-bost.
+
+
+;You've been unsubscribed.
+Rydych wedi eich dad-danysgrifio.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Rydym yn flin o'ch gweld yn mynd. Fyddech chi'n fodlon dweud pam rydych yn gadael?
+
+
+;You send too many emails.
+Rydych yn anfon gormod o e-byst.
+
+
+;Your content wasn't relevant to me.
+Doedd y cynnwys ddim yn berthnasol i mi.
+
+
+;Your email design was too hard to read.
+Roedd cynllun yr e-bost yn rhy anodd ei ddarllen.
+
+
+;I didn't sign up for this.
+Doeddwn i ddim wedi gofyn am hyn.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Rwy'n cadw cysylltiad â Mozilla drwy Facebook a Twitter yn lle hynny.
+
+
+;Submit
+Cyflwyno
+
+
+;Thanks for telling us why you’re leaving.
+Diolch am ddweud pam rydych yn gadael.
+
+
+;Mozilla Newsletters
+Newyddlen Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Diolch! Gwiriwch eich Blwch Derbyn i gadarnhau eich tanysgrifiad.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Byddwch yn derbyn e-bost oddi wrth mozilla@e.mozilla.org i gadarnhau eich tanysgrifiad. Os nad yw i'w weld, gwiriwch eich hidl sbam. Rhaid i chi gadarnhau eich tanysgrifiad er mwyn derbyn y newyddlen.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Gwnewch yn siŵr eich bod yn ychwanegu ein cyfeiriad anfon: mozilla@e.mozilla.org i'ch llyfr cyfeiriadau er mwyn gwneud yn siŵr eich bod yn cyrraedd eich Blwch Derbyn.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Derbyn newyddion Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+EICH E-BOST YMA
+
+
+# Button
+;Sign me up
+Cofrestru
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Rwy'n iawn gyda chi'n trin y wybodaeth yma fel sy'n cael ei esbonio yn eich <a href="%s">Polisi Preifatrwydd</a>

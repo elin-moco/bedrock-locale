@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+মাহেকীয়া বাতৰি প্ৰাপ্ত কৰক
+
+
+;Your Email Address
+আপোনাৰ ইমেইল ঠিকনা
+
+
+;Text
+লিখনী
+
+
+;Available Languages
+উপলব্ধ ভাষাসমূহ
+
+
+;Select country
+দেশ নিৰ্বাচন কৰক
+
+
+;Whoops! Be sure to enter a valid email address.
+ইচ্ছ! এটা বৈধ ইমেইল ঠিকনা সোমাবলে নিশ্চিত হওক।
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+অনুগ্ৰহ কৰি  Mozilla গোপনীয়তা নীতি পঢ়ক আৰু বাকচটো ক্লিক কৰি সন্মত হওক।
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+মই <a href="%s">গোপনীয়তা নীতি</a> লে সন্মত হয়
+
+
+;Sign me up!
+মোক ছাইন আপ কৰক!
+
+
+;We will only send you Mozilla-related information.
+আমি আপোনাক কেৱল Mozilla-প্ৰাসংগিক তথ্যহে পঠাম।
+
+
+;Thanks for Subscribing!
+স্বাক্ষৰ কৰাৰ বাবে ধন্যবাদ!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+আমি Firefox ৰ পৰা আৰু অধিক প্ৰাপ্ত কৰিবলে অতি শিঘ্ৰে সহায় &amp; কিটিপসমূহ , লগতে Mozilla ৰ বিষয়ে কিছুমান আলোড়িত খবৰ আৰু এটা শ্ৰেয় ৱেব সৃষ্টি কৰিবলে আমি কিধৰণে কাম কৰোঁ সেয়া অংশীদাৰী কৰালে চাই আছো।
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+মাহেকীয়া উন্নয়নসমূহলে স্বাক্ষৰ কৰক আৰু Mozilla বাতৰিৰ সৈতে সংযুক্ত থাকক, আপোনাৰ Firefox ব্ৰাউছাৰৰ পৰা সৰ্বাধিক প্ৰাপ্ত কৰিবলে শেহতীয়া কিটিপসমূহ অন্তৰ্ভুক্ত কৰাকৈ। সংযোগত থাকিবলে এইটোৱে সৰ্বোত্তম পদ্ধতি!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+আমি এইমাত্ৰ ইমেইল দ্বাৰা আপোনাক এটা সুনিশ্চিতকৰণ বাৰ্তা পঠাইছো। এই মেইলিং তালিকালে আপোনাৰ স্বাক্ষৰণ বৈধ কৰিবলে এই সুনিশ্চিতকৰণ সংযোগত ক্লিক কৰক।
+
+
+;Read all about it in our <span>newsletter</span>
+ইয়াৰ বিষয়ে সকলো আমাৰ <span>বাতৰিকাকত</span> ত পঢ়ক
+
+
+;Your newsletter subscription has been confirmed.
+আপোনাৰ বাতৰিকাকত স্বাক্ষৰণ সুনিশ্চিত কৰা হৈছে।
+
+
+;Format
+বিন্যাস
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+আপুনি সাঁজু! <span>কিন্তু ৰ'ব, আৰু আছে</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+আটাইতকৈ প্ৰাসংগিক তথ্য বিচাৰে? আপোনাৰ বিষয়ে আমাক আৰু অলপ কওক। আৰু ইয়াত থকা অৱস্থাত, অন্য Mozilla বাতৰিৰ বাবে ছাইন আপ কৰক।
+
+
+;Firefox & You
+Firefox আৰু আপুনি
+
+
+;Our Other Newsletters:
+আমাৰ অন্য বাতৰিকাকতসমূহ:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+আপোনাৰ পছন্দৰ ব্ৰাউছাৰৰ পৰা সৰ্বাধিক প্ৰাপ্ত কৰিবলে শেহতীয়া কিটিপসমূহ প্ৰাপ্ত কৰক।
+
+
+;Firefox Mobile
+Firefox মবাইল
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Firefox মবাইলৰ বাবে নতুন এড-অনসমূহ আৰু বৈশিষ্টসমূহৰ বিষয়ে জানক।
+
+
+;Beta News
+Beta বাতৰি
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+সৰ্বশেষ উন্মোচনৰ আগত Firefox ডেস্কটপ আৰু মবাইলৰ বাবে শেহতীয়া বৈশিষ্টসমূহৰ বিষয়ে পঢ়ক।
+
+
+;Let’s Be Friends!
+আহ'ক আমি বন্ধু হঁও!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox আপোনাৰ পছন্দৰ সামাজিক নেটৱাৰ্কিং ছাইটসমূহতো আছে। আমাৰ সৈতে সংযুক্ত হঁওক আৰু কথোপকথনত অংশগ্ৰহণ কৰক।
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+আপোনাৰ <span>বাতৰিকাকত স্বাক্ষৰণসমূহ</span> ব্যৱস্থাপনা কৰক
+
+
+;Subscribe
+স্বাক্ষৰ কৰক
+
+
+;Unsubscribe
+অস্বাক্ষৰ কৰক
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+ইয়াত চেক কৰক যদি আপুনি সকলো Mozilla ইমেইলসমূহৰ পৰা আতৰিব বিচাৰে
+
+
+;Remove me from all Mozilla emails
+মোক সকলো Mozilla ইমেইলৰ পৰা আতৰাওক
+
+
+;Save Preferences
+পছন্দসমূহ সংৰক্ষণ কৰক
+
+
+;Thanks for updating your email preferences.
+আপোনাৰ ইমেইল পছন্দসমূহ আপডেইট কৰাৰ বাবে ধন্যবাদ।
+
+
+;You've been unsubscribed.
+আপোনাক অস্বাক্ষৰ কৰা হৈছে।
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+আপোনাক যোৱা দেখি আমি দুঃখিত হৈছো। আপুনি কিয় গৈ আছে আমাক ক'ব নে?
+
+
+;You send too many emails.
+আপুনি বহু বেছি ইমেইল পঠায়।
+
+
+;Your content wasn't relevant to me.
+আপোনাৰ সমল মোলে প্ৰাসংগিক নাছিল।
+
+
+;Your email design was too hard to read.
+আপোনাৰ ইমেইল ৰূপাঙ্কণ পঢ়িবলে কঠিন আছিল।
+
+
+;I didn't sign up for this.
+মই ইয়াৰ বাবে ছাইন আপ কৰা নাই।
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+মই ইয়াৰ পৰিৱৰ্তে Mozilla ৰ সৈতে Facebook আৰু Twitter ত সংযুক্ত আছোঁ।
+
+
+;Submit
+জমা দিয়ক
+
+
+;Thanks for telling us why you’re leaving.
+আপোনাৰ এৰাৰ কাৰণ আমাক জনোৱাৰ বাবে ধন্যবাদ।
+
+
+;Mozilla Newsletters
+Mozilla বাতৰিকাকতবোৰ
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ধন্যবাদ! আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে অনুগ্ৰহ কৰি আপোনাৰ ইনবক্স নিৰীক্ষণ কৰক।
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিবলে আপুনি mozilla@e.mozilla.org ৰ পৰা এটা ইমেইল প্ৰাপ্ত কৰিব। যদি আপুনি ইয়াক দেখি নাপায়, আপোনাৰ স্পেম ফিল্টাৰ নিৰীক্ষণ কৰক। আমাৰ বাতৰিকাকত গ্ৰহণ কৰিবলে আপুনি আপোনাৰ স্বাক্ষৰণ সুনিশ্চিত কৰিব লাগিব।
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+অনুগ্ৰহ কৰি আমালৈ পঠোৱা ঠিকনা: mozilla@e.mozilla.org আপোনাৰ ঠিকনা বহীলৈ যোগ কৰাটো সুনিশ্চিত কৰিব যাতে আমাৰ মেইল সদায় আপোনাৰ ইনবক্সত আহিব পাৰে।
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Firefox বাতৰি প্ৰাপ্ত কৰক
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+আপোনাৰ ইমেইল ইয়াত
+
+
+# Button
+;Sign me up
+মোক ছাইন আপ কৰক
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

@@ -1,0 +1,20 @@
+Danke für Ihre E-Mail und willkommen in der Mozilla-Gemeinschaft. Wir freuen uns, dass Sie bei unserer Übersetzungsarbeit (L10n) mitmachen möchten.
+
+Mitarbeit bei unseren Übersetzungen ist einfach. Sie können mit fünf einfachen Schritten ins Projekt einsteigen. Besuchen Sie bitte die Seite, die Ihnen bei Ihren ersten Schritten helfen soll.
+
+http://wiki.mozilla.org/L10n:Contribute
+
+Könnten Sie mir bitte außerdem ein paar Informationen über Sie zukommen lassen, wie Ihre Sprachkenntnisse, das Land, in dem Sie leben und Ihren technischen Hintergrund?
+
+Sie können auch die folgenden Wiki-Seiten besuchen, um die Details unserer Übersetzungsarbeit kennen zu lernen.
+
+Eine gute Beschreibung des gesamten Prozesses:
+
+https://wiki.mozilla.org/L10n:Localization_Process 
+
+Der L10n-Schnellstartleitfaden: Eine Quelle technischer Anleitungen, die Sie kennen sollten, wenn Sie tiefer einsteigen.
+
+https://developer.mozilla.org/en/Localization_Quick_Start_Guide
+ 
+Ich freue mich, von Ihnen zu hören
+Jeff

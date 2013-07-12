@@ -1,0 +1,202 @@
+## active ##
+## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/ ##
+# Page <title> tag
+;Plugin Check &amp; Updates
+Verifica plugin e aggiornamenti
+
+
+# This is a button telling the user to update their plugin
+;Update Now
+Aggiorna ora
+
+
+# This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+;Research
+Verifica
+
+
+# This is a button informing the user that their plugin is up to date
+;Up to Date
+Aggiornato
+
+
+# L10n: This is alt text used on plugin icon images
+;Plugin icon
+Icona del plugin
+
+
+# This is the string used to indicate that the plugin is unknown
+;unknown
+Sconosciuto
+
+
+# This is the string used to indicate that the plugin is vulnerable
+;vulnerable
+A rischio
+
+
+# Main title
+;Check Your Plugins
+Verifica i tuoi plugin
+
+
+;Keeping your plugins up to date helps Firefox run safely and smoothly.
+L'aggiornamento costante dei plugin contribuisce a mantenere Firefox sicuro e scattante.
+
+
+;Plugin Status
+Stato del plugin
+
+
+;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+Il supporto di <strong>Internet Explorer</strong> alla verifica dei plugin presenta delle limitazioni. Utilizza anche Strumenti &gt; Gestione componenti aggiuntivi
+
+
+;Step 1: Click Update to update a plugin.
+Passaggio 1: fai clic su Aggiorna per aggiornare un plugin.
+
+
+;Step 2: Complete all recommended updates before restarting your browser.
+Passaggio 2: installa tutti gli aggiornamenti consigliati prima di riavviare il browser.
+
+
+;Potentially vulnerable plugins
+Plugin potenzialmente a rischio
+
+
+;Plugin
+Plugin {ok}
+
+
+;Status
+Stato
+
+
+;Action
+Azione
+
+
+;Outdated Plugins
+Plugin non aggiornati
+
+
+;Unknown Plugins
+Plugin sconosciuti
+
+
+;These plugins are up to date
+I seguenti plugin sono aggiornati
+
+
+;Back to Top
+Torna in alto
+
+
+;Frequently Asked Questions
+Domande più frequenti
+
+
+;What is a plugin?
+Che cos'è un plugin?
+
+
+;Plugins power videos, animation and games
+I plugin permettono di visualizzare filmati, animazioni e giochi.
+
+
+;They're built outside of Firefox by companies like Adobe Systems and Apple
+Sono realizzati da aziende estranee a Firefox come Adobe Systems e Apple.
+
+
+;Plugins don't always update automatically.
+I plugin non si aggiornano sempre in modo automatico.
+
+
+;Why should I update my plugins?
+Perché dovrei aggiornare i plugin?
+
+
+;Old plugins can interrupt browsing and waste your time.
+I plugin non aggiornati possono creare problemi alla navigazione e farti perdere del tempo.
+
+
+;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+I plugin non aggiornati <strong>aumentano il rischio</strong> di attacchi da parte di malware, virus e altre minacce per la tua sicurezza.
+
+
+;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>Le versioni aggiornate dei plugin sono perfezionate</strong> per rendere il Web <strong>migliore e più sicuro</strong>.
+
+
+;Screenshot of Add-Ons window
+Screenshot della finestra Componenti aggiuntivi
+
+
+;How can Firefox help me?
+In che modo può aiutarmi Firefox?
+
+
+;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
+In futuro Firefox sarà in grado di aggiornare automaticamente i plugin. Nel frattempo ricordati di verificare periodicamente questa pagina e aggiornare i plugin installati per garantire la tua sicurezza.
+
+
+;Which Plugins do I have?
+Quali plugin ho installato?
+
+
+;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
+Abbiamo rilevato automaticamente i plugin nell'elenco precedente, per visualizzare tutti i plugin installati in Firefox segui queste istruzioni:
+
+
+;Open the Tools menu.
+Apri il menu Strumenti.
+
+
+;Choose Add-ons.
+Seleziona Componenti aggiuntivi.
+
+
+;Click the plugins tab.
+Fai clic sulla scheda plugin.
+
+
+;Want to spread the word?
+Fai conoscere questo sito
+
+
+;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Vuoi avere la certezza che i tuoi amici siano al sicuro durante la navigazione? Visita <a href="%(url)s">Firefox Affiliates</a> per ottenere un badge "plugin check" per il tuo sito.
+
+
+;How do I disable a plugin?
+Come disattivo un plugin?
+
+
+;In Firefox:
+In Firefox: {ok}
+
+
+;Click on a plugin in the list.
+Seleziona un plugin nell'elenco.
+
+
+;Click the Disable button.
+Fai clic sul pulsante Disattiva.
+
+
+;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
+Attenzione: se disattivi un plugin non sarai più in grado di compiere alcune operazioni. Ad esempio, disattivando Flash non potrai più visualizzare i filmati su alcuni siti di streaming video.
+
+
+;Mozilla Support
+Supporto per Mozilla
+
+
+;Have more questions?
+Altre domande?
+
+
+;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Visita <a href="%(sumo_url)s">support.mozilla.org</a> per ottenere supporto.
+
+

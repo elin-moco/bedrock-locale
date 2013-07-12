@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Få månedlige nyheder
+
+
+;Your Email Address
+Din mailadresse
+
+
+;Text
+Tekst
+
+
+;Available Languages
+Tilgængelige sprog
+
+
+;Select country
+Vælg land
+
+
+;Whoops! Be sure to enter a valid email address.
+Ups! Kontrollér, at du har indtastet en gyldig mailadresse.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Læs Mozillas privatlivspolitik, og acceptér den ved at sætte flueben i boksen.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Jeg accepterer <a href="%s">privatlivspolitikken</a>
+
+
+;Sign me up!
+Tilmeld mig!
+
+
+;We will only send you Mozilla-related information.
+Vi vil udelukkende sende dig Mozilla-relateret information.
+
+
+;Thanks for Subscribing!
+Tak for din tilmelding!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Vi ser frem til snarest at dele tips og tricks om, hvordan du får mest muligt ud af Firefox samt spændende nyheder om Mozilla, og hvordan vi arbejder på at skabe et bedre web.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Modtag månedlige opdateringer, og hold dig ajour med Mozilla-nyheder, herunder de nyeste tips og tricks til at få mest muligt ud af din Firefox-browser. Det er den perfekte måde for os at holde kontakt!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Vi har lige sendt dig en bekræftelse via mail. Klik på linket i mailen for at bekræfte din tilmelding til mailinglisten.
+
+
+;Read all about it in our <span>newsletter</span>
+Læs mere i vores <span>nyhedsbrev</span>
+
+
+;Your newsletter subscription has been confirmed.
+Dit abonnementet på nyhedsbrevet er blevet bekræftet.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Du er klar! <span>Men vent, der er mere</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Vil du have de mest relevante informationer? Fortæl os lidt mere om dig selv. Og mens du er her, så tilmeld dig andre Mozilla-nyheder.
+
+
+;Firefox & You
+Firefox & dig
+
+
+;Our Other Newsletters:
+Vores andre nyhedsbreve:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Få de nyeste tips og tricks om, hvordan du får mest ud af din yndlings-browser.
+
+
+;Firefox Mobile
+Mobilen
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Læs om de hotteste nye tilføjelser og funktioner til Mobilen.
+
+
+;Beta News
+Beta-nyheder
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Læs om de nyeste funktioner i Firefox og Mobilen inden den endelige udgivelse.
+
+
+;Let’s Be Friends!
+Lad os være venner!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox er også på dine foretrukne sociale netværkssteder. Slut dig til os og deltag i samtalen.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Håndter dine <span>abonnementer på nyhedsbreve</span>
+
+
+;Subscribe
+Abonner
+
+
+;Unsubscribe
+Afmeld abonnement
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Sæt flueben her, hvis du vil frameldes alle mails fra Mozilla
+
+
+;Remove me from all Mozilla emails
+Frameld mig fra alle mails fra Mozilla
+
+
+;Save Preferences
+Gem præferencer
+
+
+;Thanks for updating your email preferences.
+Tak fordi du opdaterede dine mailpræferencer.
+
+
+;You've been unsubscribed.
+Du er blevet frameldt.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Vi er kede af at du framelder dig. Vil du fortælle os hvorfor?
+
+
+;You send too many emails.
+I sender for mange mails.
+
+
+;Your content wasn't relevant to me.
+Indholdet var ikke relevant for mig.
+
+
+;Your email design was too hard to read.
+Mailens udformning gjorde den svær at læse.
+
+
+;I didn't sign up for this.
+Jeg har ikke tilmeldt mig.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Jeg holder kontakten med Mozilla på Facebook og Twitter i stedet.
+
+
+;Submit
+Indsend
+
+
+;Thanks for telling us why you’re leaving.
+Tak fordi du fortæller os, hvorfor du framelder dig.
+
+
+;Mozilla Newsletters
+Nyhedsbreve fra Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Tak! Tjek din indbakke, så du kan bekræfte din tilmelding.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Du vil modtage en bekræftelsesmail fra mozilla@e.mozilla.org. Hvis du ikke kan se mailen, så tjek din spam-mappe. Du skal bekræfte din tilmelding for at modtage vores nyhedsbrev.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Tilføj vores afsenderadresse: mozilla@e.mozilla.org til din adressebog, så undgår du, at vores mails bliver fanget af dit spamfilter.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Få nyheder om Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+DIN MAILADRESSE HER
+
+
+# Button
+;Sign me up
+Tilmeld mig
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Det er helt fint, at I håndterer mine oplysninger som beskrevet i jeres <a href="%s">Privatlivspolitik</a>
+
+

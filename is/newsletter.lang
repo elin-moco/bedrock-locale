@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Fá fréttir mánaðarlega
+
+
+;Your Email Address
+Tölvupóstfangið þitt
+
+
+;Text
+Texti
+
+
+;Available Languages
+Tiltæk tungumál
+
+
+;Select country
+Veldu land
+
+
+;Whoops! Be sure to enter a valid email address.
+Úps! Vertu viss um að þú hafir slegið inn rétt póstfang.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Lestu hvernig Mozilla fer með persónuupplýsingar og samþykktu það með því að smella á boxið.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Ég samþykki <a href="%s">meðferð persónuupplýsinga</a>
+
+
+;Sign me up!
+Skráðu mig!
+
+
+;We will only send you Mozilla-related information.
+Við sendum aðeins upplýsingar sem tengjast Mozilla.
+
+
+;Thanks for Subscribing!
+Takk fyrir að skrá þig!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Við hlökkum til að senda þér ábendingar og ýmis konar snjallræði fyrir Firefox, og einnig merkilegar fréttir um Mozilla og hvernig við erum að vinna að því að gera vefinn betri.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Gerstu áskrifandi að mánaðarlegum uppfærslum og lestu nýjustu fréttir frá Mozilla, t.d nýjar ábendingar sem hjálpa þér að fá það mesta út úr Firefox vafranum. Þetta er besta leiðin til að fylgjast með!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Búið er að senda þér staðfestingarpóst. Smelltu á tengilinn í staðfestingarpóstinum til að staðfesta áskriftina að póstlistanum.
+
+
+;Read all about it in our <span>newsletter</span>
+Lestu allt um þetta í <span>fréttablaðinu</span> okkar
+
+
+;Your newsletter subscription has been confirmed.
+Búið er að staðfesta áskriftina að fréttabréfinu.
+
+
+;Format
+Sniðmát
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Allt er tilbúið! <span>En bíddu aðeins, það er til meira</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Viltu fá áhugaverðustu fréttirnar? Segðu okkur aðeins meira frá þér. Og á meðan þú ert hérna, skráðu þig endilega fyrir öðrum Mozilla fréttum.
+
+
+;Firefox & You
+Firefox og þú
+
+
+;Our Other Newsletters:
+Önnur fréttabréf:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Fáðu nýjustu ábendingarnar og snjallræðin þannig að þú fáir sem mest út úr uppáhalds vafranum þínum.
+
+
+;Firefox Mobile
+Firefox fyrir farsíma
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Lestu um nýjustu viðbæturnar og eiginleikana fyrir Firefox fyrir farsíma.
+
+
+;Beta News
+Beta fréttir
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lestu um nýjustu hlutina fyrir Firefox á tölvu og farsíma áður en lokaútgáfan er gerð.
+
+
+;Let’s Be Friends!
+Verum vinir!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox er einnig á félagsnetum. Kíktu á okkur og taktu þátt í samræðunum.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Breyttu <span>áskriftum að fréttabréfum</span>
+
+
+;Subscribe
+Gerast áskrifandi
+
+
+;Unsubscribe
+Hætta í áskrift
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Hakaðu við hér ef þú vilt ekki fá neinn póst frá Mozilla
+
+
+;Remove me from all Mozilla emails
+Fjarlægja mig úr öllum pósti frá Mozilla
+
+
+;Save Preferences
+Vista stillingar
+
+
+;Thanks for updating your email preferences.
+Takk fyrir að uppfæra tölvupóstsstillingar.
+
+
+;You've been unsubscribed.
+Búði er að afskrá þig af listanum.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Okkur þykir miður að þú sért að hætta. Viltu kannski segja okkur af hverju þú ert að hætta?
+
+
+;You send too many emails.
+Þið sendið of marga tölvupósta.
+
+
+;Your content wasn't relevant to me.
+Innihaldið var ekki áhugavert fyrir mig.
+
+
+;Your email design was too hard to read.
+Hönnun tölvupóstsins var of flókinn.
+
+
+;I didn't sign up for this.
+Ég skráði mig ekki á listann.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Ég verð í tengslum við Mozilla á Facebook og Twitter í staðinn.
+
+
+;Submit
+Senda
+
+
+;Thanks for telling us why you’re leaving.
+Takk fyrir að láta okkur vita af hverju þú ert hættur.
+
+
+;Mozilla Newsletters
+Mozilla fréttabréf
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Takk! Athugaðu póst í innhólfi til að staðfesta áskriftina.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Þú færð póst frá mozilla@e.mozilla.org til að staðfesta áskriftina. Ef þú sérð ekki póstinn, athugaðu þá ruslpóst möppuna. Þú verður að staðfesta áskriftina til að fá fréttabréfið.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Passaðu að bæta póstfanginu okkar: mozilla@e.mozilla.org við nafnabókin hjá þér til að vera viss um að pósturinn lendi alltaf í innhólfinu.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Gerast áskrifandi að Firefox fréttum
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+ÞITT TÖLVUPÓSTFANG
+
+
+# Button
+;Sign me up
+Skráðu mig
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Ég er sáttur við hvernig gögnin eru meðhöndluð eins og lýst er í <a href="%s">meðferð persónuupplýsinga</a>
+
+

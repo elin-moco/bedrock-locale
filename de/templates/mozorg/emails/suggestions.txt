@@ -1,0 +1,13 @@
+Danke für Ihr Interesse am Geben von Rückmeldung zu Firefox.
+
+Ich würde vorschlagen, Sie probieren eine Testversion der nächsten Firefox-Version aus, um sich die neuesten Funktionen anzusehen, an denen wir arbeiten. Sie finden sie unter
+
+http://www.mozilla.com/firefox/channel/
+
+Nachdem Sie die Version getestet haben, können Sie uns unter
+
+http://input.mozilla.com/release/feedback
+
+Ihre Meinung sagen.
+
+Jay

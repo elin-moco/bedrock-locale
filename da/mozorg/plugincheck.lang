@@ -1,0 +1,201 @@
+## Updated plugincheck page at url: https://www-dev.allizom.org/b/plugincheck/ ##
+# Page <title> tag
+;Plugin Check &amp; Updates
+Plugin Check &amp; Updates
+
+
+# This is a button telling the user to update their plugin
+;Update Now
+Opdater nu
+
+
+# This is a button informing the user of an unknown plugin and provides a URL to research the status of the plugin
+;Research
+Undersøg
+
+
+# This is a button informing the user that their plugin is up to date
+;Up to Date
+Opdateret
+
+
+# L10n: This is alt text used on plugin icon images
+;Plugin icon
+Plugin icon
+
+
+# This is the string used to indicate that the plugin is unknown
+;unknown
+unknown
+
+
+# This is the string used to indicate that the plugin is vulnerable
+;vulnerable
+sikkerhedsproblem
+
+
+# Main title
+;Check Your Plugins
+Kontroller dine plugins
+
+
+;Keeping your plugins up to date helps Firefox run safely and smoothly.
+Keeping your plugins up to date helps Firefox run safely and smoothly.
+
+
+;Plugin Status
+Plugin Status
+
+
+;Plugin Check <strong>support for Internet Explorer is limited</strong>. Also use Tools &gt; Manage Addons
+Understøttelse af <strong>plugin-kontrol til Internet Explorer er begrænset</strong>. Brug også Funktioner &gt; Administrer tilføjelsesprogrammer
+
+
+;Step 1: Click Update to update a plugin.
+Trin 1: Klik på Opdater for at opdatere et plugin.
+
+
+;Step 2: Complete all recommended updates before restarting your browser.
+Trin 2: Fuldend alle anbefalede opdateringer før du genstarter din browser.
+
+
+;Potentially vulnerable plugins
+Plugins med potentielle sikkerhedsproblemer
+
+
+;Plugin
+Plugin
+
+
+;Status
+Tilstand
+
+
+;Action
+Handling
+
+
+;Outdated Plugins
+Outdated Plugins
+
+
+;Unknown Plugins
+Unknown Plugins
+
+
+;These plugins are up to date
+These plugins are up to date
+
+
+;Back to Top
+Back to Top
+
+
+;Frequently Asked Questions
+Ofte stillede spørgsmål
+
+
+;What is a plugin?
+Hvad er et plugin?
+
+
+;Plugins power videos, animation and games
+Plugins bruges til videoer, animationer og spil.
+
+
+;They're built outside of Firefox by companies like Adobe Systems and Apple
+De laves uden for Firefox af firmaer som Adobe Systems og Apple.
+
+
+;Plugins don't always update automatically.
+Plugins opdaterer ikke altid automatisk.
+
+
+;Why should I update my plugins?
+Hvorfor skal jeg opdatere plugins?
+
+
+;Old plugins can interrupt browsing and waste your time.
+Gamle plugins kan få computeren til at gå ned og spilde din tid.
+
+
+;Old plugins <strong>increase your risk</strong> for attack by malware, viruses, and other security threats.
+Gamle plugins <strong>øger risikoen</strong> for angreb fra ondsindet software, vira og andre sikkerhedstrusler.
+
+
+;<strong>Updated plugins have improvements</strong> that make the web <strong>better and safer</strong> for you.
+<strong>Opdaterede plugins indeholder forbedringer</strong>, som gør nettet <strong>bedre og mere sikkert</strong> for dig.
+
+
+;Screenshot of Add-Ons window
+Screenshot of Add-Ons window
+
+
+;How can Firefox help me?
+Hvordan kan Firefox hjælpe mig?
+
+
+;In the future, Firefox will update plugins for you. Until then, you should regularly check this page and update your plugins to stay safe.
+I fremtiden vil Firefox opdatere plugins for dig. Indtil da, bør du tjekke denne side regelmæssigt og opdatere dine plugins for holde din computer sikker.
+
+
+;Which Plugins do I have?
+Hvilke plugins har jeg?
+
+
+;We automatically detected your plugins above, to view your installed plugins in Firefox follow these steps:
+Vi detekterede automatisk dine plugins herover. For at se dine installerede plugins i Firefox, følg disse trin:
+
+
+;Open the Tools menu.
+Åbn menuen Funktioner.
+
+
+;Choose Add-ons.
+Vælg Tilføjelser.
+
+
+;Click the plugins tab.
+Klik på fanebladet Plugins.
+
+
+;Want to spread the word?
+Want to spread the word?
+
+
+;Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+Help your friends stay safe online! Visit <a href="%(url)s">Firefox Affiliates</a> to get a plugin check badge for your site.
+
+
+;How do I disable a plugin?
+Hvordan deaktiverer jeg et plugin?
+
+
+;In Firefox:
+I Firefox:
+
+
+;Click on a plugin in the list.
+Klik på et plugin i listen.
+
+
+;Click the Disable button.
+Klik på knappen Deaktiver.
+
+
+;Caution: disabling a plugin means that you will no longer be able to do certain things. For example, if you disable Flash, you will not be able to watch videos on YouTube.
+Advarsel: Når du deaktiverer et plugin vil du ikke længere kunne gøre visse ting. Hvis du fx deaktiverer Flash, kan du ikke længere se vidoer på populære videosider.
+
+
+;Mozilla Support
+Mozilla Support
+
+
+;Have more questions?
+Har du flere spørgsmål?
+
+
+;Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+Visit <a href="%(sumo_url)s">support.mozilla.org</a> for more help!
+
+

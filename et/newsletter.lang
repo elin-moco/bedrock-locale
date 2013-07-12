@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Telli igakuised uudised
+
+
+;Your Email Address
+Sinu e-posti aadress
+
+
+;Text
+Tekst
+
+
+;Available Languages
+Saadaval olevad keeled
+
+
+;Select country
+Vali riik
+
+
+;Whoops! Be sure to enter a valid email address.
+Ups! Veendu, et sisestatud e-posti aadress on korrektne.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Palun loe Mozilla privaatsuspoliitikat ja märgista nõustumisel märkeruut.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Nõustun <a href="%s">privaatsuspoliitika</a> tingimustega
+
+
+;Sign me up!
+Tellin!
+
+
+;We will only send you Mozilla-related information.
+Saadame sulle vaid Mozillaga seotud infot.
+
+
+;Thanks for Subscribing!
+Täname tellimise eest!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Ootame kannatamatult sinuga nippide ja trikkide jagamist, mis aitavad sul Firefoxist parimat võtta. Samuti jagame põnevaid uudiseid Mozillast ning sellest, kuidas parema veebi loomise kallal töötame.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Telli igakuine uudiskiri ning ole kursis Mozilla uudistega, kaasa arvatud uusimate nippide ja trikkidega Firefoxi veebilehitsejast parima võtmiseks. See on ideaalne võimalus meiega ühenduses olla!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Saatsime sulle äsja e-postiga kontrollsõnumi. Klõpsa kirjas olevale kontroll-lingile ning kinnita postiloendi tellimus.
+
+
+;Read all about it in our <span>newsletter</span>
+Loe rohkem meie <span>uudiskirjast</span>
+
+
+;Your newsletter subscription has been confirmed.
+Uudiskirja tellimus on kinnitatud.
+
+
+;Format
+Vorming
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Seadistamine on lõppenud! <span>Kuid oota, see polnud kõik.</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Soovid saada kõige asjakohasemat infot? Räägi meile endast veidi rohkem ning telli veel teisigi Mozilla uudiseid.
+
+
+;Firefox & You
+Firefox & sina
+
+
+;Our Other Newsletters:
+Meie teised uudiskirjad:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Saa teada uutest nippidest ja trikkidest, mis aitavad sul oma lemmikbrauserist parima võtta.
+
+
+;Firefox Mobile
+Firefoxi mobiiliversioon
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Õpi tundma Firefoxi mobiiliversiooni ägedamaid uusi lisasid ja võimalusi.
+
+
+;Beta News
+Beeta uudised
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Loe Firefoxi töölaua- ja mobiiliversiooni uute võimaluste kohta enne nende lõplikku väljalaset.
+
+
+;Let’s Be Friends!
+Oleme sõbrad!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox on esindatud ka sinu lemmiksuhtlusvõrgustikes. Ole meiega ühenduses ning võta vestlustest osa.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Halda <span>uudiskirjade tellimusi</span>
+
+
+;Subscribe
+Telli
+
+
+;Unsubscribe
+Lõpeta tellimine
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Klõpsa siia, kui soovid loobuda kõigist Mozilla kirjadest.
+
+
+;Remove me from all Mozilla emails
+Eemaldage mind kõigi Mozilla kirjade saajate hulgast
+
+
+;Save Preferences
+Salvesta eelistused
+
+
+;Thanks for updating your email preferences.
+Täname eelistuste uuendamise eest.
+
+
+;You've been unsubscribed.
+Sinu tellimus on lõpetatud.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Meil on kahju, et loobusid uudiskirjast. Kas ütleksid meile, miks sa nii otsustasid?
+
+
+;You send too many emails.
+Te saadate liiga palju kirju.
+
+
+;Your content wasn't relevant to me.
+Teie saadetud sisu polnud minu jaoks asjakohane.
+
+
+;Your email design was too hard to read.
+Kirjade kujundus oli raskesti loetav.
+
+
+;I didn't sign up for this.
+Ma pole neid tellinud.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Jälgin Mozilla tegemisi hoopis Facebookis ja Twitteris.
+
+
+;Submit
+Valmis
+
+
+;Thanks for telling us why you’re leaving.
+Täname, et avaldasid lahkumise põhjuse.
+
+
+;Mozilla Newsletters
+Mozilla uudiskirjad
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Täname! Palun vaata tellimuse kinnitamiseks oma postkasti.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Saadame sulle tellimuse kinnitamiseks aadressilt mozilla@e.mozilla.org kirja. Kui sa ei leia seda, siis kontrolli ka rämpsposti. Uudiskirja saamiseks pead tellimuse kinnitama.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Palun lisa aadress mozilla@e.mozilla.org oma aadressiraamatusse, siis jõuavad meie kirjad alati sinuni.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Telli Firefoxi uudised
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+SINU E-POSTI AADRESS
+
+
+# Button
+;Sign me up
+Tellin
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Nõustun selle info haldamisega <a href="%s">privaatsuspoliitikas</a> kirjeldatud viisil
+
+

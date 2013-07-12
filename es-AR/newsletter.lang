@@ -1,0 +1,215 @@
+## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Enterate de las novedades mensuales
+
+
+;Your Email Address
+Tu correo electrónico
+
+
+;Text
+Texto
+
+
+;Available Languages
+Idiomas disponibles
+
+
+;Select country
+Elige país
+
+
+;Whoops! Be sure to enter a valid email address.
+¡Ups! Asegurate de escribir una dirección de correo electrónico válida.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Lee la Política de privacidad de Mozilla y seleccioná la casilla si estás de acuerdo.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Estoy de acuerdo con la <a href="%s">Política de privacidad</a>
+
+
+;Sign me up!
+¡Inscribirme!
+
+
+;We will only send you Mozilla-related information.
+Solo te enviaremos información relacionada a Mozilla.
+
+
+;Thanks for Subscribing!
+¡Gracias por suscribirte!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Estamos ansiosos por compartir consejos y trucos para que saques lo mejor de Firefox, además de noticias sobre Mozilla y cómo trabajamos para crear una Web mejor.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Subscribite a las actualizaciones mensuales y seguí al corriente de la noticias de Mozilla, incluyendo los últimos consejos y trucos para obtener lo mejor de tu navegador. ¡Es la forma perfecta para mantenernos en contacto!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Te acabamos de enviar un mensaje de confirmación por correo electrónico. Hacé clic en el enlace de confirmación que te llegará en el correo para validar tu subscripción a esta lista de correo.
+
+
+;Read all about it in our <span>newsletter</span>
+Lee todo acerca de ello en nuestro <span>boletín de noticias</span>
+
+
+;Your newsletter subscription has been confirmed.
+Tu suscripción al boletín de noticias fue confirmada.
+
+
+;Format
+Formato
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+¡Ya estás preparado! <span>Pero esperá, aún hay más</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+¿Querés tener la información más importante? Contanos un poc sobre vos. Y ya que estás acá, suscribite a más noticias de Mozilla.
+
+
+;Firefox & You
+Firefox y tú
+
+
+;Our Other Newsletters:
+Nuestros otros boletines:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Conseguí los últimos consejos y trucos para obetener lo mejor de tu navegador favorito.
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Conocé los últimos complementos y funcionalidades de Firefox mobile.
+
+
+;Beta News
+Noticias Beta
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lee acerca de las últimas funcionalidades para Firefox antes de su salida final.
+
+
+;Let’s Be Friends!
+¡Seamos amigos!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox también está en tus redes sociales favoritas. Conectate con nosotros y unite a la conversación.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Administrá tus <span>suscripciones a los boletines</span>
+
+
+;Subscribe
+Suscribite
+
+
+;Unsubscribe
+Desuscribite
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Marcá esta casilla si querés ser removido de los mensajes de Mozilla
+
+
+;Remove me from all Mozilla emails
+Quitarme de todos los correos de Mozilla
+
+
+;Save Preferences
+Guardar las preferencias
+
+
+;Thanks for updating your email preferences.
+Gracias por actualizar tus preferencias de correo electrónico.
+
+
+;You've been unsubscribed.
+Fuiste desuscripto.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Nos entristece verte ir. ¿Te molestaría decirnos por qué no querés recibir más el boletín?
+
+
+;You send too many emails.
+Envían demasiados mensajes.
+
+
+;Your content wasn't relevant to me.
+El contenido no era interesante para mi.
+
+
+;Your email design was too hard to read.
+El diseño del boletín era demasiado difícil de leer.
+
+
+;I didn't sign up for this.
+No me suscribí por esto.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Me mantendré al tanto de Mozilla en Facebook y Twitter.
+
+
+;Submit
+Enviar
+
+
+;Thanks for telling us why you’re leaving.
+Gracias por decirnos por qué prefieres desuscribirte.
+
+
+;Mozilla Newsletters
+Boletines de Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+¡Gracias! Mirá tu bandeja de entrada para confirmar tu suscripción.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Recibirás un mensaje de correo de mozilla@e.mozilla.org para confirmar tu suscripción. Si no lo ves, mirá en el filtro de spam. Tenés que confirmar tu suscripción para recibir nuestro boletín.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Asegurate de agregar nuestra dirección de correo mozilla@e.mozilla.org a tu libreta de contactos para asegurarte que lleguemos a tu bandeja de entrada.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Obtenés las noticias sobre Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+TU CORREO AQUÍ
+
+
+# Button
+;Sign me up
+¡Inscribirme
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Me parece bien que se gestione esta información según se indica en la <a href="%s">Política de privacidad</a>
+
+

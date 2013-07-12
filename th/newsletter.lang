@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+รับข่าวรายเดือน
+
+
+;Your Email Address
+อีเมลของคุณ
+
+
+;Text
+ข้อความ
+
+
+;Available Languages
+ภาษาที่มี
+
+
+;Select country
+เลือกประเทศ
+
+
+;Whoops! Be sure to enter a valid email address.
+โอ๊ะ! ตรวจสอบให้แน่ใจว่าคุณกรอกอีเมลถูกต้อง
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+โปรดอ่าน นโยบายความเป็นส่วนตัวของ Mozilla และติ๊กกรอกยอมรับ
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+ฉันยอมรับใน <a href="%s">นโยบายความเป็นส่วนตัว</a>
+
+
+;Sign me up!
+บอกรับข่าว!
+
+
+;We will only send you Mozilla-related information.
+เราจะส่งเฉพาะข้อมูลที่เกี่ยวข้องกับ Mozilla เท่านั้น
+
+
+;Thanks for Subscribing!
+ขอบคุณในการบอกรับข่าว!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+เรารอคอยที่จะแบ่งปันเกร็ดและกลเม็ดในการใช้ Firefox ให้เต็มประสิทธิภาพ รวมไปถึงข่าวสารที่น่าสนใจของ Mozilla รวมไปถึงวิธีการที่เราจะสร้างเว็บที่ดีขึ้น ให้กับคุณ
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+บอกรับข่าวรายเดือนเพื่อเกาะติดข่าวที่เกี่ยวข้องกับ Mozilla เช่น กลเม็ดเคล็ดลับล่าสุดในการใช้งาน Firefox ให้มีประสิทธิภาพสูงสุด นี่เป็นหนทางที่ดีที่เราจะใกล้ชิดกัน!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+เราเพิ่งจะส่งข้อความยืนยันไปยังอีเมลของคุณ คลิกที่ลิงก์ยืนยันในอีเมลเพื่อตรวจสอบการบอกรับอีเมลกลุ่มนี้
+
+
+;Read all about it in our <span>newsletter</span>
+อ่านต่อใน <span>จดหมายข่าว</span> ของเรา
+
+
+;Your newsletter subscription has been confirmed.
+ยืนยันการบอกรับจดหมายข่าวของคุณแล้ว
+
+
+;Format
+รูปแบบ
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+เรียบร้อยแล้ว! <span>แต่เดี๋ยวรอสักครู่ ยังมีต่ออีกนิด</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+ต้องการได้ข้อมูลที่ตรงประเด็นมากที่สุด? ให้ข้อมูลส่วนตัวของคุณกับเราเพิ่มเติม และลองบอกรับข่าว Mozilla อื่นๆ
+
+
+;Firefox & You
+Firefox และคุณ
+
+
+;Our Other Newsletters:
+จดหมายข่าวอื่นๆ ของเรา:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+รับกลเม็ดเคล็ดลับล่าสุดที่จะทำให้คุณใช้เบราว์เซอร์ที่คุณโปรดปรานได้อย่างมีประสิทธิภาพที่สุด
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+เรียนรู้เกี่ยวกับส่วนเสริมและความสามารถสุดเจ๋งของ Firefox mobile
+
+
+;Beta News
+ข่าว Beta
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+อ่านเรื่องที่เกี่ยวกับความสามารถล่าสุดของ Firefox สำหรับคอมพิวเตอร์ตั้งโต๊ะและอุปกรณ์เคลื่อนที่ก่อนที่จะออกตัวจริง
+
+
+;Let’s Be Friends!
+มาเป็นเพื่อนกัน!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox ก็อยู่บนเว็บเครือข่ายสังคมสุดโปรดของคุณ มาเป็นเพื่อนกันและเข้าร่วมการสนทนา
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+จัดการ <span>การบอกรับจดหมายข่าว</span> ของคุณ
+
+
+;Subscribe
+บอกรับ
+
+
+;Unsubscribe
+ยกเลิกการบอกรับ
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+เลือกข้อนี้ถ้าคุณต้องการออกจากทุกอีเมลของ Mozilla
+
+
+;Remove me from all Mozilla emails
+เอาฉันออกจากทุกอีเมลของ Mozilla
+
+
+;Save Preferences
+บันทึกการตั้งค่า
+
+
+;Thanks for updating your email preferences.
+ขอบคุณที่ปรับปรุงการตั้งค่าอีเมลของคุณ
+
+
+;You've been unsubscribed.
+คุณได้บอกรับแล้ว
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+เราเสียใจที่เห็นคุณจากไป แต่ก่อนคุณจะไป คุณจะบอกได้ไหมว่าทำไมคุณถีงต้องไป?
+
+
+;You send too many emails.
+คุณส่งอีเมลมามากเกินไป
+
+
+;Your content wasn't relevant to me.
+เนื้อหาของคุณไม่น่าสนใจ
+
+
+;Your email design was too hard to read.
+อีเมลของคุณอ่านยาก
+
+
+;I didn't sign up for this.
+ฉันไม่ได้บอกรับจดหมายข่าวนี้
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+ฉันจะไปใช้ Facebook และ Twitter ในการติดตามข่าวแทน
+
+
+;Submit
+ส่ง
+
+
+;Thanks for telling us why you’re leaving.
+ขอบคุณที่บอกเราว่าทำไมคุณถึงต้องจากไป
+
+
+;Mozilla Newsletters
+จดหมายข่าว Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+ขอบคุณ! โปรดตรวจสอบกล่องจดหมายของคุณเพื่อยืนยันการบอกรับจดหมายข่าว
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+คุณจะได้รับอีเมลจาก mozilla@e.mozilla.org เพื่อยืนยันการบอกรับจดหมายข่าว ถ้าคุณไม่พบจดหมายฉบับนั้นลองตรวจสอบกล่องจดหมายขยะดู คุณจะต้องยืนยันการบอกรับจดหมายข่าวเพื่อให้การบอกรับจดหมายข่าวนั้นสมบูรณ์
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+อย่าลืมใส่ที่อยู่อีเมล mozilla@e.mozilla.org เข้าไปยังสมุดที่อยู่ของคุณเพื่อให้อีเมลจากที่อยู่นี้ส่งเข้ามายังกล่องจดหมายของคุณได้เสมอ
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+รับข่าว Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+กรอกอีเมลของคุณที่นี่
+
+
+# Button
+;Sign me up
+บอกรับข่าว
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

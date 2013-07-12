@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Tilaa uutiskirje
+
+
+;Your Email Address
+Sähköpostiosoitteesi
+
+
+;Text
+Teksti
+
+
+;Available Languages
+Valitse kieli
+
+
+;Select country
+Valitse maa
+
+
+;Whoops! Be sure to enter a valid email address.
+Tarkista, että kirjoitit sähköpostiosoitteesi oikein.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Lue Mozillan yksityisyyskäytännöt ja merkitse, että hyväksyt niissä esitetyt ehdot.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Hyväksyn <a href="%s">yksityisyyskäytäntöjen ehdot</a>
+
+
+;Sign me up!
+Tilaa
+
+
+;We will only send you Mozilla-related information.
+Lähetämme vain Mozillaan liittyviä tietoja.
+
+
+;Thanks for Subscribing!
+Kiitos tilauksesta!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Saat pian vinkkejä, joilla saat Firefoxista enemmän irti, sekä kiinnostavia uutisia Mozillasta ja siitä, kuinka pyrimme kohti parempaa verkkoa.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Tilaa kuukausittaiset päivitykset, niin saat viimeisimmät Mozilla-uutiset, mukaanlukien viimeisimmät vinkit siitä, miten saat Firefox-selaimestasi eniten irti. Se on hyvä tapa saada Mozillaa koskevaa tietoa.
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Sinulle on lähetetty vahvistusviesti sähköpostitse. Napsauta viestissä olevaa vahvistuslinkkiä vahvistaaksesi postituslistatilauksesi.
+
+
+;Read all about it in our <span>newsletter</span>
+Lue kaikki tästä aiheesta <span>uutiskirjeestämme</span>
+
+
+;Your newsletter subscription has been confirmed.
+Uutiskirjetilauksesi on vahvistettu.
+
+
+;Format
+Formaatti
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Kaikki kunnossa! <span>Mutta odota, on enemmänkin</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Haluatko saada kiinnostavampaa tietoa? Kerro meille hieman itsestäsi. Ja kun kerran olet täällä, niin harkitse myös muiden Mozilla-uutisten tilaamista.
+
+
+;Firefox & You
+Firefox ja sinä
+
+
+;Our Other Newsletters:
+Muut uutiskirjeemme:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Hanki viimeisimmät vinkit, joiden avulla saat suosikkiselaimestasi eniten irti.
+
+
+;Firefox Mobile
+Firefoxin mobiiliversio
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Lue lisää Firefoxin mobiiliversion uusimmista ominaisuuksista ja lisäosista.
+
+
+;Beta News
+Beetauutiset
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lue Firefoxin pöytäkone- ja mobiiliversioiden uusimmista ominaisuuksista ennen lopullista julkaisua.
+
+
+;Let’s Be Friends!
+Ollaan ystäviä!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox on myös yleisimmillä sosiaalisen median sivustoilla. Yhdistä meihin ja liity keskusteluun.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Muokkaa <span>uutiskirjetilauksiasi</span>
+
+
+;Subscribe
+Tilaa
+
+
+;Unsubscribe
+Lopeta tilaus
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Valitse tämä, jos haluat lakkauttaa kaikki Mozillan sähköpostitilaukset
+
+
+;Remove me from all Mozilla emails
+Lopeta kaikki Mozillan sähköpostitilaukset
+
+
+;Save Preferences
+Tallenna asetukset
+
+
+;Thanks for updating your email preferences.
+Kiitos, kun päivitit sähköpostiasetuksiasi.
+
+
+;You've been unsubscribed.
+Tilauksesi on lopetettu.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Jäämme kaipaamaan sinua. Haluaisitko kertoa, miksi lopetit?
+
+
+;You send too many emails.
+Teiltä tulee liikaa viestejä.
+
+
+;Your content wasn't relevant to me.
+Sisältönne ei ollut kiinnostavaa.
+
+
+;Your email design was too hard to read.
+Viestienne ulkoasu on sekava.
+
+
+;I didn't sign up for this.
+En ole koskaan tilannut tällaista.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Saan jo Mozillaa koskevat tiedotteet Facebookista ja Twitteristä.
+
+
+;Submit
+Lähetä
+
+
+;Thanks for telling us why you’re leaving.
+Kiitos, kun kerroit, miksi lopetit tilauksesi.
+
+
+;Mozilla Newsletters
+Mozillan uutiskirjeet
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Kiitos! Ole hyvä ja tarkista saapuneet viestisi vahvistaaksesi tilauksesi.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Sinulle lähetetään viesti osoitteesta mozilla@e.mozilla.org tilauksen vahvistamista varten. Jos et näe sitä, tarkista roskapostisuodattimesi. Sinun täytyy vahvistaa tilauksesi saadaksesi uutiskirjeemme.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Ole hyvä ja lisää lähetysosoitteemme, mozilla@e.mozilla.org, osoitekirjaasi, jotta voidaan aina olla varmoja, että viestimme tulevat perille.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Hae Firefox-uutiset
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+KIRJOITA SÄHKÖPOSTIOSOITTEESI TÄHÄN
+
+
+# Button
+;Sign me up
+Tilaa
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

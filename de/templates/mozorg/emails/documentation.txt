@@ -1,0 +1,14 @@
+Hallo! Danke für Ihr Interesse an der Mithilfe bei der Mozilla-Dokumentation. Es gibt verschiedene Möglichkeiten, wie Sie helfen können:
+
+Schreiben Sie Artikel in der Firefox-Wissensdatenbank
+http://support.mozilla.org/de/kb/wissensdatenbank-verbessern
+
+Schreiben Sie Artikel in der Thunderbird-Wissensdatenbank
+https://support.mozillamessaging.com/de/kb/wissensdatenbank-verbessern
+
+Helfen Sie bei der Dokumentation im Mozilla Developer Network
+https://developer.mozilla.org/de/docs/Project:How_to_Help
+
+Noch einmal vielen Dank für Ihr Interesse und willkommen in der Gemeinschaft der Mozilla-Mitwirkenden.
+
+Jay

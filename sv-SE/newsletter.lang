@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Få nyheter varje månad
+
+
+;Your Email Address
+Din e-postadress
+
+
+;Text
+Text {ok}
+
+
+;Available Languages
+Tillgängliga språk
+
+
+;Select country
+Välj land
+
+
+;Whoops! Be sure to enter a valid email address.
+Hoppsan! Var noga med att ange en giltig e-postadress.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Läs Mozillas sekretesspolicy och godkänn genom att kryssa i rutan.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Jag godkänner <a href="%s">sekretesspolicyn</a>
+
+
+;Sign me up!
+Jag anmäler mig!
+
+
+;We will only send you Mozilla-related information.
+Vi kommer endast att skicka Mozilla-relaterad information.
+
+
+;Thanks for Subscribing!
+Tack för anmälan!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Vi ser fram emot att snart få börja lämna tips på hur du får ut det mesta av Firefox, samt spännande nyheter om Mozilla och hur vi arbetar för att skapa en bättre webb.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Prenumerera på månatliga Mozilla-nyheter och var uppdaterad med vad som händer, bland annat de senaste tipsen på hur du får ut det bästa av Firefox. Det är det perfekta sättet för oss att hålla kontakten!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Vi har nu skickat ett bekräftelsemejl till dig. Klicka på bekräftelselänken i det meddelandet för att bekräfta att du vill prenumerera på den här mejlinglistan.
+
+
+;Read all about it in our <span>newsletter</span>
+Läs om allt i vårt <span>nyhetsbrev</span>
+
+
+;Your newsletter subscription has been confirmed.
+Din nyhetsbrevsprenumeration har bekräftats.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Nu är allting klart! <span>Men vänta, det finns mer</span>!
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Vill du få den information som är mest relevant för dig? Berätta lite mer om dig själv. Och när du ändå är här, registrera dig för fler Mozilla-nyheter.
+
+
+;Firefox & You
+Firefox & du
+
+
+;Our Other Newsletters:
+Våra övriga nyhetsbrev:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Få de senaste tipsen och råden om hur du får ut så mycket som möjligt ur din favoritwebbläsare.
+
+
+;Firefox Mobile
+Firefox Mobil
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Läs mer om de hetaste nya tilläggen och funktionerna för Firefox mobilwebbläsare.
+
+
+;Beta News
+Beta-nyheter
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Läs om de senaste funktionerna i Firefox skrivbords- och mobilversioner innan de slutgiltiga versionerna släpps.
+
+
+;Let’s Be Friends!
+Låt oss vara vänner!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox finns också på dina favoritwebbplatser för sociala nätverk. Anslut dig och delta i samtalet.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Hantera dina <span>nyhetsbrevsprenumerationer</span>
+
+
+;Subscribe
+Prenumerera
+
+
+;Unsubscribe
+Avsluta prenumeration
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Kryssa i denna ruta om du vill tas bort från alla Mozillas e-brev
+
+
+;Remove me from all Mozilla emails
+Ta bort mig från alla Mozillas e-brev
+
+
+;Save Preferences
+Spara inställningarna
+
+
+;Thanks for updating your email preferences.
+Tack för att du uppdaterar dina e-postinställningar.
+
+
+;You've been unsubscribed.
+Din prenumeration har avslutats.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Vi tycker det är tråkigt att du lämnar oss. Har du någonting emot att berätta varför du gör det?
+
+
+;You send too many emails.
+Ni skickar alldeles för många e-brev.
+
+
+;Your content wasn't relevant to me.
+Ert innehåll var inte relevant för mig.
+
+
+;Your email design was too hard to read.
+Meddelandeutformningen gjorde e-breven för svåra att läsa.
+
+
+;I didn't sign up for this.
+Jag registrerade mig aldrig för det här.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Jag behåller kontakten med Mozilla på Facebook och Twitter istället.
+
+
+;Submit
+Skicka
+
+
+;Thanks for telling us why you’re leaving.
+Tack för att du berättar för oss varför du lämnar oss.
+
+
+;Mozilla Newsletters
+Mozillas nyhetsbrev
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Tack! Gå till din inkorg för att bekräfta din prenumeration.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Du kommer att få ett e-brev från mozilla@e.mozilla.org för att bekräfta din prenumeration. Om du inte hittar det, titta i din skräppostmapp. Du måste bekräfta din prenumeration för att få vårt nyhetsbrev.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Kom ihåg att lägga till vår avsändaradress, mozilla@e.mozilla.org, i din adressbok för att säkerställa att vi alltid når din inkorg.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Få nyheter om Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+SKRIV DIN E-POSTADRESS HÄR
+
+
+# Button
+;Sign me up
+Jag anmäler mig
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Jag godkänner att ni hanterar den här informationen på det sätt som beskrivs och förklaras i er <a href="%s">sekretesspolicy</a>
+
+

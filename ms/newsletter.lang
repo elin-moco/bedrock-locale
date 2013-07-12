@@ -1,0 +1,215 @@
+## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Dapatkan Berita Bulanan
+
+
+;Your Email Address
+Alamat Emel Anda
+
+
+;Text
+Teks
+
+
+;Available Languages
+Bahasa-bahasa yang tersedia
+
+
+;Select country
+Pilih negara
+
+
+;Whoops! Be sure to enter a valid email address.
+Whoops! Pastikan anda meletakkan alamat emel yang sah.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Sila baca Polisi Privasi Mozilla dan bersetuju  dengan menyemak tanda kotak.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Saya bersetuju untuk <a href="%s">Polisi Keselamatan</a>
+
+
+;Sign me up!
+Daftarkan saya!
+
+
+;We will only send you Mozilla-related information.
+Kami hanya akan menghantar maklumat yang berkaitan dengan Mozilla.
+
+
+;Thanks for Subscribing!
+Terima Kasih kerana Melanggan!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Kami memandang ke hadapan untuk begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Melanggan kepada pengemaskinian bulanan dan kekal terkini dengan berita Mozilla, termasuk tip-tip terbaru dan trik untuk mendapatkan yang terbaik daripada pelayar Firefox anda. Ia adalah cara yang sempurna bagi kita untuk terus berhubung!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Kami baru sahaja menghantar email kepastian. Sila klik pada pautan ini untuk pengesahan langganan terhadap senarai mel
+
+
+;Read all about it in our <span>newsletter</span>
+Baca semua mengenai kami dalam <span>berita</span>
+
+
+;Your newsletter subscription has been confirmed.
+Langganan berita anda sudah berjaya
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Anda telah berjaya! <span> Tetapi, masih terdapat lagi </span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Mahu dapatkan maklumat yang paling relevan? Beritahu kami sedikit sebanyak tentang diri anda. Dan jika anda di sini, daftar untuk berita Mozilla yang lain.
+
+
+;Firefox & You
+Firefox & Anda
+
+
+;Our Other Newsletters:
+Berita kami
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Dapatkan tip-tip dan trik yang terbaru duntuk mendapatkan yang terbak daripada pelayar kegemaran anda.
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Belajar mengenai ciri-ciri terbaru dan add-ons  yang terhangat Firefox mobile.
+
+
+;Beta News
+Berita Beta
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Baca mengenai ciri-ciri terbaru untuk Firefox desktop dan mobile sebelum keluaran terakhirnya.
+
+
+;Let’s Be Friends!
+Mari berkawan!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox juga adalah laman sosial rangkaian sosial kegemaran anda. Berhubung dengan kami dan sertai perbincangan kami
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Uruskan  <span>Langganan Surat Berita</span> anda
+
+
+;Subscribe
+Langgan
+
+
+;Unsubscribe
+Batal langganan
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Semak disini jika anda mahu untuk mengeluarkan daripada semua emel-emel mozilla
+
+
+;Remove me from all Mozilla emails
+Singkirkan saya dari emel Mozilla
+
+
+;Save Preferences
+Simpan keutamaan
+
+
+;Thanks for updating your email preferences.
+Terima kasih untuk mengemaskini keutamaan email anda.
+
+
+;You've been unsubscribed.
+Anda telah tidak melanggani.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Kami mohon maaf untuk melihat anda pergi. Bolehkah anda memberitahu kenapa anda pergi?
+
+
+;You send too many emails.
+Kamu menghantar terlalu banyak email
+
+
+;Your content wasn't relevant to me.
+Kandungan anda tidak berkaitan kepada saya.
+
+
+;Your email design was too hard to read.
+Reka bentuk e-mel anda terlalu sukar membaca.
+
+
+;I didn't sign up for this.
+Saya tidak mendaftar untuk ini.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Saya simpan perhubungan dengan Mozilla di Facebook dan Twitter sebaliknya.
+
+
+;Submit
+Hantar
+
+
+;Thanks for telling us why you’re leaving.
+Terima kasih kerana memberitahu kami mengapa anda meninggalkannya.
+
+
+;Mozilla Newsletters
+Buletin Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Terima Kasih! Sila semak inbox anda untuk mengesahkan langganan anda.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Anda akan menerima satu emel dari mozilla@e.mozilla.org untuk mengesahkan langganan anda. Jika anda tiada, sila periksa turas spam anda. Anda perlu mengesahkan langganan anda untuk menerima surat berita kami.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Sila mengesahkan untuk tambah alamat kiriman kami: mozilla@e.mozilla.org untuk alamat buku untuk meyakinkan kami sentiasa sampai ke inbox anda.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Dapatkan berita Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+EMEL ANDA DISINI
+
+
+# Button
+;Sign me up
+Daftarkan saya
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Saya OK bila anda mengendalikan indo ini sebagaimana anda menerangkannya dalam <a href="%s">Polisi Privasi</a> anda
+
+

@@ -1,0 +1,80 @@
+## active ##
+# Used for the new http://www.mozilla.org/firefox/new
+;Firefox for desktop
+Firefox 桌面版
+
+
+;Different by design
+從設計就與眾不同
+
+
+;Proudly<br />non-profit
+以 <br />非營利 為榮
+
+
+;Innovating<br />for you
+<br />為您 而創新
+
+
+;Fast, flexible,<br />secure
+有彈性、超快、<br />超安全
+
+
+;As a non-profit, we’re free to innovate on your behalf without any pressure to compromise. You’re going to love the difference.
+<br>作為非營利組織，我們站在您的立場進行創新，不向任何壓力妥協。<br>您將會愛上這種不同之處。
+
+
+;Firefox screenshot
+Firefox 畫面擷圖
+
+
+;Thanks for downloading Firefox!
+感謝您下載 Firefox！
+
+
+;Start the process by clicking Run.
+點下「執行」開始安裝。
+
+
+;Your download should begin automatically. If not, <a id="%s" href="">click here</a>. It could take a few minutes, but it’s worth the wait.
+您的下載將會自動開始，若沒有，請 <a id="%s" href="">點擊此處</a>。可能需要花一點時間下載，但這值得您等待。
+
+
+;When prompted, drag the Firefox icon into the image of your Applications folder.
+當系統提示您時，請將 Firefox 圖示拖曳至您的應用程式資料夾。
+
+
+;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
+點下「執行」以啟動 Mozilla Firefox 安裝精靈，然後您就只要照著步驟走（我們已經盡量簡化過程，讓您無痛安裝）。
+
+
+;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
+從應用程式資料夾中拖曳 Firefox 圖示到 dock 上，接下來您就可以隨時點下 Firefox 圖示開始瀏覽網頁！
+
+
+;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
+您現在已經準備就緒，進入網路瀏覽的新紀元。接下來您可以隨時點下 Firefox 圖示開始瀏覽網頁！
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+# <Meta description> tag
+;Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
+自由的網路瀏覽器 Mozilla Firefox，是由為了公益，致力於讓每個人都可以控制自己的網路體驗的全球性非營利組織所開發的。
+
+
+# file <title> tag
+;Mozilla Firefox Web Browser
+Mozilla Firefox 網頁瀏覽器
+
+

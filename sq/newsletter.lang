@@ -1,0 +1,215 @@
+## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Merrni Lajme të Përmuajshme
+
+
+;Your Email Address
+Adresa Juaj Email
+
+
+;Text
+Tekst
+
+
+;Available Languages
+Gjuhë të Mundshme
+
+
+;Select country
+Përzgjidhni vendin
+
+
+;Whoops! Be sure to enter a valid email address.
+Kujdes! Sigurohuni që po jepni një adresë email të vlefshme.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Ju lutem lexoni Rregullat e Mozilla-s mbi Vetësinë dhe jepni miratimin duke i vënë shenjë kutisë.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Pajtohem me <a href="%s">Rregullat e Vetësisë</a>
+
+
+;Sign me up!
+Regjistromëni!
+
+
+;We will only send you Mozilla-related information.
+Do t'ju dërgojmë vetëm të dhëna që kanë lidhje me Mozilla-n.
+
+
+;Thanks for Subscribing!
+Faleminderit për Regjistrimin!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Së shpejti do të ndajmë me ju ndihmëza dhe këshilla rreth se si të përfitoni sa më shumë nga punimi me Firefox-in, si edhe lajme mbresëlënëse rreth Mozilla-s dhe se si po punojmë për të krijuar një Web më të mirë.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Pajtohuni te përditësimet mujore dhe merrni vazhdimisht lajmet më të reja nga Mozilla, përfshi ndihmëzat më të reja për të përfituar maksimumin nga shfletuesi juaj Firefox. Mënyra e përsosur që të mbajnë lidhjet me njëri-tjetrin!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Sapo ju dërguam me eamil një mesazh ripohimi. Klikoni mbi lidhjen e ripohimit te ai email dhe bëjeni të vlefshme pajtimin tuaj te kjo listë postimesh.
+
+
+;Read all about it in our <span>newsletter</span>
+Lexoni gjithçka për të te <span>buletini</span> ynë
+
+
+;Your newsletter subscription has been confirmed.
+Pajtimi juaj te buletini u konfirmua.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Jeni Gati! <span>Por Daleni Pak, Ka Edhe Më</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Doni të keni të dhënat më me rëndësi? Na tregoni diçka rreth vetes. Dhe meqë jeni këtu, pajtohuni edhe te lajme të tjera nga Mozilla.
+
+
+;Firefox & You
+Firefox-i & Ju
+
+
+;Our Other Newsletters:
+BUletinë të Tjerë:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Merrni ndihmëzat më të reja për të përfituar maksimumin nga shfletuesi juaj i parapëlqyer.
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Njihuni me shtesat dhe veçoritë e reja më interesante për Firefox Mobile-in.
+
+
+;Beta News
+Lajme për Beta
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lexoni, para hedhjes përfundimtare në qarkullim, mbi veçoritë më të reja për Firefox-in për desktop dhe celular.
+
+
+;Let’s Be Friends!
+Le të Bëhemi Miq!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox-i gjendet edhe te site-et tuaj të parapëlqyer të rrjeteve shoqërore. Lidhuni me ne dhe merrni pjesë në shkëmbimin e ideve.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Administroni <span>Pajtimet tuaja në Buletine</span>
+
+
+;Subscribe
+Pajtohuni
+
+
+;Unsubscribe
+Çpajtohuni
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+I vini shenjë kësaj nëse do të doni të hiqeni nga krejt email-et e Mozilla-s
+
+
+;Remove me from all Mozilla emails
+Hiqmëni nga krejt email-et e Mozilla-s
+
+
+;Save Preferences
+Ruajini Parapëlqimet
+
+
+;Thanks for updating your email preferences.
+Faleminderit që përditësuat parapëlqimet tuaja për email.
+
+
+;You've been unsubscribed.
+U çpajtuat.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Na vjen keq t'ju shohim që largoheni. A ju vjen keq të na thoni pse po largoheni?
+
+
+;You send too many emails.
+Dërgoni shumë email-e.
+
+
+;Your content wasn't relevant to me.
+Lënda juaj nuk më intereson.
+
+
+;Your email design was too hard to read.
+Skema juaj për email-et është e vështirë për t'u lexuar.
+
+
+;I didn't sign up for this.
+Nuk u pajtova për këtë.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Lidhjet me Mozilla-n i mbaj më mirë Facebook dhe Twitter.
+
+
+;Submit
+Parashtroje
+
+
+;Thanks for telling us why you’re leaving.
+Faleminderit që na treguat pse po largoheni.
+
+
+;Mozilla Newsletters
+Buletinë Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Faleminderit! Ju lutemi, kontrolloni postën tuaj që të ripohoni pajtimin tuaj.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Do të merrni një email prej mozilla@e.mozilla.org që të ripohoni pajtimin tuaj. Nëse nuk e gjeni, kontrolloni filtrin tuaj për të pavlerat. Duhet të ripohoni pajtimin tuaj, përpara se të merrni buletinin tonë.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Ju lutemi, mos harroni të shtoni adresën tonë: mozilla@e.mozilla.org te libri juaj i adresave që të jemi të sigurt se merrni përherë çka ju dërgojmë.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Merrni lajme për Firefox-in
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+JEPNI KËTU EMAIL-IN TUAJ
+
+
+# Button
+;Sign me up
+Regjistromëni
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Nuk kam problem që ta trajtoni këtë informacion ashtu si e shpjegoni te <a href="%s">Rregullat tuaja të Privatësisë</a>
+
+

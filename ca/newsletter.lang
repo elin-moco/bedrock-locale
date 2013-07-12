@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Obteniu novetats mensualment
+
+
+;Your Email Address
+La vostra adreça electrònica
+
+
+;Text
+Text {ok}
+
+
+;Available Languages
+Llengües disponibles
+
+
+;Select country
+Seleccioneu l'estat
+
+
+;Whoops! Be sure to enter a valid email address.
+Assegureu-vos que introduïu una adreça electrònica vàlida.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Llegiu la política de privadesa de Mozilla i marqueu la casella si hi esteu d'acord.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Estic d'acord amb la <a href="%s">política de privadesa</a>
+
+
+;Sign me up!
+Subscriu-m'hi!
+
+
+;We will only send you Mozilla-related information.
+Només us enviarem informació relacionada amb Mozilla.
+
+
+;Thanks for Subscribing!
+Gràcies per haver-vos-hi subscrit!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Esperem poder compartir aviat aquests trucs i consells per treure el màxim del Firefox, així com també notícies emocionants sobre Mozilla i sobre com treballem per crear una web millor.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Subscriviu-vos a les actualitzacions mensuals i manteniu-vos al dia de les novetats de Mozilla, que inclouen els últims trucs i consells per aprofitar al màxim el Firefox. És la manera perfecta de mantenir-nos en contacte!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Us enviem un missatge de confirmació per correu electrònic. Feu clic a l'enllaç de confirmació en el correu per validar la vostra subscripció a aquesta llista de correu.
+
+
+;Read all about it in our <span>newsletter</span>
+Llegiu-ho tot al nostre <span>butlletí</span>
+
+
+;Your newsletter subscription has been confirmed.
+S'ha confirmat la subscripció al butlletí.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Ja està tot a punt! <span>Espereu, encara n'hi ha més</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Voleu rebre la informació més rellevant? Introduïu alguna dada vostra més i, mentre sou aquí, subscriviu-vos a altres notícies de Mozilla.
+
+
+;Firefox & You
+Firefox & Vosaltres
+
+
+;Our Other Newsletters:
+Altres butlletins nostres:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Aconseguiu els darrers trucs i consells per aprofitar al màxim el vostre navegador preferit.
+
+
+;Firefox Mobile
+Firefox Mòbil
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Més informació sobre els nous complements i funcions pel Firefox mòbil.
+
+
+;Beta News
+Novetats de la Beta
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Llegiu sobre les darreres funcions del Firefox per l'ordinador i pel mòbil abans de la versió final.
+
+
+;Let’s Be Friends!
+Siguem amics!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+El Firefox també és a les vostres xarxes socials preferides. Connecteu-vos amb nosaltres i afegiu-vos a la conversa.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Gestiona les <span>subscripcions a butlletins</span>
+
+
+;Subscribe
+Subscriu-me
+
+
+;Unsubscribe
+Cancel·la la subscripció
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Marqueu la casella si no voleu rebre més correus de Mozilla
+
+
+;Remove me from all Mozilla emails
+Exclou-me de tots els correus electrònics de Mozilla
+
+
+;Save Preferences
+Desa les preferències
+
+
+;Thanks for updating your email preferences.
+Gràcies per actualitzar les preferències del correu electrònic.
+
+
+;You've been unsubscribed.
+S'ha cancel·lat la vostra subscripció.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Ens sap greu que marxeu. Podríeu dir-nos per què?
+
+
+;You send too many emails.
+M'envieu massa correus electrònics.
+
+
+;Your content wasn't relevant to me.
+Els vostres continguts no em semblaven rellevants.
+
+
+;Your email design was too hard to read.
+El disseny del correu electrònic el feia difícil de llegir.
+
+
+;I didn't sign up for this.
+No m'havia subscrit a això.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Estic en contacte amb Mozilla a través del Facebook i del Twitter, en lloc de per correu electrònic.
+
+
+;Submit
+Tramet
+
+
+;Thanks for telling us why you’re leaving.
+Gràcies per dir-nos per què marxeu.
+
+
+;Mozilla Newsletters
+Butlletins de notícies de Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Gràcies! Comproveu la vostra bústia per confirmar la subscripció.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Rebreu un correu electrònic de mozilla@e.mozilla.org per confirmar la vostra subscripció. Si no el veieu, comproveu el filtre del correu brossa. Cal que confirmeu la subscripció per rebre el butlletí.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Afegiu la nostra adreça mozilla@e.mozilla.org a l'agenda per assegurar-vos que els nostres missatges sempre aniran a la safata d'entrada.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Obteniu notícies del Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+LA VOSTRA ADREÇA ELECTRÒNICA AQUÍ
+
+
+# Button
+;Sign me up
+Subscriu-m'hi
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

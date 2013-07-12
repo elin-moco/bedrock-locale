@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Gaukite mėnesio naujienas
+
+
+;Your Email Address
+Jūsų el. pašto adresas
+
+
+;Text
+Tekstas
+
+
+;Available Languages
+Galimos kalbos
+
+
+;Select country
+Pasirinkite šalį
+
+
+;Whoops! Be sure to enter a valid email address.
+Oi! Įsitikinkite, jog įvedėte galiojantį el. pašto adresą.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Prašom susipažinti su „Mozillos“ Privatumo nuostatais ir čia pažymėti, jog su jais sutinkate.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Aš sutinku su <a href="%s">Privatumo nuostatais</a>
+
+
+;Sign me up!
+Prenumeruoti!
+
+
+;We will only send you Mozilla-related information.
+Mes Jums siųsime tik su „Mozilla“ susijusią informaciją.
+
+
+;Thanks for Subscribing!
+Dėkojame už prenumeratą!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Netrukus mes pradėsime su Jumis dalintis paprastais patarimais ir gudrybėmis, padėsiančiais iš „Firefox“ „išspausti“ kiek įmanoma daugiau, o taip pat – „Mozillos“ naujienomis ir įdomybėmis.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Prenumeruokite mėnesinį naujienlaiškį ir neatsilikite nuo „Mozillos“ naujienų, tuo pačiu gaudami aktualių „Firefox“ naudojimosi patarimų. Tai – puikus būdas palaikyti tarp mūsų ryšį!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Jums ką tik el. paštu išsiųstas patvirtinimo laiškas. Jį gavę, spustelėkite ant jame esančio patvirtinimo saito, kad naujienlaiškio prenumerata įsigaliotų.
+
+
+;Read all about it in our <span>newsletter</span>
+Skaitykite viską apie tai mūsų <span>naujienlaiškyje</span>
+
+
+;Your newsletter subscription has been confirmed.
+Naujienlaiškio prenumerata Jums patvirtinta.
+
+
+;Format
+Formatas
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Viskas atlikta! <span>Bet luktelkite, yra dar kai kas</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Norite gauti labiausiai dominančią informaciją? Prisistatykite šiek tiek išsamiau, o tuo pačiu užsiprenumeruokite kitas Jus dominančias „Mozillos“ naujienas.
+
+
+;Firefox & You
+„Firefox“ ir Tu
+
+
+;Our Other Newsletters:
+Kiti mūsų naujienlaiškiai:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Reguliarūs patarimai, padėsiantys iš Jūsų mėgstamos naršyklės „išspausti“ kuo daugiau.
+
+
+;Firefox Mobile
+Mobilioji „Firefox“
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Sužinokite apie naujausius mobiliosios „Firefox“ priedus ir galimybes.
+
+
+;Beta News
+Betos naujienos
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Susipažinkite su naujausiomis „Firefox“ naršyklių savybėmis prieš joms patenkant į galutinę laidą.
+
+
+;Let’s Be Friends!
+Draugaukime!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+„Firefox“ galite rasti ir savo mėgstamame socialiniame tinkle. Bendraukime!
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Tvarkykite savo <span>naujienlaiškių prenumeratas</span>
+
+
+;Subscribe
+Prenumeruoti
+
+
+;Unsubscribe
+Atsisakyti prenumeratos
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Pažymėkite, jeigu norite atsisakyti visų „Mozillos“ laiškų
+
+
+;Remove me from all Mozilla emails
+Pašalinti mane iš visų „Mozillos“ laiškų gavėjų
+
+
+;Save Preferences
+Įrašyti nuostatas
+
+
+;Thanks for updating your email preferences.
+Jūsų el. pašto gavimo nuostatos įrašytos.
+
+
+;You've been unsubscribed.
+Jūsų prenumeratų atsisakyta.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Apgailestaujame, jog tenka atsisveikinti. Gal pasakytumėte, kodėl nusprendėte mus palikti?
+
+
+;You send too many emails.
+Gaunate per daug laiškų.
+
+
+;Your content wasn't relevant to me.
+Gaunamų laiškų turinys Jums neaktualus.
+
+
+;Your email design was too hard to read.
+Laiškų išvaizda apsunkina skaitymą.
+
+
+;I didn't sign up for this.
+Laiškų neprenumeravote.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Su „Mozilla“ palaikote ryšį kitais būdais - per „Facebook“ ar „Twitter“.
+
+
+;Submit
+Pateikti
+
+
+;Thanks for telling us why you’re leaving.
+Dėkojame už Jūsų atsakymą.
+
+
+;Mozilla Newsletters
+„Mozillos“ naujienlaiškiai
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Ačiū! Dabar prašome pasitikrinti savo el. pašto dėžutę ir patvirtinti prenumeratą.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Netrukus iš mozilla@e.mozilla.org gausite laišką, prašantį patvirtinti prenumeratą. Jeigu jo nematote, paieškokite brukalo aplanke. Kad gautumėte naujienlaiškį, privalote patvirtinti prenumeratą.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Patariame įtraukti mūsų naujienlaiškių siuntimo adresą – mozilla@e.mozilla.org – į adresų knygą. Taip užtikrinsite, jog mūsų laiškai Jus visuomet pasieks.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Gaukite „Firefox“ naujienas
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+TAVO EL. PAŠTAS
+
+
+# Button
+;Sign me up
+Prenumeruoti
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Sutinku, kad mano duomenys būtų apdorojami kaip nurodyta <a href="%s">Privatumo nuostatuose</a>
+
+

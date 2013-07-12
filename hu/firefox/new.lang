@@ -1,0 +1,80 @@
+## active ##
+# Used for the new http://www.mozilla.org/firefox/new
+;Firefox for desktop
+Firefox számítógépre
+
+
+;Different by design
+Különbözőnek terveztük
+
+
+;Proudly<br />non-profit
+Büszkén <br />non-profit
+
+
+;Innovating<br />for you
+Önnek <br />fejlesztve
+
+
+;Fast, flexible,<br />secure
+Gyors, rugalmas, <br />biztonságos
+
+
+;As a non-profit, we’re free to innovate on your behalf without any pressure to compromise. You’re going to love the difference.
+Non-profit szervezetként szabadon fejleszthetünk, bármilyen nyomás vagy kompromisszum nélkül. Tetszeni fog ez a különbség.
+
+
+;Firefox screenshot
+Firefox képernyőkép
+
+
+;Thanks for downloading Firefox!
+Köszönjük, hogy letöltötte a Firefoxot!
+
+
+;Start the process by clicking Run.
+Az indításhoz kattintson a Futtatásra.
+
+
+;Your download should begin automatically. If not, <a id="%s" href="">click here</a>. It could take a few minutes, but it’s worth the wait.
+A letöltés automatikusan megkezdődik. Amennyiben mégsem <a id="%s" href="">kattintson ide</a>. Eltarthat egy ideig, de megéri a várakozást.
+
+
+;When prompted, drag the Firefox icon into the image of your Applications folder.
+Amikor kész, húzza át a Firefox ikont az Alkalmazás mappa képére.
+
+
+;Click Run to launch the Mozilla Firefox setup wizard. Then, just follow the steps (we've made the process as painless as possible).
+Kattintson a Futtatásra, hogy elinduljon a Mozilla Firefox telepítője, majd kövesse azok lépéseit (igyekeztünk ezt a folyamatot a lehető legegyszerűbbé tenni).
+
+
+;Drag the Firefox icon from the Applications folder into the dock. Then, just click on Firefox whenever you want to use the web!
+Vigye a Firefox ikont az Alkalmazás mappából a Dockra. Így bármikor elindíthatja a Firefoxot, amikor csak internetezni szeretne!
+
+
+;Now you’re ready to leap boldly into a new era of Web surfing. Double-click on the Firefox icon whenever you want to go online.
+Most már készen áll arra, hogy az internetezés új korszakába lépjen. Kattintson dublán a Firefox ikonra, amikor csak internetezni akar.
+
+
+;1
+1 {ok}
+
+
+;2
+2 {ok}
+
+
+;3
+3 {ok}
+
+
+# <Meta description> tag
+;Mozilla Firefox, free web browser, is created by a global non-profit dedicated to putting individuals in control &amp; shaping the future of the web for the public good.
+A Mozilla Firefox egy ingyenes böngésző, amelyet egy non-profit szervezett hozott létre azért, hogy a felhasználók kezébe adják a szabályozást és az internet jövőjének alakítását a közjó érdekében.
+
+
+# file <title> tag
+;Mozilla Firefox Web Browser
+Mozilla Firefox böngésző
+
+

@@ -1,0 +1,684 @@
+## active ##
+# <title> tag
+;Firefox at Mobile World Congress 2013
+El Firefox al Mobile World Congress 2013
+
+
+## CONTACT FORM ##
+# Title
+;Get involved
+Participeu-hi
+
+
+# Sub-title
+;Contact our business development team to get on board.
+Contacteu amb el nostre equip de desenvolupament de negoci per a més informació.
+
+
+# Field
+;First Name
+Nom
+
+
+# Field
+;Last Name
+Cognoms
+
+
+# Field
+;Title
+Títol
+
+
+# Field
+;Company
+Empresa
+
+
+# Field
+;Website
+Lloc web
+
+
+# Field
+;Email
+Adreça electrònica
+
+
+# Field
+;Phone
+Telèfon
+
+
+;Interest:
+Interès:
+
+
+# Specific interest
+;Firefox for Android
+Firefox per a Android
+
+
+# Specific interest
+;Other
+Altres
+
+
+# Tooltip for selected options
+;Interest
+Interès
+
+
+# Comment field default text
+;Comments or questions?
+Comentaris o preguntes?
+
+
+# Submit button text
+;Submit my request
+Envia la meva sol·licitud
+
+
+;Thanks for your interest in partnering with us
+Gràcies pel vostre interès en associar-vos amb nosaltres
+
+
+;We will review your request and get back to you about possibilities and opportunities soon.
+Revisarem la vostra sol·licitud i us contactarem aviat per explorar les possibilitats i oportunitats.
+
+
+## MAIN CONTENT ##
+# Top menu item
+;Overview
+Resum
+
+
+# Text on the left, on top of the Firefox logo
+;Explore the site
+Exploreu el lloc
+
+
+# Page title
+;Blaze Your Own Path
+Feu-vos el propi camí
+
+
+;We’re enabling operators, phone manufacturers and developers to manage, customize and own relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+Permetem que operadors, fabricants de telèfons i desenvolupadors gestionin, personalitzin i tinguin control de les relacions amb els clients directament a través dels nostres productes mòbils: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> i <a %(url3)s>Firefox per a Android</a>.
+
+
+# This is exactly the same string as above but the verb 'own' was changed to 'improve'
+;We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+We’re enabling operators, phone manufacturers and developers to manage, customize and improve relationships with their customers directly through our mobile products: <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
+
+
+;See more partners
+Descobriu altres socis
+
+
+;Recent news
+Notícies recents
+
+
+# This is a button showing the contact form
+;Partner with us
+Sigueu els nostres socis
+
+
+# App Planet is a location in the building, don't translate
+;Join us at Stand F20, Hall 8.1, App Planet
+Visiteu-nos a l'Stand F20, Hall 8.1, App Planet
+
+
+;Our keynote & other scheduled events
+La nostra keynote i altres esdeveniments programats
+
+
+;Firefox tweets from MWC in Barcelona
+Piulades del Firefox des del MWC a Barcelona
+
+
+# Title
+;The Web is the platform
+El Web és la plataforma
+
+
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved.</a>
+Amb el suport d'alguns dels més grans noms de la indústria, el Firefox OS és una plataforma oberta que promou una major participació en la cadena de valor. <a %(url)s>Descobriu com podeu participar-hi.</a>
+
+
+# Rewording of the previous sentence to link to the Firefox OS consumer site
+;Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+Backed by some of the biggest names in the industry, Firefox OS is an open platform that fosters greater participation in the value chain. <a %(url)s>See how you can get involved</a> or <a href="%(url2)s">learn more about what it means for consumers</a>.
+
+
+# Title
+;Made of the Web
+Fet a partir del Web
+
+
+;Built entirely using HTML5 and other open Web standards, Firefox OS is free from the rules and restrictions of existing proprietary platforms.
+Construït completament fent servir HTML5 i altres estàndards Web oberts, el Firefox OS és lliure de les regles i les restriccions de les plataformes propietàries que existeixen.
+
+
+# Title
+;Made by Firefox
+Fet pel Firefox
+
+
+;For the past 15 years, we’ve been instrumental in innovating and shaping the Web to keep it open and accessible to all. As a result of our efforts, one fifth of all Web activity today happens through Firefox products.
+Durant els darrers 15 years, hem sigut claus a l'hora d'innovar i donar forma al Web per tal de mantenir-lo obert i accessible a tothom. Com a resultat de la nostra feina, una cinquena part de tota l'activitat web té lloc a través de productes Firefox.
+
+
+# Title
+;The difference the Open Web makes
+Els beneficis del Web Obert
+
+
+# List title
+;Firefox OS offers:
+El Firefox OS ofereix:
+
+
+# List item
+;A level playing field against other OS and marketplace providers
+Possibilitat de competir en igualtat de condicions amb altres SO i proveïdors de «marketplaces»
+
+
+# List item
+;Greater participation in the value chain
+Major participació a la cadena de valor
+
+
+# List item
+;Ownership and control over relationships with customers
+Propietat i control de les relacions amb els clients
+
+
+# List item
+;Customized phones that meet the specific needs of various target markets
+Telèfons personalitzats que satisfan les necessitats específiques dels diferents mercats finals
+
+
+;White Papers
+Llibre blanc
+
+
+;Learn more about the technology behind Firefox OS
+Més informació de la tecnologia darrere del Firefox OS
+
+
+# This is the same string as the one in the contact form but it doesn't have a final dot
+;Contact our business development team to get on board
+Contacteu amb el nostre equip de desenvolupament de negoci per a més informació
+
+
+# Title
+;HTML5 apps for all
+Apps HTML5 per a tothom
+
+
+;Discover a new way to participate in an ecosystem that features the world’s most popular apps as well as more relevant, targeted content to suit customers’ local needs. See how that can help <a %(url1)s>operators and manufacturers</a> as well as <a %(url2)s>developers</a>.
+Descobriu una nova forma de participar en un ecosistema que recull les apps més populars com també les més rellevants, contingut dirigit per a satisfer les necessitats locals. Descobriu com pot ajudar tant a <a %(url1)s>operadors i fabricants</a> com a <a %(url2)s>desenvolupadors</a>.
+
+
+# Title
+;Your needs
+Les vostres necessitats
+
+
+;Grow your business by combining your own customer payment plans with our open source service offerings, reach new markets and customize purchasing and app experiences to meet your specific needs.
+Feu créixer el vostre negoci combinant els propis plans de pagament amb els clients juntament amb els nostres serveis de codi obert. Arribeu a nous mercats i personalitzeu l'experiència de compra i de les apps per tal de satisfer aquelles necessitats específiques.
+
+
+# Title
+;Our experience
+La nostra experiència
+
+
+;Our proven track record of providing excellent user experiences and serving content to huge global audiences runs through everything we do. Our directory of add-ons serves content to hundreds of millions of users worldwide.
+La nostra provada trajectòria d'oferir excel·lents experiències d'usuari i servir contingut a una immensa audiència global ens avala. El nostre directori de complements serveix contingut a centenars de milions d'usuaris arreu del món.
+
+
+# Title
+;Testimonials
+Testimonis
+
+
+;See what Box, SoundCloud and others have to say
+Descobriu què hi diuen Box, SoundCloud i altres
+
+
+# Title
+;Join the Conversation
+Uniu-vos a la conversa
+
+
+;Follow @firefoxapps on Twitter
+Seguiu @firefoxapps al Twitter
+
+
+;Read more on the Apps Blog
+Més informació al blog de les apps
+
+
+# Title
+;The world’s largest developer community
+La major comunitat de desenvolupadors
+
+
+# List title
+;Marketplace offers:
+El Marketplace ofereix:
+
+
+# List item. Tier 1 developers = very famous developpers from top companies
+;Commitment from well-known, tier 1 developers
+Compromís de desenvolupadors reconeguts i de primer ordre mundial
+
+
+# List item
+;Micro-targeted content for every use-case to meet customers’ local needs
+Contingut personalitzat per a usos concrets que satisfaci les necessitats dels clients locals
+
+
+# List item
+;Lower barriers to entry for local app developers in both resource and cost
+Reduir les barreres d'entrada per als desenvolupadors d'apps locals tant en recursos com en cost
+
+
+# This is a button
+;MWC demonstrations
+Demostracions al MWC
+
+
+# Title
+;Developed with developers in mind
+Desenvolupat pensant en els desenvolupadors
+
+
+# List item
+;Apps that customers can access across multiple platforms, devices and operating systems
+Apps que els clients poden accedir a través de diferents plataformes, dispositius i sistemes operatius
+
+
+# List item
+;Flexible business models and multiple payment monetization options
+Models de negoci flexibles i diferents opcions de monetització del pagament
+
+
+# List item
+;Optional carrier billing in regional currencies
+Facturació de telefonia opcional en divises locals
+
+
+# List item
+;The ability to connect with hundreds of millions of Firefox supporters around the world
+L'habilitat de connectar-se amb centenars de milions de persones que donen suport al Firefox arreu del món
+
+
+# List item
+;Access to relatively untapped markets
+Accés a mercats relativament poc explorats
+
+
+# Title
+;Developer hub
+Centre del desenvolupador
+
+
+;Learn how to make HTML5 apps for an open marketplace
+Aprengueu a fer apps HTML5 per a un marketplace obert
+
+
+# Title
+;Have an app?
+Teniu una app?
+
+
+;Submit it to the Firefox Marketplace today
+Pugeu-la al Firefox Marketplace avui mateix
+
+
+# WIMJam is an event in MWC where developpers meet and code
+;Jam with us, learn about new tools, meet other developers and more
+Experimenteu amb nosaltres, aprengueu noves eines, trobeu-vos amb altres desenvolupadors i molt més
+
+
+# Button
+;Register
+Registreu-vos-hi
+
+
+# Title
+;A superior Web experience
+Una experiència Web superior
+
+
+;With high-performance, advanced cross-platform features and the latest in security, our top-rated browser offers an alternative to closed platforms, giving you the flexibility to design, distribute and charge as you see fit. <a %(url)s>Learn more about partner opportunities.</a>
+Amb alt rendiment, característiques multiplataforma avançades i el més nou en seguretat, el nostre navegador líder ofereix una alternativa a les plataformes tancades, proporcionant-vos flexibilitat per a dissenyar, distribuir i modificar com vulgueu. <a %(url)s>Més informació sobre les oportunitats de ser els nostres socis.</a>
+
+
+# Title
+;Strengthen customer relationships
+Enfortiu les relacions amb el vostre client
+
+
+;Create your own unique branded sections of Firefox for Android and Firefox Marketplace for a more engaging user experience and to increase the visibility of your brand.
+Creeu les vostres pròpies seccions de marca del Firefox per a Android i del Firefox Marketplace per a garantir una millor experiència d'usuari i augmentar la visibilitat de la vostra marca.
+
+
+# Title
+;Create new value for both you and your users
+Creeu nou valor tant per a vosaltres com per als vostres usuaris
+
+
+;Take advantage of service opportunities like Firefox Marketplace and WebRTC to create new, platform-independent offerings and establish direct customer billing.
+Aprofiteu-vos de les oportunitats que ofereixen serveis com el Firefox Marketplace i el WebRTC per a establir un sistema de facturació directe amb els vostres clients independentment de la plataforma.
+
+
+# Title. The line break (<br>) is presentational. Place the break wherever it seems best for your locale, or omit it if it isn't needed.
+;Stand out <br>from the crowd
+Desmarqueu-vos <br>de la massa
+
+
+# Title.
+;Stand out from the crowd
+Desmarqueu-vos <br>de la massa
+
+
+;Take advantage of our strong brand and service offerings to differentiate your product and drive sales.
+Aprofiteu-vos de la fortalesa de la nostra marca i dels nostres serveis per a diferenciar el vostre producte i generar vendes.
+
+
+# List Title
+;Firefox for Android lets you:
+El Firefox per a Android us permet:
+
+
+# list item sub-title
+;Customize the experience
+Personalitzar l'experiència
+
+
+;Add your brand and content to increase customer touchpoints, improve retention and drive future sales.
+Afegir la vostra marca i contingut per a augmentar els punts de contacte amb els clients, millorar-ne la retenció i facilitar futures transaccions.
+
+
+# list item sub-title
+;Build new service offerings
+Construir noves ofertes de servei
+
+
+;Integrate services directly into the browser with Firefox Marketplace and WebRTC to free yourself from the constraints of proprietary platforms.
+Integrar serveis directament en el navegador amb el Firefox Marketplace i WebRTC per a alliberar-vos de les restriccions de les plataformes propietàries.
+
+
+# list item sub-title
+;Direct customer billing
+Facturació directa amb el client
+
+
+;Grow your business by combining your own customer payment plans with our open source service offerings.
+Fer crèixer el vostre negoci combinant els vostres plans de pagament de clients amb les nostres ofertes de servei.
+
+
+;Partner Opportunities
+Oportunitats com a socis
+
+
+;For Developers
+Per a desenvolupadors
+
+
+## LOCATION OVERLAY AND MAP ##
+;Location
+Ubicació
+
+
+;Firefox at MWC 2013 — Stand F20, Hall 8.1, App Planet
+El Firefox al MWC 2013 — Stand F20, Hall 8.1, App Planet
+
+
+;From the South Entrance:
+De l'entrada sud:
+
+
+;Walk straight down the main hallway of Hall 8.1. Our stand is located in the middle of the hall on the right.
+Camineu tot recte pel pasadís principal del Hall 8.1. El nostre stand es troba al mig de l'espai a la dreta.
+
+
+;From the North Entrance:
+De l'entrada nord:
+
+
+;Go up the escalator to Hall 8.1. Our stand is located in the middle of the hall.
+Pugeu per les escales automàtiques al Hall 8.1. El nostre stand es troba situat al mig de l'espai.
+
+
+;Download map (PDF)
+Baixa el mapa (PDF)
+
+
+;For Operators & Manufacturers
+Per a operadors i fabricants
+
+
+;Mobile World Congress, Barcelona, 25 - 28 February 2013
+Mobile World Congress, Barcelona, 25 - 28 febrer 2013
+
+
+;Firefox at MWC 2013 — Schedule of events
+Firefox al MWC 2013 — Programa d'esdeveniments
+
+
+;Schedule
+Programa
+
+
+;09:00-10:30 CET
+09:00-10:30 CET {ok}
+
+
+;12:30-13:00 CET
+12:30-13:00 CET {ok}
+
+
+;09:00-16:00 CET
+09:00-16:00 CET {ok}
+
+
+;13:00-15:00 CET
+13:00-15:00 CET {ok}
+
+
+;16:00-17:30 CET
+16:00-17:30 CET {ok}
+
+
+;16:00-23:00 CET (awards at 22:30)
+16:00-23:00 CET (premis a les 22:30)
+
+
+;17:45-18:30 CET
+17:45-18:30 CET {ok}
+
+
+;09:00 – 11:30:
+09:00 – 11:30: {ok}
+
+
+;11:30 – 14:00:
+11:30 – 14:00: {ok}
+
+
+;14:00 – 16:30:
+14:00 – 16:30: {ok}
+
+
+;16:30 – 19:00:
+16:30 – 19:00: {ok}
+
+
+;VP of Products, Mozilla
+VP de productes, Mozilla
+
+
+# Title
+;Gary Kovacs CEO of Mozilla Keynote
+Keynote de Gary Kovacs, CEO de Mozilla
+
+
+;Mozilla CEO Gary Kovacs’ keynote speech will discuss the benefits of an Open Web device in markets around the world and how Firefox OS will help operators, phone manufacturers and developers reach the next billion Web users.
+La keynote del CEO de Mozilla, Gary Kovacs, tractarà sobre els beneficis d'un dispositiu Web Obert en els mercats d'arreu del món i com el Firefox OS ajudarà operadors, fabricants de telèfons i desenvolupadors arribar als propers milions d'usuaris del Web.
+
+
+;Hall 4, Conference Village, Auditorium 1
+Hall 4, Conference Village, Auditori 1
+
+
+# Title, Mobile World Live is to keep in English http://www.mobileworldlive.com
+;Mobile World Live Keynote with Mitchell Baker
+Keynote en directe del Mobile World amb Mitchell Baker
+
+
+;Mitchell Baker, Chairperson of the Mozilla Foundation, will discuss the importance of bringing Open Web innovation to mobile devices.
+Mitchell Baker, presidenta de Mozilla Foundation, debatrà sobre la importància de portar la innovació del Web Obert als dispositius mòbils.
+
+
+# Title
+;Mobile App Privacy Debate
+Debat sobre la privadesa de les apps mòbils
+
+
+;Harvey Anderson, Vice President of Business Affairs and General Counsel at Mozilla, will take part in the debate “Mobile app privacy: What’s your view?” This interactive session is for anyone interested in helping consumers easily make privacy choices on a mobile device.
+Harvey Anderson, Vice President of Business Affairs and General Counsel a Mozilla, participarà en el debat “Mobile app privacy: What’s your view?” Aquesta sessió interactiva està destinada a tothom interessat en ajudar els consumidors a facilitar-lo les decisions sobre privadesa als seus dispositius mòbils.
+
+
+# Title
+;Apps Panel: Evolving Ecosystems
+Apps Panel: Evolving Ecosystems {ok}
+
+
+;Jay Sullivan, Vice President of Products, will take part in the Apps Panel: Evolving Ecosystems. The panel will discuss the current state of the apps industry and consider how the roles and responsibilities within it are adapting as the apps market evolves.
+Jay Sullivan, Vice President of Products, participarà a l'Apps Panel: «Evolving Ecosystems». El panell tractarà sobre l'estat actual de la indústria de les apps i com els rols i responsabilitats en el sector s'estan adaptant a mesura que el mercat d'apps evoluciona.
+
+
+;Hall 4, Conference Village, Auditorium 2
+Hall 4, Conference Village, Auditori 2
+
+
+;GSMA Pavilion, Congress Square (CS80)
+GSMA Pavilion, Congress Square (CS80) {ok}
+
+
+# Title: keep Mobile World Live TV in English : http://www.mobileworldcongress.com/mobile-world-live/
+;Mobile World Live TV Panel
+Mobile World Live TV Panel {ok}
+
+
+;Johnathan Nightingale, VP of Firefox Engineering, will participate in a discussion about future opportunities in the apps market.
+Johnathan Nightingale, VP of Firefox Engineering, participarà en el debat sobre les futures oportunitats en el mercat de les apps.
+
+
+;Location: the live panel will be streamed on all major screens throughout the show area
+Ubicació: el tauler serà retransmès en directe des de totes de les pantalles principals de l'àrea de presentacions
+
+
+# Title
+;Mobile Premier Awards & AppCircus After Party
+Mobile Premier Awards & AppCircus After Party {ok}
+
+
+;Firefox Marketplace VP Rick Fant will select and present the winning app.
+El VP del Firefox Marketplace, Rick Fant, seleccionarà i presentarà l'app guanyadora.
+
+
+# Title
+;WIP Jam - Day for Developers
+WIP Jam - Dia per a desenvolupadors
+
+
+;The key event for mobile developers at MWC. Mozilla CTO Brendan Eich and Mozilla Developer Evangelist Robert Nyman will host a workshop and Q&A session on “Why Open Web Apps & Firefox OS are good for mobile developers.” Mozilla developer evangelist Chris Heilmann will present an UnPanel on "HTML5 Beyond the Hype" and lead several HTML5 discussion groups. WIP Jam will also see DemoCamps of HTML5 apps created during Mozilla Developer Days. Full schedule available here: %(link)s
+L'esedeveniment principal per als desenvolupadors de mòbil al MWC. EL CTO de Mozilla, Brendan Eich, i l'evangelista de desenvolupament de Mozilla, Robert Nyman, prepararan un taller i sessió de QA amb el nom: “Why Open Web Apps & Firefox OS are good for mobile developers.” L'evangelista de desenvolupament Chris Heilmann presentarà un UnPanel de "HTML5 Beyond the Hype" i liderarà diferents grups de debat sobre HTML5. Durant el WIP Jam es mostraran DemoCamps d'apps HTML5 apps creades durant els Mozilla Developer Days. Podeu trobar el programa sencer a: %(link)s
+
+
+;Location TBD
+Ubicació per determinar
+
+
+;Monday
+Dilluns
+
+
+;Tuesday
+Dimarts
+
+
+;Wednesday
+Dimecres
+
+
+;Thursday
+Dijous
+
+
+;February 25
+25 de febrer
+
+
+;February 26
+26 de febrer
+
+
+;February 27
+27 de febrer
+
+
+;February 28
+28 de febrer
+
+
+;CEO, Mozilla
+CEO, Mozilla {ok}
+
+
+;Mobile
+Mòbil
+
+
+;Back to top
+Torna a dalt
+
+
+;Firefox Marketplace — Developer testimonials
+Firefox Marketplace — Testimonis de desenvolupadors
+
+
+;Get it on Google Play
+Aconseguiu-lo del Google Play
+
+
+# Press title in Recent News
+;Mozilla Announces Global Expansion for Firefox OS
+Mozilla anuncia una expansió global per al Firefox OS
+
+
+# Press title in Recent News
+;Watch our wrap-up video from Mobile World Congress 2013
+Watch our wrap-up video from Mobile World Congress 2013
+
+
+# Press title in Recent News
+;Mozilla and partners prepare to launch first Firefox OS smartsphones
+Mozilla and partners prepare to launch first Firefox OS smartsphones
+
+
+;View the version notes
+View the version notes
+
+
+;Read about features, changes and more
+Read about features, changes and more
+
+

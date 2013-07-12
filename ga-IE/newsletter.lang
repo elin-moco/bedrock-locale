@@ -1,0 +1,214 @@
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Faigh ár Nuachtlitir Mhíosúil
+
+
+;Your Email Address
+Do Sheoladh Ríomhphoist
+
+
+;Text
+Téacs
+
+
+;Available Languages
+Teangacha
+
+
+;Select country
+Roghnaigh tír
+
+
+;Whoops! Be sure to enter a valid email address.
+Úps! Bí cinnte gur chuir tú seoladh bailí ríomhphoist isteach.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Léigh Polasaí Príobháideachta Mhozilla agus glac leis trí tic a chur sa bhosca.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Glacaim leis an <a href="%s">bPolasaí Príobháideachta</a>
+
+
+;Sign me up!
+Ba mhaith liom clárú!
+
+
+;We will only send you Mozilla-related information.
+Ní sheolfaimid duit ach eolas a bhaineann le Mozilla.
+
+
+;Thanks for Subscribing!
+Go raibh maith agat as clárú!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Tá áthas orainn go mbeimid in ann leideanna agus cleasa a thabhairt duit chun an tairbhe is mó a bhaint as Firefox, chomh maith le nuacht spreagúil faoi Mhozilla agus an obair a dhéanaimid chun feabhas a chur ar an nGréasán.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Liostáil lenár nuachtlitir mhíosúil agus faigh na leideanna agus cleasanna is déanaí chun an tairbhe is mó a bhaint as do bhrabhsálaí Firefox. Ba mhaith linn fanacht i dteagmháil leat!
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Táimid tar éis ríomhphost a sheoladh chugat. Cliceáil ar an nasc sa teachtaireacht sin chun do liostáil a dhearbhú.
+
+
+;Read all about it in our <span>newsletter</span>
+Léigh chuild rud inár <span>nuachtlitir</span>
+
+
+;Your newsletter subscription has been confirmed.
+Tá tú liostáilte leis an nuachtlitir anois.
+
+
+;Format
+Formáid
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Tá an úim is an tslinn agat! <span>Ach fan - tá tuilleadh ann</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Ba mhaith linn nuacht a bhfuil suim agat inti a sheoladh chugat. Tabhair breis eolais fút féin dúinn, agus cláraigh le nuachtlitreacha eile ó Mhozilla.
+
+
+;Firefox & You
+Tusa agus Firefox
+
+
+;Our Other Newsletters:
+Ár Nuachtlitreacha Eile:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Faigh na leideanna agus cleasanna is déanaí chun an tairbhe is mó a bhaint as Firefox.
+
+
+;Firefox Mobile
+Firefox Soghluaiste
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Tuilleadh eolais faoi bhreiseáin mhór-le-rá agus gnéithe nua ar Firefox Soghluaiste.
+
+
+;Beta News
+Nuacht Bhéite
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Léigh faoi na gnéithe is déanaí i bhFirefox, ar do ríomhaire agus ar do ghléas soghluaiste, roimh an leagan deireanach.
+
+
+;Let’s Be Friends!
+Bí cairdiúil linn!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Tá Firefox ar na suímh shóisialta is ansa leat. Ceangail linn agus glac páirt sa chomhrá.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Bainistigh do <span>Liostálacha</span>
+
+
+;Subscribe
+Liostáil
+
+
+;Unsubscribe
+Díliostáil
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Cuir tic anseo mura mian leat aon ríomhphost a fháil ó Mhozilla
+
+
+;Remove me from all Mozilla emails
+Níor mhaith liom aon ríomhphost ó Mhozilla
+
+
+;Save Preferences
+Sábháil do Roghanna
+
+
+;Thanks for updating your email preferences.
+Go raibh maith agat as do shocruithe ríomhphoist a athrú.
+
+
+;You've been unsubscribed.
+Tá tú díliostáilte anois.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Tá brón orm go bhfuil tú ag imeacht. Ar mhiste leat insint dúinn cén fáth?
+
+
+;You send too many emails.
+Seolann tú an iomarca ríomhphoist.
+
+
+;Your content wasn't relevant to me.
+Níl suim agam san ábhar.
+
+
+;Your email design was too hard to read.
+Bhí sé deacair do theachtaireachtaí ríomhphoist a léamh.
+
+
+;I didn't sign up for this.
+Níor liostáil mé riamh.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Tá mé ceangailte le Mozilla ar Facebook agus Twitter cheana.
+
+
+;Submit
+Seol
+
+
+;Thanks for telling us why you’re leaving.
+Go raibh maith agat as insint dúinn cén fáth a bhfuil tú ag imeacht.
+
+
+;Mozilla Newsletters
+Nuachtlitreacha Mozilla
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Go raibh maith agat! Féach ar do bhosca ríomhphoist chun an síntiús a chur i gcrích.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Gheobhaidh tú teachtaireacht ó mozilla@e.mozilla.org chun an síntiús a dhearbhú. Mura bhfeiceann tú é, féach ar do bhosca dramhphoist. Caithfidh tú an síntiús a dhearbhú chun an nuachtlitir a fháil.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Cuir ár seoladh ríomhphoist mozilla@e.mozilla.org i do leabhar seoltaí chun bheith cinnte go bhfaighfidh tú an nuachtlitir uainn i gcónaí.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Faigh nuacht faoi Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+DO SHEOLADH RÍOMHPHOIST
+
+
+# Button
+;Sign me up
+Ba mhaith liom clárú
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+
+

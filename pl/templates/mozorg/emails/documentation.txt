@@ -1,0 +1,18 @@
+Dziękujemy za wyrażenie chęci pomocy przy pisaniu dokumentacji Mozilli. Oto kilka sposobów, by pomóc:
+
+Spisuj podstawową wiedzę o Firefoksie
+http://support.mozilla.com/en-US/kb/improve-knowledge-base
+
+Spisuj podstawową wiedzę o Thunderbirdzie
+http://support.mozillamessaging.com/en-US/kb/improve-knowledge-base
+
+Pomóż przy dokumentach Mozilla Developer Network
+http://developer.mozilla.org/Project:en/How_to_Help
+
+Możesz też tłumaczyć artykuły poświęcone Mozilli zamieszczone na Wikipedii:
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mozilla
+
+Jeszcze raz dziękujemy za wyrażenie chęci pomocy. Jeśli masz dodatkowe pytania, pisz śmiało!
+
+Powodzenia
+Zespół Aviary.pl

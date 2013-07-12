@@ -1,0 +1,215 @@
+## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+訂閱每月新聞
+
+
+;Your Email Address
+您的電子郵件地址
+
+
+;Text
+純文字
+
+
+;Available Languages
+可用語言
+
+
+;Select country
+選擇國家
+
+
+;Whoops! Be sure to enter a valid email address.
+喔喔！請確定您輸入了有效的電子郵件地址。
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+請閱讀 Mozilla 隱私權保護政策，並點下下面的同意框。
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+我同意 <a href="%s">隱私權保護政策</a>
+
+
+;Sign me up!
+算我一個！
+
+
+;We will only send you Mozilla-related information.
+我們將只會寄送與 Mozilla 有關的資訊給您。
+
+
+;Thanks for Subscribing!
+感謝您的訂閱！
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+我們希望很快就能開始與您分享讓您能好好利用 Firefox 的秘訣與訣竅、令人興奮的 Mozilla 新聞，以及我們如何讓網路變得更好。
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+訂閱每月的更新消息，並取得 Mozilla 的最新消息，還有能讓您完全發揮 Firefox 瀏覽器功能的小撇步等等。這是您能保持與我們聯繫的最佳方式！
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+我們剛寄出一封確認信到您的電子郵件信箱。請點下信上的確認鏈結以確認您想要加入郵寄清單。
+
+
+;Read all about it in our <span>newsletter</span>
+在我們的 <span>電子報</span> 當中閱讀詳細資訊
+
+
+;Your newsletter subscription has been confirmed.
+已確認您的電子報訂閱。
+
+
+;Format
+格式
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+這樣就完成了！<span>等等，還有一件事</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+想要取得與您更相關的資訊嗎？請給我們一些關於您的資料。我們也歡迎您訂閱其他的 Mozilla 新聞電子報。
+
+
+;Firefox & You
+Firefox & You {ok}
+
+
+;Our Other Newsletters:
+我們其他的電子報:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+取得關於如何能完整發揮您最愛瀏覽器的功力的資訊，以及使用小技巧。
+
+
+;Firefox Mobile
+Firefox 行動版
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+了解 Firefox 行動版上有什麼最新功能與附加元件。
+
+
+;Beta News
+Beta 新聞
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+在正式版釋出前搶先了解 Firefox 桌面版及行動版有什麼最新功能。
+
+
+;Let’s Be Friends!
+讓我們當好朋友！
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox 也在您最愛的社群網站出沒，跟我們一起聊聊吧。
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+管理您 <span>訂閱的電子報</span>
+
+
+;Subscribe
+訂閱
+
+
+;Unsubscribe
+退訂
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+若您想要退訂所有來自 Mozilla 的電子郵件，請打勾
+
+
+;Remove me from all Mozilla emails
+我不要再收到任何來自 Mozilla 的電子郵件
+
+
+;Save Preferences
+儲存偏好設定
+
+
+;Thanks for updating your email preferences.
+感謝您更新您的收件偏好。
+
+
+;You've been unsubscribed.
+您已經退訂。
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+我們對您的退訂感到抱歉。願意告訴我們為什麼不訂了嗎？
+
+
+;You send too many emails.
+你們發了太多信。
+
+
+;Your content wasn't relevant to me.
+你們的信件內容跟我沒什麼關係。
+
+
+;Your email design was too hard to read.
+你們的信件版面設計很難閱讀。
+
+
+;I didn't sign up for this.
+我根本沒有訂過這些信件。
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+我將會改從 Facebook 與 Twitter 來追蹤 Mozilla 的消息。
+
+
+;Submit
+送出
+
+
+;Thanks for telling us why you’re leaving.
+感謝您告訴我們退訂的原因！
+
+
+;Mozilla Newsletters
+Mozilla 電子報
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+謝謝您！請收信並確認您的訂閱。
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+您確定您已將我們的寄件地址: mozilla@e.mozilla.org 加到通訊錄，以確保信件不會不小心被過濾掉了。
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+訂閱 Firefox 電子報
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+在此輸入您的電子郵件地址
+
+
+# Button
+;Sign me up
+算我一個
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+我同意你們依照<a href="%s">隱私權保護政策</a>上面所記載的方式使用此資訊
+
+

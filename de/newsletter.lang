@@ -1,0 +1,215 @@
+## active ##
+# These strings are used for subscription forms in pages footers, as well as on http://www-dev.allizom.org/newsletter and http://www-dev.allizom.org/es-ES/newsletter/new
+
+
+;Get Monthly News
+Erhalten Sie monatliche Neuigkeiten
+
+
+;Your Email Address
+Ihre E-Mail-Adresse
+
+
+;Text
+Text {ok}
+
+
+;Available Languages
+Verfügbare Sprachen
+
+
+;Select country
+Land auswählen
+
+
+;Whoops! Be sure to enter a valid email address.
+Hoppla! Geben Sie bitte eine gültige E-Mail-Adresse ein.
+
+
+;Please read the Mozilla Privacy Policy and agree by checking the box.
+Bitte lesen Sie die Mozilla-Datenschutzerklärung und stimmen Sie zu, indem Sie das Kontrollkästchen aktivieren.
+
+
+;I agree to the <a href="%s">Privacy Policy</a>
+Ich stimme der <a href="%s">Datenschutzerklärung</a> zu
+
+
+;Sign me up!
+Schreibt mich auf die Liste!
+
+
+;We will only send you Mozilla-related information.
+Wir schicken Ihnen nur Informationen mit Bezug zu Mozilla.
+
+
+;Thanks for Subscribing!
+Danke, dass Sie den Newsletter abonniert haben!
+
+
+;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
+Wir freuen uns darauf, Ihnen bald Tipps &amp; Tricks zur Frage zu schicken, wie Sie das meiste aus Firefox herausholen können, sowie aufregende Neuigkeiten über Mozilla und Informationen dazu, wie wir für ein besseres Internet arbeiten.
+
+
+;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
+Abonnieren Sie den monatlichen Mozilla-Newsletter und erhalten Sie die wichtigsten Mozilla-News. Sie lernen aus erster Hand, wie Sie das Beste aus Ihrem Firefox-Browser herausholen. So bleiben Sie immer auf dem neuesten Stand.
+
+
+;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
+Wir haben Ihnen gerade eine E-Mail zur Bestätigung geschickt. Klicken Sie auf den Bestätigungs-Link in dieser E-Mail, um Ihr Abonnement dieser Mailingliste zu bestätigen.
+
+
+;Read all about it in our <span>newsletter</span>
+Erfahren Sie mehr mit dem <span>Mozilla-Newsletter</span>
+
+
+;Your newsletter subscription has been confirmed.
+Ihr Newsletter-Abonnement wurde bestätigt.
+
+
+;Format
+Format {ok}
+
+
+;You’re All Set! <span>But Wait, There’s More</span>
+Sie sind startklar! <span>Aber halt, es gibt noch mehr</span>
+
+
+;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
+Möchten Sie die wichtigsten Informationen erhalten? Erzählen Sie uns ein bisschen von Ihnen. Und wenn Sie schon da sind, melden Sie sich für andere Mozilla-Nachrichten an.
+
+
+;Firefox & You
+Firefox & Du
+
+
+;Our Other Newsletters:
+Unsere anderen Newsletter:
+
+
+;Get the latest tips and tricks for getting the most out of your favorite browser.
+Holen Sie sich die neuesten Tipps und Tricks, um das meiste aus Ihrem Lieblingsbrowser herauszuholen.
+
+
+;Firefox Mobile
+Firefox Mobile {ok}
+
+
+;Learn about the hottest new add-ons and features for Firefox mobile.
+Erfahren Sie etwas über die heißesten neuen Add-ons und Funktionen für Firefox Mobile.
+
+
+;Beta News
+Beta-Nachrichten
+
+
+;Read about the latest features for Firefox desktop and mobile before the final release.
+Lesen Sie vor der endgültigen Veröffentlichung etwas über die neuesten Funktionen für Firefox für Desktops und Mobilgeräte.
+
+
+;Let’s Be Friends!
+Lass’ uns Freunde sein!
+
+
+;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
+Firefox ist auch auf Ihren sozialen Lieblingsnetzwerken. Setzen Sie sich mit uns in Verbindung und diskutieren Sie mit.
+
+
+;Manage your <span>Newsletter Subscriptions</span>
+Verwalten Sie Ihre <span>Newsletter-Abonnements</span>
+
+
+;Subscribe
+Abonnieren
+
+
+;Unsubscribe
+Abonnement entfernen
+
+
+;Check here if you’d like to be removed from all Mozilla emails
+Aktivieren Sie dieses Kontrollkästchen, um sich aus allen Mozilla-E-Mail-Listen auszutragen
+
+
+;Remove me from all Mozilla emails
+Trage mich aus allen Mozilla-E-Mail-Listen aus
+
+
+;Save Preferences
+Einstellungen speichern
+
+
+;Thanks for updating your email preferences.
+Danke für die Aktualisierung Ihrer E-Mail-Einstellungen.
+
+
+;You've been unsubscribed.
+Sie wurden aus der Abonnentenliste entfernt.
+
+
+;We’re sorry to see you go. Would you mind telling us why you’re leaving?
+Es tut uns Leid, dass Sie gehen. Würden Sie uns bitte sagen, warum Sie uns verlassen?
+
+
+;You send too many emails.
+Ihr habt zu viele E-Mails geschickt.
+
+
+;Your content wasn't relevant to me.
+Eure Inhalte waren für mich nicht relevant.
+
+
+;Your email design was too hard to read.
+Euer E-Mail-Design war zu schwer zu lesen.
+
+
+;I didn't sign up for this.
+Ich habe mich dafür nicht angemeldet.
+
+
+;I'm keeping in touch with Mozilla on Facebook and Twitter instead.
+Ich bleibe lieber über Facebook und Twitter mit Mozilla in Verbindung.
+
+
+;Submit
+Absenden
+
+
+;Thanks for telling us why you’re leaving.
+Danke, dass Sie uns gesagt haben, warum Sie uns verlassen.
+
+
+;Mozilla Newsletters
+Mozilla-Newsletter
+
+
+;Thanks! Please check your inbox to confirm your subscription.
+Vielen Dank! Bitte kontrollieren Sie Ihren Posteingang, um Ihr Abonnement zu bestätigen.
+
+
+;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
+Sie werden eine E-Mail von mozilla@e.mozilla.org erhalten, um Ihr Abonnement zu bestätigen. Sollte dies nicht der Fall sein, kontrollieren Sie bitte Ihren Spam-Ordner. Sie müssen Ihr Abonnement bestätigen, um diesen Newsletter weiterhin zu bekommen.
+
+
+;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
+Bitte fügen Sie die E-Mail-Adresse mozilla@e.mozilla.org zu Ihrer Kontaktliste hinzu, damit unsere E-Mails Sie erreichen.
+
+
+# This string is used for a subscription field on other pages than /newsletter/
+;Get Firefox news
+Erhalten Sie Neuigkeiten zu Firefox
+
+
+# This is a default placeholder for a subscription field on other pages than /newsletter/
+;YOUR EMAIL HERE
+IHRE E-MAIL-ADRESSE
+
+
+# Button
+;Sign me up
+Schreibt mich auf die Liste
+
+
+;I’m okay with you handling this info as you explain in your <a href="%s">Privacy Policy</a>
+Ich bin einverstanden, dass Sie diese Daten wie in Ihrer <a href="%s">Datenschutzerklärung</a> angegeben verwenden
+
+
