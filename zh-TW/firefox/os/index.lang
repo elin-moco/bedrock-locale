@@ -243,6 +243,14 @@ Firefox 將使用者擺在第一位，提供全新的選擇與創新，進而從
 若有相關問題 <a href="%(link)s">參閱我們精心編輯的 FAQ</a>
 
 
+;View the version notes <a href="%(link)s">Read about features, changes and more</a>
+檢視版本記錄<a href="%(link)s">取得關於功能、更新，以及其他的相關資訊</a>
+
+
+
+
+
+
 ;We work with a number of providers to offer Firefox OS on a variety of devices.
 Mozilla 已與多家電信營運商合作，將於多款裝置上搭載 Firefox OS。
 
