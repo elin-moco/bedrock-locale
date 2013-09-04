@@ -7,7 +7,7 @@
 
 
 ;Your Email Address
-您的電子郵件地址
+你的電子郵件地址
 
 
 ;Text
@@ -23,7 +23,7 @@
 
 
 ;Whoops! Be sure to enter a valid email address.
-喔喔！請確定您輸入了有效的電子郵件地址。
+喔喔！請確定你輸入了有效的電子郵件地址。
 
 
 ;Please read the Mozilla Privacy Policy and agree by checking the box.
@@ -39,24 +39,24 @@
 
 
 ;We will only send you Mozilla-related information.
-我們將只會寄送與 Mozilla 有關的資訊給您。
+我們將只會寄送與 Mozilla 有關的資訊給你。
 
 
 ;Thanks for Subscribing!
-非常感謝您訂閱 Firefox 電子報，加入社群一起讓 Web 變得更美好！
+非常感謝你訂閱 Firefox 電子報，加入社群一起讓 Web 變得更美好！
 
 
 ;We look forward to soon begin sharing tips &amp; tricks on getting the most out of Firefox, as well as exciting news about Mozilla and how we’re working to create a better Web.
-我們誠摯邀請您將這份消息分享給你的好朋友、好同學、好麻吉，讓他們也能隨時取得Firefox 第一手消息！
+我們誠摯邀請你將這份消息分享給你的好朋友、好同學、好麻吉，讓他們也能隨時取得Firefox 第一手消息！
 
 
 ;Subscribe to monthly updates and keep current with Mozilla news, including the latest tips and tricks for getting the most out of your Firefox browser. It’s the perfect way for us to keep in touch!
-你是 Firefox 愛用者嗎？關心 Firefox OS 最近動態嗎？邀請你訂閱 Firefox 電子報，你將定期收到 Mozilla 各式開源專案的最新消息，以及港台地區的相關活動訊息。加入電子報讓您更容易參與社群，做出貢獻。
+你是 Firefox 愛用者嗎？關心 Firefox OS 最近動態嗎？邀請你訂閱 Firefox 電子報，你將定期收到 Mozilla 各式開源專案的最新消息，以及港台地區的相關活動訊息。加入電子報讓你更容易參與社群，做出貢獻。
 
 
 
 ;We just sent you a confirmation message by email. Click on the confirmation link in this email to validate your subscription to this mailing list.
-我們剛寄出一封確認信到您的電子郵件信箱。請點下信上的確認鏈結以確認您想要加入郵寄清單。
+我們剛寄出一封確認信到你的電子郵件信箱。請點下信上的確認鏈結以確認你想要加入郵寄清單。
 
 
 ;Read all about it in our <span>newsletter</span>
@@ -64,7 +64,7 @@
 
 
 ;Your newsletter subscription has been confirmed.
-已確認您的電子報訂閱。
+已確認你的電子報訂閱。
 
 
 ;Format
@@ -76,7 +76,7 @@
 
 
 ;Want to get the most relevant info? Tell us a little more about yourself. And while you’re here, sign up for other Mozilla news.
-想要取得與您更相關的資訊嗎？請給我們一些關於您的資料。我們也歡迎您訂閱其他的 Mozilla 新聞電子報。
+想要取得與你更相關的資訊嗎？請給我們一些關於你的資料。我們也歡迎你訂閱其他的 Mozilla 新聞電子報。
 
 
 ;Firefox & You
@@ -88,7 +88,7 @@ Firefox & You {ok}
 
 
 ;Get the latest tips and tricks for getting the most out of your favorite browser.
-取得關於如何能完整發揮您最愛瀏覽器的功力的資訊，以及使用小技巧。
+取得關於如何能完整發揮你最愛瀏覽器的功力的資訊，以及使用小技巧。
 
 
 ;Firefox Mobile
@@ -112,11 +112,11 @@ Beta 新聞
 
 
 ;Firefox is also on your favorite social networking sites. Connect with us and join the conversation.
-Firefox 也在您最愛的社群網站出沒，跟我們一起聊聊吧。
+Firefox 也在你最愛的社群網站出沒，跟我們一起聊聊吧。
 
 
 ;Manage your <span>Newsletter Subscriptions</span>
-管理您 <span>訂閱的電子報</span>
+管理你 <span>訂閱的電子報</span>
 
 
 ;Subscribe
@@ -128,7 +128,7 @@ Firefox 也在您最愛的社群網站出沒，跟我們一起聊聊吧。
 
 
 ;Check here if you’d like to be removed from all Mozilla emails
-若您想要退訂所有來自 Mozilla 的電子郵件，請打勾
+若你想要退訂所有來自 Mozilla 的電子郵件，請打勾
 
 
 ;Remove me from all Mozilla emails
@@ -140,15 +140,15 @@ Firefox 也在您最愛的社群網站出沒，跟我們一起聊聊吧。
 
 
 ;Thanks for updating your email preferences.
-感謝您更新您的收件偏好。
+感謝你更新你的收件偏好。
 
 
 ;You've been unsubscribed.
-您已經退訂。
+你已經退訂。
 
 
 ;We’re sorry to see you go. Would you mind telling us why you’re leaving?
-我們對您的退訂感到抱歉。願意告訴我們為什麼不訂了嗎？
+我們對你的退訂感到抱歉。願意告訴我們為什麼不訂了嗎？
 
 
 ;You send too many emails.
@@ -176,7 +176,7 @@ Firefox 也在您最愛的社群網站出沒，跟我們一起聊聊吧。
 
 
 ;Thanks for telling us why you’re leaving.
-感謝您告訴我們退訂的原因！
+感謝你告訴我們退訂的原因！
 
 
 ;Mozilla Newsletters
@@ -184,11 +184,11 @@ Firefox 電子報
 
 
 ;Thanks! Please check your inbox to confirm your subscription.
-謝謝您！請收信並確認您的訂閱。
+謝謝你！請收信並確認你的訂閱。
 
 
 ;You'll receive an email from mozilla@e.mozilla.org to confirm your subscription. If you don't see it, check your spam filter. You must confirm your subscription to receive our newsletter.
-您將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若您沒收到的話，請檢查您的垃圾信件過濾器，您必須確認訂閱後才會開始收到我們的電子報。
+你將會收到一封來自 mozilla@e.mozilla.org 的訂閱確認信。若你沒收到的話，請檢查你的垃圾信件過濾器，你必須確認訂閱後才會開始收到我們的電子報。
 
 
 ;Please be sure to add our sending address: mozilla@e.mozilla.org to your address book to ensure we always reach your inbox.
@@ -202,7 +202,7 @@ Firefox 電子報
 
 # This is a default placeholder for a subscription field on other pages than /newsletter/
 ;YOUR EMAIL HERE
-在此輸入您的電子郵件地址
+在此輸入你的電子郵件地址
 
 
 # Button
@@ -214,3 +214,5 @@ Firefox 電子報
 我已同意 Mozilla 的<a href="%s">隱私權保護政策</a>
 
 
+;Thank you for signing up!
+感謝你訂閱 Firefox 電子報！
