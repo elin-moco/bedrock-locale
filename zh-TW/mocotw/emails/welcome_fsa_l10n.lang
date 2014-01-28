@@ -37,7 +37,7 @@ Team Mobilizer 是由一群熱血的科技高手所組成，致力發揚 Mozilla
 
 
 ;Further familiarize yourself with the program's mission, tools, and activities on our <a style="%(link_style)s" href="%(link1)s"> wiki page</a>. Here you can also find out more information about what <a style="%(link_style)s" href="%(link2)s"> activities</a> you can do on campus to promote Mozilla ( <a alias="wiki rewards" style="%(link_style)s" href="%(link3)s"> and earn rewards!</a>)
-透過我們的 <a style="%(link_style)s" href="%(link1)s"> wiki 頁面</a>瞭解校園大使所應完成的任務、可利用的工具、相關活動等資訊。也可以在裡面找到有哪些你可以參與進行的<a style="%(link_style)s" href="%(link2)s">活動</a>（可<a href="link2_tw" style="%(link_style)s">點此看中文版</a>），以在校園中推廣 Mozilla 以及 Firefox（<a alias="wiki rewards" style="%(link_style)s" href="%(link3)s">還能贏得獎品</a>）。
+透過我們的 <a style="%(link_style)s" href="%(link1)s"> Wiki 頁面</a>了解校園大使所應完成的任務、可利用的工具、相關活動等資訊。也可以在裡面找到你能參與的<a style="%(link_style)s" href="%(link2)s">活動</a> (中文版說明<a href="link2_tw" style="%(link_style)s">請參考 Firefox 校園大使任務包</a>)，以在校園中推廣 Mozilla 以及 Firefox (<a alias="wiki rewards" style="%(link_style)s" href="%(link3)s">還能贏得獎品</a>)。
 
 
 ;<strong>3) Join us on <a style="%(link_style)s" href="%(link1)s">Facebook</a> and <a style="%(link_style)s" href="%(link2)s">Twitter</a>!</strong><br> Explore our social pages for regular updates and to connect with your fellow Student Ambassadors.
@@ -66,7 +66,7 @@ Team Mobilizer 是由一群熱血的科技高手所組成，致力發揚 Mozilla
 
 
 ;Mozilla Student Community Manager
-Mozilla 校園社群經理
+Mozilla 校園大使專案
 
 
 ;Any questions?
