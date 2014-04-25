@@ -1,14 +1,11 @@
-## NOTE: https://www-demo3.allizom.org/firefox/29.0/whatsnew/ , https://www-demo3.allizom.org/firefox/29.0/firstrun/
-
-
 # Headline in /whatsnew page
 ;Welcome to Firefox
-歡迎使用 Firefox
+歡迎使用全新 Firefox
 
 
 # Sub-headline in /firstrun page
 ;Committed to you, your privacy and an open Web.
-承諾為您、您的隱私權與 Web 的開放而努力。
+承諾為您個人、您的隱私權、Web 的開放性而努力。
 
 
 ;Learn how to customize your Firefox
@@ -20,37 +17,37 @@
 
 
 ;Learn more about the new Firefox
-了解更多新的 Firefox
+進一步了解新的 Firefox
 
 
 ;Grouped together for quick, easy access
-放在一起，讓您更快、更方便使用
+整合在一起，讓您能更快、更輕鬆的取用
 
 
 # <br> tag below used for formatting only.
 ;Your favorite sites are<br> closer than ever
-您最愛的網站比以往更近
+更貼近您最愛的網站
 
 
 ;Add features and styles with add-ons
-透過附加元件新增功能與樣式
+透過附加元件新增功能與風格
 
 
 ;Have Firefox on another device?
-在其他裝置中也安裝了 Firefox？
+還有其他裝置也安裝了 Firefox？
 
 
 # <br> tag below used for formatting only.
 ;Designed so you can<br> make it your own
-設計成可以變成您想要的方式
+專為迎合您的需求所設計
 
 
 ;Firefox Help
-Firefox 說明
+Firefox 輔助說明
 
 
 ;You don’t have to start over. Access your history, bookmarks and more.
-您不需要砍掉重練。存取您的歷史紀錄、書籤與其他功能。
+您不需砍掉重練，即可輕鬆存取既有的書籤、歷史紀錄，還有更多資訊。
 
 
 ;There’s Never Been a Better Time for Firefox
@@ -76,7 +73,7 @@ Firefox 從來沒有這麼好過
 
 
 ;Using an older version of Sync?
-還在使用舊版的 Sync？
+還在使用舊版 Sync 同步功能？
 
 
 ;Firefox Features
@@ -84,7 +81,7 @@ Firefox 功能
 
 
 ;Save sites with a single click
-只要一點就能儲存網站
+只要輕鬆一按就能儲存網站
 
 
 ;There’s never been a better time for Firefox
@@ -98,20 +95,20 @@ Firefox 從來沒有這麼好過
 
 # <br> tag below used for formatting only.
 ;Thousands of ways to<br> make Firefox do more
-有幾千種方式能讓 Firefox 做更多事
+數不清有幾種方式讓 Firefox 達到更多功能
 
 
 ;Need help?
-需要幫忙嗎？
+需要協助嗎？
 
 
 ;Now easier to find, use and manage
-更容易尋找、使用與管理
+更容易尋找、使用、管理
 
 
 # This is the title for a door-hanger menu that shows in the browser chrome
 ;See what’s new
-有什麼新鮮事
+看看有哪些新鮮事
 
 
 ;Frequently asked questions
@@ -119,7 +116,7 @@ Firefox 從來沒有這麼好過
 
 
 ;Enjoy seamless browsing between devices with Sync
-使用 Sync 在裝置間無縫瀏覽
+Sync 同步功能可無縫接軌多款裝置
 
 
 ;Move or remove any button to match
@@ -127,7 +124,7 @@ Firefox 從來沒有這麼好過
 
 
 ;How you use Firefox is unique
-您的 Firefox 使用方式是獨到的
+每個人均有專屬的 Firefox 使用方式
 
 
 ;Add and view bookmarks from a new location
@@ -136,19 +133,19 @@ Firefox 從來沒有這麼好過
 
 # This is the text for a call to action that appears in the web page
 ;Take the tour to see what’s new
-開啟導覽，看看有什麼新鮮事
+開啟導覽，看看有哪些新鮮事
 
 
 ;It looks like you’re already using Sync
-看來您已經在使用 Sync 了
+看來您已經在使用 Sync 同步功能
 
 
 ;Create an account from the menu panel
-在選單中註冊帳號
+在選單面板中註冊帳號
 
 
 ;Use the star to create bookmarks
-使用星星按鈕建立書籤
+星星按鈕可建立書籤
 
 
 ;Share your vision
@@ -186,27 +183,27 @@ Firefox 從來沒有這麼好過
 
 
 ;<span>Previous:</span> Customize
-<span>上一個:</span> 自訂
+<span>上一個：</span>自訂
 
 
 ;<span>Next:</span> Add-ons
-<span>下一個:</span> 附加元件
+<span>下一個：</span>附加元件
 
 
 ;<span>Previous:</span> Menu
-<span>上一個:</span> 選單
+<span>上一個：</span>選單
 
 
 ;<span>Next:</span> Bookmarks
-<span>下一個:</span> 書籤
+<span>下一個：</span>書籤
 
 
 ;<span>Next:</span> Customize
-<span>下一個:</span> 自訂
+<span>下一個：</span>自訂
 
 
 ;<span>Previous:</span> Add-ons
-<span>上一個:</span> 附加元件
+<span>上一個：</span>附加元件
 
 
 ;Learn about the new design
@@ -219,11 +216,11 @@ Firefox 從來沒有這麼好過
 
 
 ;The features you use most, all in one place
-在同一個地方尋找您最常用的功能
+您最常用的功能全整合到同一個地方
 
 
 ;How you use the Web is unique
-您上網的方式是獨特的
+每個人均有專屬的上網方式
 
 
 ;Get started with Sync
@@ -231,19 +228,19 @@ Firefox 從來沒有這麼好過
 
 
 ;Putting your privacy first
-把您的隱私放於最優先
+優先考量您的隱私權
 
 
 ;Where did my add-on bar go?
-我的附加元件列跑去哪了？
+我的附加元件去哪了？
 
 
 ;Your favorite features, all in one place
-您最愛的功能，都在同個地方
+您最愛的功能全整合到同一個地方
 
 
 ;When you use Firefox, you help shape the future of the Web.
-您使用 Firefox 時，就已經在幫忙我們打造網路的未來。
+在您使用 Firefox 時，就已經在協助我們塑造網路的未來。
 
 
 ;Start browsing
@@ -252,11 +249,11 @@ Firefox 從來沒有這麼好過
 
 # <br> tag below used for formatting only.
 ;Your favorite sites<br> are closer than ever
-您最愛的網站比以往更近
+更貼近<br>您最愛的網站
 
 
 ;Helps you do just about anything online
-幫助您完成網路上幾乎任何的事情
+協助您完成幾乎所有的線上事務
 
 
 ;Want to connect another device?
@@ -264,7 +261,7 @@ Firefox 從來沒有這麼好過
 
 
 ;What kind of Web do you want?
-您想要個怎樣的網路？
+您想要什麼樣的網路？
 
 
 # <br> tag below used for formatting only.
@@ -273,7 +270,7 @@ Firefox 從來沒有這麼好過
 
 
 ;Easy to find, use and manage
-簡單就能找到、使用與管理
+可輕鬆尋找、使用、管理
 
 
 ;Keep your Firefox in Sync
@@ -281,6 +278,4 @@ Firefox 從來沒有這麼好過
 
 
 ;Access your bookmarks, passwords and more from any device.
-從任何裝置存取您的書籤、密碼與其他資訊。
-
-
+任何裝置均可存取您的書籤、密碼，還有更多資訊。

@@ -450,12 +450,13 @@ Firefrox 六週釋出週期，瞭解並下載 Firefox 不同頻道的未來發�
 
 # Headline used in multiple pages (firstrun, firefox/new, firefox/desktop)
 ;Committed to you, your privacy and an open Web
-承諾為您、您的隱私權與 Web 的開放而努力
+承諾為您個人、您的隱私權<br>以及 Web 的開放性而努力
+
 
 
 # Menu item on top of Australis Firefox pages
 ;Trusted
-可信任
+信任
 
 
 # Menu item on top of Australis Firefox pages
@@ -466,3 +467,7 @@ Firefrox 六週釋出週期，瞭解並下載 Firefox 不同頻道的未來發�
 # Menu item on top of Australis Firefox pages
 ;Fast
 快速
+
+
+;Learn more
+進一步了解
