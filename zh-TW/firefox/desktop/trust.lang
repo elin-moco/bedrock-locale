@@ -3,7 +3,7 @@
 
 # <title> tag
 ;Firefox — Designed to protect your privacy — The most trusted browser on the Web
-Firefox — 為保護您的隱私所設計 — 最受信任的網路瀏覽器
+Firefox — 為保護你的隱私所設計 — 最受信任的網路瀏覽器
 
 
 # main title
@@ -17,11 +17,11 @@ Firefox — 為保護您的隱私所設計 — 最受信任的網路瀏覽器
 
 
 ;We do it to keep you in control.
-基於此理念，讓您能安心上網。<br class="wide-br">
+基於此理念，讓你能安心上網。<br class="wide-br">
 
 
 ;We do it so you can browse without worry.<br class="wide-br">
-秉持此理念，讓您自行控制所有事情。<br>
+秉持此理念，讓你自行控制所有事情。<br>
 
 
 ;And we do it because no one else will.
@@ -34,11 +34,11 @@ Firefox — 為保護您的隱私所設計 — 最受信任的網路瀏覽器
 
 
 ;Designed to protect your privacy
-為保護您的隱私所設計
+為保護你的隱私所設計
 
 
 ;We believe your personal information belongs only to you.<br class="wide-br">
-我們相信您的個人資訊只屬於您所有。<br class="wide-br">
+我們相信你的個人資訊只屬於你所有。<br class="wide-br">
 
 
 ;That’s why Firefox is filled with features to ensure that’s the case.
@@ -50,7 +50,7 @@ Do Not Track {OK}
 
 
 ;A Firefox innovation, Do Not Track lets you indicate a preference about the way your personal info is collected and used online.
-由 Firefox 首創的「不要追蹤我 (Do Not Track)」功能，讓您可自行調整設定，告知網站您是否允許自己的個人資訊供他人蒐集使用。
+由 Firefox 首創的「不要追蹤我 (Do Not Track)」功能，讓你可自行調整設定，告知網站你是否允許自己的個人資訊供他人蒐集使用。
 
 
 ;Learn more about Do Not Track
@@ -66,7 +66,7 @@ Do Not Track {OK}
 
 
 ;Turn this feature on to protect your browsing history from others.
-開啟此功能，確保他人不會看到您的瀏覽紀錄。
+開啟此功能，確保他人不會看到你的瀏覽紀錄。
 
 
 ;Learn how to open a private window
@@ -74,11 +74,11 @@ Do Not Track {OK}
 
 
 ;See who’s watching you online.
-得知有誰看著您的線上活動。
+得知有誰看著你的線上活動。
 
 
 ;The Lightbeam add-on exposes the first and third party sites you interact with as you browse.
-在您瀏覽網頁時，Lightbeam 附加元件將列出同時間互動的<br>第一方與第三方網站。
+在你瀏覽網頁時，Lightbeam 附加元件將列出同時間互動的<br>第一方與第三方網站。
 
 
 ;Shine a light on the Web with Lightbeam
@@ -86,11 +86,11 @@ Do Not Track {OK}
 
 
 ;Keeping you safe across the Web
-保護您的網路安全
+保護你的網路安全
 
 
 ;Firefox lets you learn more about the sites you visit and helps keep you secure online.
-Firefox 讓您進一步了解現正瀏覽的網站，保護您的線上安全。
+Firefox 讓你進一步了解現正瀏覽的網站，保護你的線上安全。
 
 
 ;World class protection
@@ -98,7 +98,7 @@ Firefox 讓您進一步了解現正瀏覽的網站，保護您的線上安全。
 
 
 ;Anti-phishing & anti-malware features protect you from trojan horses and spyware and warn you about potentially fraudulent sites.
-反釣魚與反惡意軟體功能，可防止您不受特洛伊木馬與間諜軟體的影響，並在您可能瀏覽到詐騙網站時發出警告。
+反釣魚與反惡意軟體功能，可防止你不受特洛伊木馬與間諜軟體的影響，並在你可能瀏覽到詐騙網站時發出警告。
 
 
 ;Automatic security updates
@@ -106,7 +106,7 @@ Firefox 讓您進一步了解現正瀏覽的網站，保護您的線上安全。
 
 
 ;Firefox updates automatically to make sure you always have the latest and greatest security fixes.
-Firefox 會自動完成更新，<br>確保您隨時擁有最新、最全面的防護功能。
+Firefox 會自動完成更新，<br>確保你隨時擁有最新、最全面的防護功能。
 
 
 ;Secure connections
@@ -123,11 +123,11 @@ Firefox 會自動完成更新，<br>確保您隨時擁有最新、最全面的�
 
 # L10n: Line break below is for visual formatting only. #}
 ;Learn more about why your privacy and security are so important <br class="wide-br">and what you can do to protect yourself online.
-進一步了解您的隱私權與安全性為何如此重要，<br class="wide-br">您又能如何保持己身的線上安全。
+進一步了解你的隱私權與安全性為何如此重要，<br class="wide-br">你又能如何保持己身的線上安全。
 
 
 ;Privacy & you
-隱私權與您
+隱私權與你
 
 
 ;How to stay safe online
