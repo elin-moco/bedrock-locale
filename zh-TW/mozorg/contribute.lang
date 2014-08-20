@@ -10,7 +10,7 @@
 
 
 ;The success of our mission depends on participation from people like you.
-我們需要像您這樣的人參與才能實踐我們的使命。
+我們需要像你這樣的人參與才能實踐我們的使命。
 
 
 ;Proudly non-profit, Mozilla makes products like Firefox with a mission to keep the power of the Web in the hands of users everywhere.
@@ -101,11 +101,11 @@ Firefox Marketplace {OK}
 
 
 ;YOUR EMAIL HERE
-在此輸入您的電子郵件地址
+在此輸入你的電子郵件地址
 
 
 ;Send us a note and we can get you started right away.
-留個言給我們，我們會幫您快速上手。
+留個言給我們，我們會幫你快速上手。
 
 
 ;Hi, I’m interested in…
@@ -125,27 +125,27 @@ Firefox Marketplace {OK}
 
 
 ;You must agree to the privacy policy.
-您必須同意隱私權保護政策。
+你必須同意隱私權保護政策。
 
 
 ;Please select an area of interest.
-請挑選您有興趣的領域。
+請挑選你有興趣的領域。
 
 
 ;Please tell us more about your interests.
-請多告訴我們一點您的興趣是什麼，讓我們可以找到最適合的夥伴帶您上手。
+請多告訴我們一點你的興趣是什麼，讓我們可以找到最適合的夥伴帶你上手。
 
 
 ;Your CAPTCHA response did not match. Please try again.
-您輸入的 CAPTCHA 驗證碼不正確，請再試一次。
+你輸入的 CAPTCHA 驗證碼不正確，請再試一次。
 
 
 ;Thank you for getting in touch.
-感謝您跟我們保持連絡。
+感謝你跟我們保持連絡。
 
 
 ;Thank you for getting in touch! You will hear from us soon.
-感謝您的熱心！<br>我們很快就會與你聯絡。
+感謝你的熱心！<br>我們很快就會與你聯絡。
 
 
 ;We are sorry, but there was a problem with our system. Please try again later!
@@ -153,11 +153,11 @@ Firefox Marketplace {OK}
 
 
 ;Someone from Mozilla will get back to you soon with information about how to get involved. While you’re waiting, browse through some of the volunteer opportunities available below.
-很快將會有 Mozilla 的人向您提供如何參與我們的資訊。在您等待的同時，請參考下面的一些志願工作機會。
+很快將會有 Mozilla 的人向你提供如何參與我們的資訊。在你等待的同時，請參考下面的一些志願工作機會。
 
 
 ;You don’t have to be a C++ guru (or even know what that means!) to get involved.<br><b>You just have to love the Web.</b>
-您不需要是 C++ 達人（就算根本不知道那是什麼也行）就能加入我們<br><b>您唯一需要的能力是熱愛網路</b>
+你不需要是 C++ 達人（就算根本不知道那是什麼也行）就能加入我們<br><b>你唯一需要的能力是熱愛網路</b>
 
 
 ;Sign up for a weekly newsletter that is full of community news and contribution opportunities.
@@ -175,7 +175,7 @@ Firefox Marketplace {OK}
 
 # Helping users
 ;Our support process relies on enthusiastic contributors like you to help others get the most out of Mozilla products. Find out more about <a href="%(fx_support_url)s">how to help Firefox users</a> and <a href="%(tb_support_url)s">how to help Thunderbird users</a>.
-我們仰賴像您這樣的熱心成員，協助他人深入了解 Mozilla 的產品。請到下列網站了解如何<a href="%(fx_support_url)s">幫助 Firefox 使用者</a>與 <a href="%(tb_support_url)s">Thunderbird 使用者</a>。
+我們仰賴像你這樣的熱心成員，協助他人深入了解 Mozilla 的產品。請到下列網站了解如何<a href="%(fx_support_url)s">幫助 Firefox 使用者</a>與 <a href="%(tb_support_url)s">Thunderbird 使用者</a>。
 
 
 ;Quality Assurance
@@ -192,7 +192,7 @@ QA 品質檢測是 Mozilla 裡最容易上手的專案之一，也可以藉此�
 
 # Coding
 ;<a href="%(dev_intro_url)s">Developers can help</a> Mozilla by adding new features, making our technology smaller and faster and making development easier for others. Tell us <a href="%(what_url)s">your favorite programming language</a> and we'll find the project for you.
-<a href="%(dev_intro_url)s">開發者可以幫忙</a> Mozilla 將軟體加入新功能，讓所佔容量更小、更快，或改善開發環境及流程。只要告訴我們<a href="%(what_url)s">您最愛用哪個程式語言</a>，我們就能幫您找出適合的專案！
+<a href="%(dev_intro_url)s">開發者可以幫忙</a> Mozilla 將軟體加入新功能，讓所佔容量更小、更快，或改善開發環境及流程。只要告訴我們<a href="%(what_url)s">你最愛用哪個程式語言</a>，我們就能幫你找出適合的專案！
 
 
 ;Spread the Word
@@ -200,7 +200,7 @@ QA 品質檢測是 Mozilla 裡最容易上手的專案之一，也可以藉此�
 
 
 ;Help us spread the word about how Firefox and other Mozilla projects are building a better Internet. Share Firefox with the world by <a href="%(affiliates_url)s">becoming an Affiliate</a> and then check out our <a href="%(marketing_url)s">Marketing Guide</a> for more ways to get involved.
-幫助我們推廣 Firefox 與其他 Mozilla 專案，打造一個更好的網路環境。您可以加入 <a href="%(affiliates_url)s">Firefox 夥伴計畫</a>，向世界分享 Firefox 的資訊。也請參考<a href="%(marketing_url)s">行銷指南</a>，深入了解其他不同的參與方式。
+幫助我們推廣 Firefox 與其他 Mozilla 專案，打造一個更好的網路環境。你可以加入 <a href="%(affiliates_url)s">Firefox 夥伴計畫</a>，向世界分享 Firefox 的資訊。也請參考<a href="%(marketing_url)s">行銷指南</a>，深入了解其他不同的參與方式。
 
 
 ;Localization
@@ -208,22 +208,22 @@ QA 品質檢測是 Mozilla 裡最容易上手的專案之一，也可以藉此�
 
 
 ;Get involved with Mozilla by making Firefox, Thunderbird and other projects <a href="%(l10n_url)s">available in your language</a>. Also help us tell the world about how Mozilla is building a better Internet by <a href="%(l10n_web_url)s">translating content</a> on our web sites.
-幫助我們教 Firefox、Thunderbird 及其他專案<a href="%(l10n_url)s">說中文！</a>Mozilla 網站也有許多部分需要您<a href="%(l10n_web_url)s">協助翻譯的內容</a>，讓網路的福音順利傳播。
+幫助我們教 Firefox、Thunderbird 及其他專案<a href="%(l10n_url)s">說中文！</a>Mozilla 網站也有許多部分需要你<a href="%(l10n_web_url)s">協助翻譯的內容</a>，讓網路的福音順利傳播。
 
 
 # Web development
 ;Our web sites are open for web developers to hack on. <a href="%(webdev_url)s">Find a web site project</a> to get started on. Your web skills can also be used to <a href="%(gaia_url)s">help us build our new Firefox OS</a>.
-歡迎 Web 開發者一起加強我們的網站，詳情請見<a href="%(webdev_url)s">網站專案</a>。您的 Web 能力也可以<a href="%(gaia_url)s">幫助我們打造最新的 Firefox OS</a>。
+歡迎 Web 開發者一起加強我們的網站，詳情請見<a href="%(webdev_url)s">網站專案</a>。你的 Web 能力也可以<a href="%(gaia_url)s">幫助我們打造最新的 Firefox OS</a>。
 
 
 # Firefox Marketplace
 ;<a href="%(marketplace_url)s">Firefox Marketplace</a> provides content – games, music, social apps and more – built with HTML5 standards and open source values. With <a href="%(mktcontrib_url)s">contribution opportunities</a> at every skill level, it’s easy to make an impact!
-<a href="%(marketplace_url)s">Firefox Marketplace</a> 提供以 HTML5 標準及開放原始碼的核心價值所打造的遊戲、音樂、社交軟體等等內容下載。透過不同層面的<a href="%(mktcontrib_url)s">貢獻機會</a>，您很簡單就能影響這個世界！
+<a href="%(marketplace_url)s">Firefox Marketplace</a> 提供以 HTML5 標準及開放原始碼的核心價值所打造的遊戲、音樂、社交軟體等等內容下載。透過不同層面的<a href="%(mktcontrib_url)s">貢獻機會</a>，你很簡單就能影響這個世界！
 
 
 # Add-ons
 ;Add-ons are what make Firefox the most extensible and customizable browser available. Get started <a href="%(addons_url)s">building an add-on</a>, and <a href="%(addons_wiki)s">learn more about the different ways you can contribute</a>.
-附加元件讓 Firefox 變得超有擴充性與自訂性。現在就開始<a href="%(addons_url)s">打造附加元件</a>，並<a href="%(addons_wiki)s">瞭解您能幫忙貢獻的其他方式</a>。
+附加元件讓 Firefox 變得超有擴充性與自訂性。現在就開始<a href="%(addons_url)s">打造附加元件</a>，並<a href="%(addons_wiki)s">瞭解你能幫忙貢獻的其他方式</a>。
 
 
 # Visual design
@@ -257,12 +257,12 @@ Hive Networks {OK}
 
 # For reference see http://hivelearningnetworks.org
 ;<a href="%(hivenetworks)s">Hive Learning Networks</a> are a growing constellation of communities around the globe that are championing digital skills and web literacy through connected learning. <a href="%(hivenetworks)s">Learn more</a> about how to start a Hive in your community.
-<a href="%(hivenetworks)s">Hive Learning Networks</a> 是由全球擁護數位能力與 Web 素養的連結學習的社群所一同成立的集合。了解如何能在您的社區中成立 Hive 的<a href="%(hivenetworks)s">更多資訊</a>。
+<a href="%(hivenetworks)s">Hive Learning Networks</a> 是由全球擁護數位能力與 Web 素養的連結學習的社群所一同成立的集合。了解如何能在你的社區中成立 Hive 的<a href="%(hivenetworks)s">更多資訊</a>。
 
 
 # Old string, will be removed when all locales have the new text
 ;Help build a generation of webmakers by teaching others how the web works. <a href="%(moz_webmaker)s ">Explore what the Mozilla Webmaker project is all about</a> or get started teaching others by <a href="%(webmaker)s">setting up an event in your community today</a>.
-一起打造「網路創造者」的世代，讓大眾從閱讀、使用 Web，進展到能夠製作 Web 上的內容。您可以教大家如何寫網頁程式、Web 的運作原理等等。<a href="%(moz_webmaker)s ">請參考 Mozilla Webmaker 專案</a>，也可以<a href="%(webmaker)s">在自己所屬社群中辦活動</a>，開始協助其他人成長。
+一起打造「網路創造者」的世代，讓大眾從閱讀、使用 Web，進展到能夠製作 Web 上的內容。你可以教大家如何寫網頁程式、Web 的運作原理等等。<a href="%(moz_webmaker)s ">請參考 Mozilla Webmaker 專案</a>，也可以<a href="%(webmaker)s">在自己所屬社群中辦活動</a>，開始協助其他人成長。
 
 
 ;map
@@ -270,7 +270,7 @@ Hive Networks {OK}
 
 
 ;Find Mozillians near you
-尋找在您附近的 Mozillian
+尋找在你附近的 Mozillian
 
 
 ;US and Canada
@@ -314,11 +314,11 @@ Hive Networks {OK}
 
 
 ;Interested in helping others get the most out of using Firefox and other Mozilla projects? Our support process relies on enthusiastic contributors like you.
-我們仰賴像您這樣的熱心成員，協助他人深入了解 Firefox 及其他軟體。
+我們仰賴像你這樣的熱心成員，協助他人深入了解 Firefox 及其他軟體。
 
 
 ;Thank you!
-感謝您！
+感謝你！
 
 
 ;Accessibility is about making things work for everyone. Help <a href="%(access_url)s">create tools and resources for Firefox end users with disabilities</a> and help <a href="%(access_wiki)s">make web content available to non visual agents</a> such as screen readers.
@@ -326,7 +326,7 @@ Hive Networks {OK}
 
 
 ;Be part of the research team&mdash;whether you want to be a <a href="%(survey_url)s">participant in an upcoming study</a>, <a href="%(test_email)s">conduct usability tests</a> on your own or <a href="%(test_pilot)s">analyze Test Pilot data</a>&mdash;we’d love to have you join us!
-成為研究團隊中的一員 &mdash; 您是否想<a href="%(survey_url)s">參與接下來的研究</a>、<a href="%(test_email)s">主導一場使用性測試</a>，或是<a href="%(test_pilot)s">分析 Test Pilot 的資料</a>？&mdash; 希望您能加入我們！
+成為研究團隊中的一員 &mdash; 你是否想<a href="%(survey_url)s">參與接下來的研究</a>、<a href="%(test_email)s">主導一場使用性測試</a>，或是<a href="%(test_pilot)s">分析 Test Pilot 的資料</a>？&mdash; 希望你能加入我們！
 
 
 ;Facebook
@@ -346,7 +346,7 @@ Mozilla {ok}
 
 
 ;Thank you for signing up!
-感謝您的訂閱！
+感謝你的訂閱！
 
 
 ;Menu
@@ -368,6 +368,6 @@ QA 品質檢測是 Mozilla 裡最容易上手的專案之一，也可以藉此�
 
 # Old string, will be removed when all locales have the new text
 ;Mozilla products have a powerful extension system that allows you to make small tweaks or major additions. Learn more about how to <a href="%(addons_url)s">build an add-on</a>. For experienced developers, find out how to <a href="%(addons_wiki)s">become an AMO editor</a>.
-Mozilla 的產品都擁有強大的擴充套件系統，您可以藉著這樣的系統微調軟體，也能大改程式。如果您還不知道怎麼做，歡迎來學學<a href="%(addons_url)s">打造附加元件的方法</a>；老手們，也歡迎<a href="%(addons_wiki)s">加入 AMO 編輯群</a>。
+Mozilla 的產品都擁有強大的擴充套件系統，你可以藉著這樣的系統微調軟體，也能大改程式。如果你還不知道怎麼做，歡迎來學學<a href="%(addons_url)s">打造附加元件的方法</a>；老手們，也歡迎<a href="%(addons_wiki)s">加入 AMO 編輯群</a>。
 
 
