@@ -1,0 +1,204 @@
+## active ##
+## NOTE: demo page at https://www-dev.allizom.org/firefox/android/
+
+
+# Used in HTML as page title
+;Firefox for Android — Mobile Web browser — More ways to customize and protect your privacy
+Firefox for Android — 行動網頁瀏覽器 — 以更多方式自訂並保護你的隱私
+
+
+# Used in HTML as page description
+;Only Firefox for Android offers so many ways to make your mobile browsing experience truly your own
+只有 Firefox for Android 提供如此多的功能，能讓你完整自訂行動瀏覽經驗
+
+
+# alt text for image (hard-coded image needs to be fixed)
+;Firefox for Android
+Firefox for Android {OK}
+
+
+;We make it Firefox.
+我們打造 Firefox<br>
+
+
+;You make it your own.
+你打造自己的風格
+
+
+;The features you love.
+你最愛的功能<br>
+
+
+;The privacy you trust.
+你最信任的隱私保護<br>
+
+
+;Our most customizable Firefox for Android yet.
+目前最高自訂性的 <br>Firefox for Android
+
+
+;Download on Google Play
+到 Google Play 下載。
+
+
+;Uniquely yours
+你的獨特風格
+
+
+# Line break below is for visual formatting only. Remove if it's not useful for your locale
+;Only Firefox for Android offers this many ways to make<br> your mobile browsing experience truly your own.
+只有 Firefox for Android 提供如此多的功能，讓你<br>打造完全自我風格的行動瀏覽體驗。
+
+
+;Smarter sharing for all
+智慧分享
+
+
+;The most adaptive way to share anything, Quick Share remembers your most recently used apps to help you get the word out just the way you want.
+可靈活分享任何事物。快速分享功能會記得你最近使用的程式，並以你最熟悉的方式進一步分享出去。
+
+
+;See how it works
+瞭解其運作方式
+
+
+;All your faves, front and center
+你最愛的網站就在正中央
+
+
+;Customize your Home panels with any Web content you want and access your favorite feeds &mdash; like Instagram and Pocket Hits &mdash; instantly.
+可自訂最愛的 Web 內容或資訊來源 (例如 Instagram 或 Pocket Hits)，並即時顯示於首頁面板。
+
+
+;A touch more personal
+更個人化的觸控
+
+
+;Display your Home panels in any order you like or add, hide and delete them as you see fit to keep your favorites one touch away.
+依你愛用的方式顯示、隱藏或刪除首頁面板，且輕觸一下就能儲存最愛的網頁。
+
+
+;Learn more
+了解更多
+
+
+;Any search you like
+新增你愛用的搜尋功能
+
+
+;Add any search engine and make it your default.
+新增任何搜尋引擎並將之設為預設使用。
+
+
+;Or change it any time to the one that best matches your search and privacy needs.
+或隨時換成最符合你搜尋與隱私需求的搜尋引擎。
+
+
+;Change your language
+變更你的語言
+
+
+;Change your browser language quickly and easily, without having to change the settings for your entire device or even restart your browser.
+輕鬆變更瀏覽器的語言，不需要調整作業系統的設定，更不用重開瀏覽器。
+
+
+;Take it to the big screen
+帶上大螢幕
+
+
+;Send video and Web content from your smartphone or tablet to any TV equipped with supported streaming capabilities.
+自你的智慧型手機或平板電腦，傳送影片或 Web 內容到任何支援串流功能的電視上。
+
+
+;Keep your private info private
+保持你的隱私資訊安全
+
+
+;We believe your personal information belongs to you.
+我們相信，你的個人資訊屬於你自己所有。
+
+
+;Firefox for Android is filled with features to help keep it that way.
+Firefox for Android 有滿滿的功能，讓你保護自己的隱私。
+
+
+;Do not track
+不要追蹤我 {OK}
+
+
+;Enable this Firefox innovation to help you stay in control of how your browsing information is collected and used online.
+啟用此 Firefox 所創新的 Do not track (DNT) 功能，讓你控制自己線上瀏覽資訊受他人蒐集與使用的方式。
+
+
+;Learn more about Do Not Track
+瞭解 Do Not Track 的更多資訊
+
+
+;Private Browsing
+隱私瀏覽
+
+
+;When activated, Firefox for Android won’t accept cookies, remember passwords or record any sites that you’ve visited.
+開啟後，Firefox for Android 將不會接受 Cookie、記住密碼，或記錄任何你曾開啟的網站。
+
+
+;See how Private Browsing works
+看看隱私瀏覽的原理
+
+
+;Clear history
+清除瀏覽紀錄
+
+
+;Delete your browsing history, passwords and more in a single tap.
+只要輕點一下就能刪除你的瀏覽紀錄、密碼等資料。
+
+
+;Choose the private data you want to remove whenever you need to do so.
+隨時讓你選擇所要清除的資料。
+
+
+;Learn how to clear your history
+了解如何清除你的瀏覽紀錄
+
+
+;Guest browsing
+訪客瀏覽
+
+
+;Share your browser with friends and family without worrying that you’ll see each other’s online activity.
+將你的瀏覽器與朋友或家人分享，但不用擔心會看到彼此的線上瀏覽紀錄。
+
+
+;See how Guest Browsing works
+看看訪客瀏覽的原理
+
+
+;Don’t leave home without being in Sync
+別在沒 Sync 之前離開家門
+
+
+;Bring your passwords, bookmarks, open tabs and more everywhere you go.
+讓你的密碼、書籤、開啟的分頁與更多資料隨身帶著走。
+
+
+;Use Sync on your smartphone or tablet to access whatever you need from your desktop &mdash; and vice versa &mdash; without having to remember URLs.
+不需另外記錄網址，就能在智慧型手機或平板電腦上繼續使用桌機內的資料；反之亦然。
+
+
+;Learn more about Sync
+瞭解 Sync 功能的更多資訊
+
+
+;Choose Firefox
+選用 Firefox
+
+
+;Supported devices
+支援裝置
+
+
+;Release notes
+新鮮事
+
+

@@ -1,0 +1,105 @@
+;Frequently Asked Questions
+Firefox 行動版常見問答集
+
+
+;Firefox for Android is built on the same technology platform as Firefox for the desktop, making it fast, easy to use and secure.
+Firefox for Android 植基於 Firefox 桌面版的相同技術平台，也因此更快、更安全、更簡單易用。Firefox 另具備 Sync 技術，可將桌面版的密碼、書籤、瀏覽記錄都同步到你的行動裝置上。Firefox for Android 並是唯一以使用者為中心而提供創新功能的行動瀏覽器，且透過如不要追蹤我 (Do Not Track) 的功能，確實保護你的隱私與資料。
+
+
+;FAQ
+FAQ
+
+
+;Mobile FAQ
+行動版 FAQ
+
+
+;About Firefox for Android
+有關 Firefox for Android
+
+
+;<dt>Who makes Firefox?</dt> <dd>Mozilla is a global, nonprofit organization dedicated to making the Web better. We emphasize principle over profit, and believe that the Web is a shared public resource to be cared for, not a commodity to be sold. We work with a worldwide community to create open source products like Mozilla Firefox, and to innovate for the benefit of the individual and the betterment of the Web. The result is great products built by passionate people and better choices for everyone.</dd>
+<dt>誰創造了 Firefox？</dt> <dd>全球性非營利組織 Mozilla 致力打造 Web 的美好未來。我們堅守自己的理念，另外相信 Web 應該是開放並易於取用的全球公用資源，而非用以販售牟利的商品。Mozilla 與全球社群通力合作，打造如 Mozilla Firefox 的開放源碼產品，並為個人與 Web 的福祉持續引領創新，將熱心人士所建構的絕佳產品提供予所有人。</dd>
+
+
+;<dt>How is Firefox for Android different from other mobile browsers?</dt> <dd>Firefox for Android is built on the same technology platform as Firefox for the desktop, making it fast, easy to use and secure. Firefox also uses Sync technology to bring your desktop history, bookmarks, passwords and form data to your mobile devices. Firefox for Android is the only mobile browser that offers user-centric, innovative features while still fiercely safeguarding your privacy and data, for instance with <a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature-mobile">Do Not Track</a>.</dd>
+<dt>Firefox for Android 何以與其他行動瀏覽器有所不同？</dt> <dd>Firefox for Android 植基於 Firefox 桌面版的相同技術平台，也因此更快、更安全、更簡單易用。Firefox 另具備 Sync 技術，可將桌面版的密碼、書籤、瀏覽記錄都同步到你的行動裝置上。Firefox for Android 並是唯一以使用者為中心而提供創新功能的行動瀏覽器，且透過如<a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature-mobile">不要追蹤我 (Do Not Track)</a> 的功能，確實保護你的隱私與資料。</dd>
+
+
+;<dt>Is Firefox available for my platform or device?</dt> <dd>Firefox for Android works with Android phones version 2.2 (Froyo) and above. <a href="https://support.mozilla.org/kb/will-firefox-work-my-mobile-device">Visit our list of supported platforms and devices</a>.</dd>
+<dt>Firefox 可用於哪些平台或裝置？</dt> <dd>Firefox for Android 可用於 Android 2.2 (Froyo) 或更高版本的裝置。<a href="https://support.mozilla.org/kb/will-firefox-work-my-mobile-device">請參閱目前支援平台與裝置的清單</a>。</dd>
+
+
+;<dt>Is Firefox available in my language?</dt> <dd>Firefox is currently available in more than 10 languages and we're working on adding more. Check the <a href="%(url)s">Google Play Store</a> to see if yours is supported.</dd>
+<dt>Firefox 是否提供我熟悉的語言版本？</dt> <dd>Firefox 目前提供超過 10 種語言版本，而我們也持續努力提供更多語言。可至 <a href="%(url)s">Google Play Store</a> 查看目前是否支援你的語言。</dd>
+
+
+;<dt>Does Firefox for Android support Flash content?</dt> <dd>Yes, Firefox for Android supports Flash on phones with Android version 2.2 and above.</dd>
+<dt>Firefox for Android 支援 Flash 嗎？</dt> <dd>當然，只要裝置搭載 Android 2.2 或更高版本，Firefox for Android 均可支援 Flash。</dd>
+
+
+;Downloading Firefox
+下載 Firefox
+
+
+;<dt>Where can I download Firefox for Android?</dt> <dd>Find a current list of the growing number of app stores that offer Firefox for Android on our <a href="https://support.mozilla.org/kb/android-app-stores-where-you-can-download-firefox">support site</a>.</dd>
+<dt>我要到哪裡下載 Firefox for Android？</dt> <dd>到我們的<a href="https://support.mozilla.org/kb/android-app-stores-where-you-can-download-firefox">支援網站</a>，就能找到目前可供下載的 App 商店清單，而且仍持續增加中。</dd>
+
+
+;<dt>What are the permissions that Firefox requests access to?</dt> <dd>Learn how Firefox uses <a href="http://mzl.la/FirefoxPermissions">the permissions it requests</a> while respecting your privacy and personal data.</dd>
+<dt>Firefox 會要求存取何種權限？</dt> <dd>了解 Firefox 將如何使用其<a href="http://mzl.la/FirefoxPermissions">要求的權限</a>，並將同時保護你的隱私與個人資料。</dd>
+
+
+;Using Firefox
+使用 Firefox
+
+
+;<dt>How do I&hellip;</dt> <dd> <ul> <li>&hellip;<a href="https://support.mozilla.org/kb/getting-started-firefox-mobile">start browsing the Web?</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/use-bookmarks-firefox-android">bookmark a website?</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/tabs-quickly-switch-websites-firefox-mobile">use tabs?</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/how-do-i-watch-flash-videos-firefox-android">play Flash content?</a></li> </ul> </dd>
+<dt>我該如何&hellip;</dt> <dd> <ul> <li>&hellip;<a href="https://support.mozilla.org/kb/getting-started-firefox-mobile">開始瀏覽網頁？</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/use-bookmarks-firefox-android">將網站設為書籤？</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/tabs-quickly-switch-websites-firefox-mobile">使用分頁？</a></li> <li>&hellip;<a href="https://support.mozilla.org/kb/how-do-i-watch-flash-videos-firefox-android">播放 Flash？</a></li> </ul> </dd>
+
+
+;<dt>Why do some websites not display properly?</dt> <dd>While we continue to make small modifications to improve the browser experience, our team and thousands of volunteer contributors around the world are working to help sites make the small adjustments necessary to support our implementation of open standards so that all Web pages render beautifully. We are confident these efforts will be successful, just as they were when Firefox Desktop initially entered the market.</dd>
+<dt>為何無法正確顯示某些網站？</dt> <dd>我們不斷修改相關細節，以提升瀏覽器使用經驗。Mozilla 團隊再加上全球數千名的志工，都熱心協助網站進行微調，以完整支援我們所建構的開放標準，進而呈現更賞心悅目的網頁。我們相信這些努力不會白費，就如同 Firefox 桌面版一樣成功。</dd>
+
+
+;<dt>How do I use the start page?</dt> <dd>Your personalized start page helps you get to your favorite parts of the Web effortlessly with easily accessible thumbnail links to your top sites and tabs from your last browsing session.</dd>
+<dt>我要如何使用開始頁面？</dt> <dd>可個人化的開始頁面，會根據你最近的瀏覽記錄，將你最常瀏覽的網站設為縮圖鏈結，協助你輕鬆找到網頁中自己最喜愛的部份。</dd>
+
+
+;<dt>What does the Awesome Screen do?</dt> <dd>The Awesome Screen gets you to where you want to go quickly with less typing by giving you a list of your most often visited sites along with the ability to browse through your bookmarks, history and open tabs from across your devices. <a href="https://support.mozilla.org/kb/use-awesome-screen-search-firefox-android">Learn more</a>.</dd>
+<dt>智慧畫面 (Awesome Screen) 的功能為何？</dt> <dd>現在你只要輸入幾個字母，智慧畫面就會提供你最常瀏覽網站的清單，並能跨裝置找到你的書籤、瀏覽記錄、已開啟的分頁，讓你能更迅速瀏覽網站。<a href="https://support.mozilla.org/kb/use-awesome-screen-search-firefox-android">進一步了解</a>。</dd>
+
+
+;<dt>What is Firefox Sync?</dt> <dd>Firefox Sync brings your desktop data to all your devices so you can securely access your history, bookmarks, tabs and passwords from anywhere. <a href="https://support.mozilla.org/kb/how-do-i-set-up-firefox-sync">Learn how to set up Sync</a>.</dd>
+
+<dt>Firefox Sync 的功能為何？</dt> <dd>Firefox Sync 可將你的桌面板資料同步到其他裝置，讓你在任何地點都能安全存取自己的書籤、密碼、分頁、瀏覽記錄。<a href="https://support.mozilla.org/kb/how-do-i-set-up-firefox-sync">了解該如何設定 Sync 同步功能</a>。</dd>
+
+
+;<dt>What are add-ons and how can I get them?</dt> <dd>Add-ons let you customize the look, features and functionality of Firefox. <a href="https://support.mozilla.org/kb/getting-started-firefox-mobile#w_how-do-i-find-and-install-add-ons">Find out how to add them to your Firefox</a>.</dd>
+<dt>什麼是附加元件，又該如何取得？</dt> <dd>附加元件可讓你客製 Firefox 的外觀、特色、功能。<a href="https://support.mozilla.org/kb/getting-started-firefox-mobile#w_how-do-i-find-and-install-add-ons">了解 Firefox 安裝附加元件的方法</a>。</dd>
+
+
+;Privacy and Security
+隱私與安全
+
+
+;<dt>How will Firefox keep me safe while I browse?</dt> <dd>Mozilla was the first to implement the Do No Track privacy feature. Firefox also features customizable security settings to manage passwords, history, private data, cookies, site options and add-ons. <a href="https://support.mozilla.org/kb/configure-mobile-privacy-and-security-settings">Learn more</a>.</dd>
+<dt>Firefox 要如何保障我的瀏覽安全？</dt> <dd>Mozilla 率先建構了「不要追蹤我 (Do No Track)」隱私功能。Firefox 亦提供可客製化的安全設定，讓你能管理 cookies、密碼、瀏覽記錄、隱私資料、網站選項、附加元件。<a href="https://support.mozilla.org/kb/configure-mobile-privacy-and-security-settings">進一步了解</a>。</dd>
+
+
+;<dt>What is Do Not Track?</dt> <dd>Firefox for Android is the first mobile browser to offer the Do Not Track privacy feature to give you more control over the way your online behavior is tracked and used. Do Not Track lets you tell websites that you want to opt out of behavioral tracking. Learn how to turn it on <a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature">for desktop</a> and <a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature-mobile">for mobile</a>.</dd>
+<dt>什麼是「不要追蹤我 (DNT)」？</dt> <dd>Firefox for Android 是第一款提供「不要追蹤我」隱私功能的行動瀏覽器，可讓你掌控自己線上行為受到追蹤與使用的情況。DNT 將幫你拒絕網站對你的行為追蹤作業。進一步了解應如何開啟<a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature">桌面版</a>與<a href="https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature-mobile">行動版</a>的 DNT 功能。</dd>
+
+
+;<dt>What is Master Password and how do I use it?</dt> <dd>The Master Password protects usernames and passwords that you save in Firefox. <a href="https://support.mozilla.org/kb/use-master-password-protect-passwords-firefox-andr">Learn how to enable this feature</a>.</dd>
+<dt>什麼是主控密碼？又該如何使用？</dt> <dd>主控密碼 (Master Password) 可保護你儲存在 Firefox 中的使用者名稱與密碼。<a href="https://support.mozilla.org/kb/use-master-password-protect-passwords-firefox-andr">進一步啟用此功能</a>。</dd>
+
+
+;Developer Questions
+開發者的問題
+
+
+;<p>Are you a developer with questions? <a href="https://developer.mozilla.org/en/Mozilla/Firefox_for_Android">Learn more on Mozilla's Developer Network</a></p>
+<p>你是有相關疑問的開發者嗎？<a href="https://developer.mozilla.org/en/Mozilla/Firefox_for_Android">可至 Mozilla 開發者社群網站 (MDN) 尋找解答</a></p>
+
+

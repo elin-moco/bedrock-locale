@@ -1,0 +1,233 @@
+## NOTE: Demo page not currently available
+
+
+# Note that "Firefox Developer Edition" won't be localizable inside the product (it's part of branding, like "Beta" or "Nightly")
+;Firefox Developer Edition
+Firefox Developer 版本
+
+
+;Download Mozilla Firefox, a free Web browser. Firefox is created by a global non-profit dedicated to putting individuals in control online. Get Firefox today!
+免費下載 Mozilla 的 Firefox 瀏覽器。Firefox 是由全球性的非營利組織所打造，要讓每個人都能進一步掌握自己的線上生活。立刻下載 Firefox！
+
+
+;Built for those who build the Web
+針對 Web 開發者所打造
+
+
+;Introducing the only browser made for developers like you.
+唯一專屬於開發者的瀏覽器
+
+
+;Designed for developers
+專為開發者所設計
+
+
+;The only browser made just for developers, Firefox Developer Edition was created with your workflow in mind. Build, test, scale and more all from one place, for the first time ever.
+Firefox 的 Developer 版本是唯一專為開發者所打造的瀏覽器，亦是首次讓單一瀏覽器融入你的工作流程，而進行建構、測試、調整等更多作業。
+
+
+;Debug any browser
+可對任何瀏覽器進行除錯
+
+
+;Inspect and debug your app across any browser or device with Valence — a powerful, pre-installed extension that you’ll only find in Firefox Developer Edition.
+透過「Valence」，可橫跨任何裝置或瀏覽器檢測自己的 App 並除錯。Valence 為 內建的強大擴充套件，且僅專屬於 Firefox Developer 版本。
+
+
+;Pixel-perfect coding
+撰寫亦同時完美搭配螢幕尺寸
+
+
+;Target screen sizes with the Responsive Design View and tweak your CSS on the fly with the built-in Style Editor for pixel-perfect coding.
+透過適應性設計 (Responsive Design) 檢視模式，即可完美搭配螢幕尺寸。且內建的樣式編輯器 (Style Editor) 可即時調整 CSS，為螢幕像素撰寫最佳程式碼。
+
+
+;All your favorite dev tools and more
+完整沿用你最愛的開發者工具
+
+
+;Firefox Developer Edition brings your core dev tools together with some powerful new ones that will extend your ability to work across multiple platforms from one place. It’s everything you’re used to, only better. And only from Firefox.
+Firefox Developer 版本除了沿用核心的開發工具之外，亦提供多項功能強大的新工具。開發者僅需單一瀏覽器即可橫跨多種平台。你熟悉的所有東西沒有最好，只有更好；且只有 Firefox 找得到。
+
+
+;Screenshot
+Screenshot
+
+
+;WebIDE
+WebIDE
+
+
+;Develop, deploy and debug Firefox OS apps directly in your browser, or on a Firefox OS device, with this tool that replaces App Manager.
+此取代先前「應用程式管理員 (App Manager)」的新工具，可在瀏覽器或 Firefox OS 裝置上，可直接進行 Firefox OS App 的開發、佈署、除錯作業。
+
+
+;Learn more about WebIDE
+進一步了解 WebIDE
+
+
+;Responsive Design View
+適應性設計檢視模式
+
+
+;See how your Website or Web app will look on different screen sizes without changing the size of your browser window.
+不需更改瀏覽器視窗的尺寸，亦可觀看自已的網站或 Web App 在不同螢幕尺寸上的外觀。
+
+
+;Learn more about Responsive Design View
+進一步了解適應性設計檢視模式
+
+
+;Valence
+Valence
+
+
+;Develop and debug your apps across multiple browsers and devices with this powerful extension that comes pre-installed with Firefox Developer Edition.
+此強大的擴充套件已內建於 Firefox Developer 之上，可橫跨多款裝置與瀏覽器進行 App 的開發、除錯作業。
+
+
+;Learn more about Valence
+進一步了解 Valence
+
+
+;Web Audio Editor
+Web Audio 編輯器
+
+
+;Inspect and interact with Web Audio API in real time to ensure that all audio nodes are connected in the way you expect.
+可即時檢視 Web Audio API 並產生互動，確保所有音訊節點均正確連線。
+
+
+;Learn more about Web Audio Editor
+進一步了解 Web Audio 編輯器
+
+
+;Page Inspector
+頁面檢測器
+
+
+;Examine the HTML and CSS of any Web page and easily modify the structure and layout of a page.
+檢查任何網頁的 HTML 與 CSS，並輕鬆修改網頁的架構與配置。
+
+
+;Learn more about Page Inspector
+進一步了解頁面檢測器
+
+
+;Web Console
+網頁主控台
+
+
+;See logged information associated with a Web page and use Web Console to interact with Web pages using JavaScript.
+可觀看網頁的相關資訊，並透過 JavaScript 與網頁互動。
+
+
+;Learn more about Web Console
+進一步了解網頁主控台
+
+
+;JavaScript Debugger
+JavaScript 除錯器
+
+
+;Step through JavaScript code and examine or modify its state to help track down bugs.
+逐步檢視 JavaScript 程式碼，進而修改其狀態以追蹤錯誤。
+
+
+;Learn more about JavaScript Debugger
+進一步了解 JavaScript 除錯器
+
+
+;Network Monitor
+網路監測器
+
+
+;See all the network requests your browser makes, how long each request takes and details of each request.
+觀看瀏覽器所發出的所有網路請求、各個請求所耗用的時間，以及其相關細節。
+
+
+;Learn more about Network Monitor
+進一步了解網路監測器
+
+
+;Style Editor
+樣式編輯器
+
+
+;View and edit CSS styles associated with a Web page, create new ones and apply existing CSS stylesheets to any page.
+檢視並編輯網頁相關的 CSS 樣式、建立新的樣式，並可讓任何網頁套用現成的樣式表。
+
+
+;Learn more about Style Editor
+進一步了解樣式編輯器
+
+
+;Choose Firefox
+選用 Firefox
+
+
+# The following strings are used for the tour displayed in whatsnew/firstrun
+;Welcome to Firefox Developer Edition
+歡迎選用 Firefox Developer 版本
+
+
+;Developer Tools
+開發者工具
+
+
+;The most complete browser made just for developers, Firefox Developer Edition has every dev tool you’ll need built right in.
+Firefox Developer 版本，是專為開發者所打造的瀏覽器，並已內建你所需的開發者工具。
+
+
+;Next: WebIDE
+接著：WebIDE
+
+
+;Try WebIDE
+體驗 WebIDE
+
+
+;Develop, deploy and debug Firefox OS apps directly in your browser or on a Firefox OS device.
+可於 Firefox OS 裝置或直接於瀏覽器上，進行 Firefox OS App 的開發、佈署、除錯等作業。
+
+
+;Next: Sync
+接著：Sync
+
+
+;Keep your browser in Sync
+隨時同步自己的瀏覽器
+
+
+;Sync your Firefox desktop and mobile browsers to get instant access to your bookmarks, open tabs, passwords and more.
+同步自己的 Firefox 桌面版與行動版瀏覽器，立刻存取自己的書籤、密碼、已開啟的分頁，還有更多。
+
+
+;Sync my Firefox
+同步我的 Firefox
+
+
+;No thanks
+不了，謝謝
+
+
+;Welcome to <span>Firefox Developer Edition</span>
+歡迎使用 <span>Firefox Developer 版本</span>
+
+
+;Get to know the features that make it the most complete browser for building the Web.
+此專為建構 Web 所打造的瀏覽器，你應了解其相關功能。
+
+
+;Want the old look back?
+想續用舊版外觀嗎？
+
+
+;If you want the familiar look and feel of Firefox Aurora back, we’ve made it super easy for you.
+如果你想續用自己熟悉的 Firefox Aurora 外觀，當然也能輕鬆套用。
+
+
+;Features and tools
+功能與工具
+
+
