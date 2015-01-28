@@ -1,0 +1,315 @@
+## active ##
+## NOTE: demo server at https://www-dev.allizom.org/privacy/tips
+
+
+# Used in the HTML header as description of the page
+;Get smart on privacy
+正視自己的隱私權
+
+
+# Used in the HTML header as description of the page
+;Feel like you’ve lost control of how your information is used online?
+覺得自己早已無法控制個人資訊在網路上遭他人利用嗎？
+
+
+;Here are 4 easy steps to raising your privacy IQ & protecting yourself online.
+簡單 4 個步驟，就能強化隱私權敏感度並保護線上的自己。
+
+
+;In four easy steps
+簡單 4 個步驟
+
+
+;1
+1 {OK}
+
+
+;ASK
+詢問
+
+
+;2
+2 {OK}
+
+
+;LEARN
+了解
+
+
+;3
+3 {OK}
+
+
+;ACT
+行動
+
+
+;4
+4 {OK}
+
+
+;DISCUSS
+討論
+
+
+;How important is privacy to you?
+你對隱私權的重視程度？
+
+
+;Before we get into understanding privacy and share some of our favorite related tips and tools with you, take a moment to ask yourself how important privacy is to you.
+在帶你開始了解隱私權，並分享某些秘訣與工具之前，請先問問自己：你重視隱私嗎？
+
+
+;If you haven’t given it much thought before, your answer might surprise you.
+如果你根本沒想過類似問題，則以下答案可能讓你訝異。
+
+
+;91<sup>%</sup>
+91<sup>%</sup> {OK}
+
+
+;of adults think that consumers have lost control over how their personal information is used by companies
+的人認為，消費者已經無法控制企業使用個人資訊的方式
+
+
+;61<sup>%</sup>
+61<sup>%</sup> {OK}
+
+
+;say they <em>“would like to do more”</em> to protect their privacy
+的人想「進一步」保護自己的隱私
+
+
+;(stats from Pew Research Internet Project)
+數據來自於「皮尤研究中心 (Pew Research)」的網際網路研究計畫
+
+
+;Privacy is at the heart of freedom and autonomy…
+隱私，是自由與自主權的核心...
+
+
+;It’s up to all of us to get involved and speak up so that it stays that way.
+所有人都應參與其中並積極發聲，才能維持其現狀。
+
+
+;— Michelle De Mooy, Deputy Director, Consumer Privacy Project at the Center for Democracy & Technology
+— 民主與科技中心 (Center for Democracy & Technology) 的消費者隱私專案副總監 Michelle De Mooy
+
+
+;LEARN MORE ABOUT PRIVACY
+進一步了解隱私權
+
+
+;Understanding privacy
+了解隱私權
+
+
+;While the Internet provides countless ways for us to share and connect, it can also open our personal information to others.
+雖然網路可讓我們輕鬆分享內容並相互聯繫，卻也會將個人資訊開放給他人取用。
+
+
+;Understanding privacy on the Web is the biggest step to being able to take better control of it.
+要控制自己在 Web 上的隱私狀態，首要就是先了解隱私權。
+
+
+;“But I have nothing to hide”
+「我又沒什麼好避諱的」
+
+
+;This is a common misperception, but the truth is we all have things we don’t want everyone to know about.
+這是常見的錯誤概念。其實每個人都會有某些東西不想讓別人知道。
+
+
+;It’s why we use passwords and PINs on our bank, email and social media accounts. For more, watch <a href="%s">Glenn Greenwald’s TED Talk, “Why Privacy Matters.”</a>
+你不就用了許多密碼在保護自己的銀行、電子郵件、社交網路等帳號。要知道更多資訊，可觀賞 <a href="%s">Glenn Greenwald 在 TED Talk 上的「Why Privacy Matters」</a>影片。
+
+
+;Watch “Why Privacy Matters”
+觀賞「Why Privacy Matters」
+
+
+;WATCH “WHY PRIVACY MATTERS”
+觀賞「WHY PRIVACY MATTERS」
+
+
+;Shine a light on who’s watching you
+讓在觀看你的人無所遁形
+
+
+;Another key to understanding privacy is to know who’s tracking your online behaviour.
+了解隱私權的另一個重要方式，就是知道有哪些人在追蹤自己的線上行為。
+
+
+;If you’re a Firefox user, be sure to check out <a href="%s">Lightbeam</a>.
+如果你就在使用 Firefox，就一定要體驗 <a href="%s">Lightbeam</a>。
+
+
+;It’s a simple and insightful add-on that reveals the full depth of the Web today, including parts that are not transparent to the average user.
+這個簡單易用的附加元件，可清楚揭露目前的 Web 動態，讓一般使用者也能知道平常不甚透明的部分。
+
+
+;Learn more about Lightbeam
+進一步了解 Lightbeam
+
+
+;Our online houses are becoming increasingly built of glass… visible to whoever wants to look.
+我們的線上活動就如同自己住在玻璃屋裡，任何人都能看到內部的東西。
+
+
+;Let’s ask ourselves: Do we want to live in a house or a fishbowl?
+捫心自問：我們想住在安全的水泥屋子，抑或是玻璃缸子裡？
+
+
+;— Mitchell Baker, Mozilla
+— Mozilla 基金會主席 Mitchell Baker
+
+
+;ASK YOURSELF ABOUT PRIVACY
+問自己對隱私權的看法
+
+
+;TAKE ACTION
+付諸行動
+
+
+;What you can do
+能做些什麼
+
+
+;To help put you in control of your privacy, Mozilla has implemented a number of privacy features in Firefox.
+為了幫助你掌握自己的隱私，Mozilla 為 Firefox 建構多樣的隱私保護功能。
+
+
+;But even if you’re not a Firefox user there are a lot of simple things you can do to help keep yourself in control of your personal information online.
+就算你沒在用 Firefox，也同樣有許多簡單事項可協助你掌握線上的個人資訊。
+
+
+;Privacy Features in Firefox
+Firefox 的隱私保護功能
+
+
+;DO NOT TRACK
+DO NOT TRACK {OK}
+
+
+;With this feature enabled, Firefox will tell advertising networks, websites and applications that you want to opt-out of tracking for purposes like behavioral advertising.
+開啟「不要追蹤我 (Do Not Track，DNT)」之後，Firefox 會告知廣告網站或應用程式：此位使用者不參加行為導向的廣告追蹤活動。
+
+
+;FORGET BUTTON
+「忘記」按鈕
+
+
+;Want to delete your recent activity?
+想要清除最近的線上活動記錄？
+
+
+;Firefox makes it easy with the Forget button.
+輕鬆點擊 Firefox 的「忘記」按鈕，就能清除得乾乾淨淨。
+
+
+;Clear your history, from 5 minutes to 24 hours, in a single click.
+輕點滑鼠就能清除最近 5 分鐘到 24 小時內的瀏覽記錄。
+
+
+;DUCKDUCKGO
+DUCKDUCKGO {OK}
+
+
+;A pre-installed search option in Firefox, DuckDuckGo gives you search results without tracking who you are or what you search for.
+Firefox 現已內建 DuckDuckGo 搜尋引擎，讓你獲得搜尋結果的同時，不會遭他人記錄你的身分與搜尋目標。
+
+
+;PRIVACY ADD-ONS
+隱私附加元件
+
+
+;For even more more ways to protect your privacy on Firefox, check out our privacy add-ons collection.
+如果還想讓 Firefox 更深入保護自己的隱私，可參考相關的隱私附加元件。
+
+
+;Easy ways anyone can protect their privacy
+任何人都能輕鬆保護個人隱私
+
+
+;Stay Safe Online has several guides that can help, including social networking and mobile privacy tips and an easy reference for updating your privacy settings on the services many of us use every day.
+Stay Safe Online 提供社交網路與行動隱私等的指南。而針對我們每天都會用到的線上服務，另有簡易的參考資訊可協助我們調整相關隱私設定。
+
+
+;Stay safe on the go
+保持行動網路的安全性
+
+
+;Protect yourself on social networks
+保護社交網路上的自己
+
+
+;Check your privacy settings
+檢查自己的隱私設定
+
+
+;Each of us should have a meaningful choice about where and how our data is stored and managed.
+所有人都應該知道個人資料的儲存與管理方式。
+
+
+;BE PART OF THE DISCUSSION
+參與討論
+
+
+;Start a conversation
+開始對話
+
+
+;At Mozilla, empowering people to be in control of their online lives is an important part of our mission — it guides our <a href="%s">principles</a> and it’s why we want everyone to be smart on privacy.
+Mozilla 的重要使命之一，就是讓大家能夠控制自己的線上生活。而這項使命亦指引了我們的<a href="%s">原則</a>。我們也因此希望每個人都能清楚了解隱私權相關議題。
+
+
+;If you’re feeling smarter already, share what you’ve learned here with your friends and family.
+若你覺得自己比其他人還清楚，就請向朋友和家人分享你所知的一切。
+
+
+;It’s as easy as starting a conversation.
+就像開始日常對話一樣簡單。
+
+
+;Here are some questions you can ask to get the ball rolling:
+以下問題可輕鬆展開對話：
+
+
+;When you think about your online life, does privacy matter to you, and why?
+想想你的線上生活，你重視個人隱私嗎？為什麼？
+
+
+;How much do you think about who has access to your online data (advertisers, corporations, governments, etc.)?
+你想過有哪些人能存取你的線上資料嗎 (廣告商、企業、政府等)？
+
+
+;How do you protect and manage your personal information on social networks? On your phone?
+要如何保護並管理社交網路上的個人資訊？手機上的呢？
+
+
+;Spread the word
+口耳相傳
+
+
+;Share this site
+分享此網站
+
+
+# This is a message sharing the page to Twitter/Facebook/Google+, no HTML allowed
+;I’m taking control of my online privacy. Here’s how you can, too: #SmartOnPrivacy
+我能掌握自己的線上隱私。你當然也可以：#SmartOnPrivacy
+
+
+;Feeling smart on privacy? <b>Share this site</b> with your friends and help them raise their awareness too.
+覺得自己了解隱私權嗎？<b>分享這個網站</b> 給親朋好友，讓大家都意識到這個問題。
+
+
+;Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional.
+使用者的網路安全及隱私為基本要求，不能妥協。
+
+
+;— Mozilla Manifesto
+— Mozilla Manifesto {OK}
+
+
