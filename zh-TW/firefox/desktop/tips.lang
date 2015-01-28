@@ -1,0 +1,181 @@
+## active ##
+## sync_device_note ##
+## NOTE: url for demo server is: https://www-dev.allizom.org/firefox/desktop/tips/
+
+
+# main title
+;The best of the latest Firefox
+新版 Firefox 精選秘訣
+
+
+;Bookmarks
+書籤
+
+
+;Simplify
+簡單
+
+
+;Arrange
+整理
+
+
+;Sync
+同步
+
+
+;5 top tips, tricks and time-saving tools
+最熱門的 5 個省時秘訣與工具
+
+
+;1
+1 {OK}
+
+
+;2
+2 {OK}
+
+
+;3
+3 {OK}
+
+
+;4
+4 {OK}
+
+
+;5
+5 {OK}
+
+
+;back
+上一個
+
+
+;next
+下一個
+
+
+# Tip 1
+;Click the star
+點擊星星
+
+
+;Watch the star jump so you know your bookmark has been added.
+星星跳過去就代表新增到書籤內了。
+
+
+;(Try it! It’s fun!)
+(試試看，很好玩！)
+
+
+;How to:
+用法：
+
+
+;Click the star to add bookmarks and manage them from the same spot.
+點擊星星即可新增書籤，並於同一地方管理。
+
+
+# Tip 2
+;Simplify your life
+簡化線上生活
+
+
+;Go to your happy place.
+打造自己的線上樂園。
+
+
+;Remove the buttons you don’t use so you can find the ones you do.
+移除不常用的按鈕，再加上自己常用的功能。
+
+
+# The strong tags are for presentational purpose
+;Open the menu, select “<strong>Customize</strong>” and drag any button out of the toolbar.
+開啟選單並點擊「<strong>自訂</strong>」，即可將按鈕拖出工具列。
+
+
+# Tip 3
+;Add your faves
+新增自己愛用的按鈕
+
+
+;Play favorites with the features you use most and arrange them for fast, easy access.
+更快、更輕鬆就能找到最愛、最常用的功能。
+
+
+# The strong tags are for presentational purpose
+;Open the menu, select “<strong>Customize</strong>” and drag any button into the toolbar or menu.
+開啟選單並點擊「<strong>自訂</strong>」，即可將按鈕拖進工具列。
+
+
+# Tip 4
+;Stay in Sync
+保持同步
+
+
+# New string
+;Use Sync to magically access your open tabs, passwords and more wherever you use Firefox.
+「Sync」同步功能，讓你能隨時在 Firefox 上存取已開啟的分頁、密碼、其他資料。
+
+
+# Old string, will be removed once the new string is activated
+;Use Sync to magically access your open tabs, passwords and more from any device.
+「Sync」同步功能，讓你能隨時在任何裝置上存取已開啟的分頁、密碼、其他資料。
+
+
+# The strong tags are for presentational purpose
+;Choose “<strong>Sign in to Sync</strong>” from the menu and make Firefox your own wherever you use it.
+開啟選單並點擊「<strong>登入至 Sync</strong>」，就能隨時使用自己所熟悉的 Firefox。
+
+
+# Tip 5
+;Free your add-ons
+輕鬆使用附加元件
+
+
+;Keep those special, favorite add-ons in your menu so they’re visible and easily within reach.
+將自己認為最特別、最喜歡的附加元件拖進選單，就能即時掌握並隨手取用。
+
+
+# The strong tags are for presentational purpose
+;Select “<strong>Customize</strong>” from the menu and drag in the add-ons you want.
+開啟選單並點擊「<strong>自訂</strong>」，把常用的附加元件直接拖進來。
+
+
+;Get Firefox
+下載 Firefox
+
+
+;Congratulations
+恭喜！
+
+
+;You’re an expert!
+你已經成為 Firefox 達人！
+
+
+;Now help your friends master Firefox.
+現在也幫自己的朋友熟悉 Firefox 吧！
+
+
+# Accessibility string for link
+;Learn more about bookmarks
+進一步了解書籤功能
+
+
+# Accessibility string for link
+;Learn more about customizing
+進一步了解自訂功能
+
+
+# Accessibility string for link
+;Learn more about Sync
+進一步了解「Sync」同步功能
+
+
+# Accessibility string for link
+;Learn more about add-ons
+進一步了解附加元件
+
+
