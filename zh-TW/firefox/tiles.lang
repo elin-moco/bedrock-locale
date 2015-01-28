@@ -1,0 +1,145 @@
+## active ##
+## NOTE: demo available at https://www-dev.allizom.org/firefox/tiles
+
+
+;A Brand New Tiles Experience
+全新「Tile」功能體驗
+
+
+;With Enhanced Tiles and Directory Tiles, Firefox provides users easy access to interesting, relevant content, whether it’s the sites they visit most or new sites for them to discover.
+Firefox 透過強化首頁磚 (Enhanced Tile) 與導引首頁磚 (Directory Tile)，呈現使用者最常瀏覽或值得一遊的網站，讓大家都能輕鬆找到有趣且相關的內容。
+
+
+;What are Tiles?
+首頁磚 (Tile) 是什麼？
+
+
+;When you open a new tab in Firefox, you see several rectangles that link to different websites.
+只要開啟 Firefox 的新分頁時，就會看到幾個不同網站的縮圖。
+
+
+;Some people call them squares, windows or bookmarks; we call them Tiles.
+有人叫做「方塊」、「書籤」，或「九宮格」。而我們稱之為「首頁磚 (Tile)」。
+
+
+;What are Enhanced Tiles?
+強化首頁磚 (Enhanced Tile) 是什麼？
+
+
+;Existing Firefox users will be offered a set of Enhanced Tiles based on their browsing history.
+Firefox 會依照使用者的瀏覽記錄，顯示一系列的強化首頁磚。
+
+
+;The Enhanced versions replace the default screenshot with a better image and are displayed only for sites that the user has visited.
+加強首頁磚將以更高品質的圖片取代預設擷圖，且僅會顯示使用者瀏覽過的網站。
+
+
+;The improved image is supplied by the site or partner and can include a logo plus a rollover image.
+這些較清晰的圖片均由該網站或合作夥伴所提供，其上可能會有商標；或當滑鼠游標置於之上時，亦可能顯示額外圖片。
+
+
+;If you frequent Amazon.com, for example, you might see the Amazon logo or icon, instead of a screenshot.
+舉例來說，如果你常上 Amazon.com 逛逛，就可能會看到強化首頁磚顯示 Amazon 的商標或圖示，而不是單純的畫面擷圖。
+
+
+;What are Directory Tiles?
+分類首頁磚 (Directory Tile) 是什麼？
+
+
+;New Firefox users are initially given a set of Directory Tiles as suggestions for sites that may be of interest to them.
+若你才剛啟用 Firefox，則會看到一系列的分類首頁磚，為你建議數個可能有興趣的網站。
+
+
+;Instead of displaying a blank set of Tiles, Firefox shows content from Mozilla and some Mozilla partners.
+Firefox 將顯示 Mozilla 與幾位合作夥伴所提供的內容。
+
+
+;All partner content is marked as “sponsored” and users have complete control to edit or remove any Tile.
+合作夥伴的內容均將標記為「贊助 (Sponsored)」，且使用者可自行決定是否編輯或移除任何磚塊。
+
+
+;Respects your privacy
+尊重你的隱私權
+
+
+;As with all Mozilla products, Tiles provide users with extensive control over their personal data.
+與 Mozilla 的所有產品相同，首頁磚一樣讓使用者能完整控制個人資料。
+
+
+;Data collection is limited to the aggregate number of impressions, clicks and Tile placement.
+蒐集的資料僅限於首頁磚的顯示總數、點擊次數、放置位置。
+
+
+;Nothing is ever personally identifiable. In other words, we don’t know who clicks on what.
+無任何資料可進行身分識別；亦即我們不會知道是哪一位點擊了哪一些網站。
+
+
+;We just know the total number of views and clicks an individual Tile receives. This helps us deliver the most interesting and relevant content.
+我們只會知道各個首頁磚的檢視與點擊次數，以利 Mozilla 能為使用者提供最有趣、最高度相關的內容。
+
+
+;You can deactivate click and impression tracking by clicking on the gear icon on the top right corner of the new tab page, and selecting Classic to show only unenhanced History Tiles or Blank mode.
+如果不想讓 Firefox 追蹤點擊與顯示次數，則使用者亦可點擊新分頁右上角的齒輪圖示，再選擇「經典 (Classic)」來使用傳統的瀏覽記錄首頁磚，亦可選用「空白 (Blank)」模式。
+
+
+;Frequently Asked Questions
+常見問題
+
+
+;Are you tracking users now?
+這代表你們要開始追蹤使用者了嗎？
+
+
+;We only collect data from the New Tab page in aggregate form, meaning no data is personally identifiable.
+我們只以加總方式來蒐集新分頁的資料；意即沒有任何能識別個人的資料。
+
+
+;What data is being collected?
+你們會蒐集哪些資料？
+
+
+;Aggregate data from the New Tab page includes impressions, clicks and tile placement.
+來自於新分頁的資料，包含首頁磚的顯示次數、點擊次數、放置位置等的加總資料。
+
+
+;What data is collected when I opt out?
+如果我告知不想被追蹤，這時會蒐集哪些資料？
+
+
+;No data is collected when a user chooses to opt out of the enhanced Tiles experience.
+只要你選擇不使用加強首頁磚的功能，我們就不會蒐集任何資料。
+
+
+;Where can I learn more?
+我能從哪裡獲得更多資訊？
+
+
+# Link to https://blog.mozilla.org/futurereleases/2014/09/04/new-tab-page-experiments-in-firefox-beta/
+;New Tab Experiments in Firefox Beta
+New Tab Experiments in Firefox Beta {OK}
+
+
+# Link to http://blog.mozilla.com.tw/posts/6140
+;A Call for Trust, Transparency and User Control in Advertising
+廣告應更注重信任、透明度、使用者控制等原則 {OK}
+
+
+# Link to http://blog.mozilla.com.tw/posts/6235/
+;Trust should be the currency
+信任才是最重要的網路貨幣 {OK}
+
+
+# Used as title of the screenshot
+;Tiles Preferences
+首頁磚偏好設定
+
+
+;Screenshot
+畫面擷圖
+
+
+# Link points to https://support.mozilla.org/kb/how-do-tiles-work-firefox
+;For more help please see the <a href="%(url)s">Tiles Support Page</a>
+若要進一步了解，請參閱<a href="%(url)s">首頁磚技術支援頁面</a>
+
+
