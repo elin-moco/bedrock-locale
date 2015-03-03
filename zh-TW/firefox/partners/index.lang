@@ -111,7 +111,7 @@ Firefox OS 與全球 14 家營運商合作，在 29 個國家舉辦超過 50 場
 
 
 ;See what’s next for mobile with <a %(url1)s>Firefox OS</a>, <a %(url2)s>Firefox Marketplace</a> and <a %(url3)s>Firefox for Android</a>.
-透過 <a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Firefox for Android</a>，讓我們期待行動領域將發生的事。
+透過 <a %(url1)s>Firefox OS</a>、<a %(url2)s>Firefox Marketplace</a>、<a %(url3)s>Firefox for Android</a>，讓我們期待行動領域的精采未來。
 
 
 ;See more partners
@@ -160,7 +160,7 @@ Firefox OS 為獨立的生態系統，不受目前專利平台的規則所限制
 
 
 ;For the past 15 years, we’ve been instrumental in innovating and shaping the Web to keep it open and accessible to all. As a result of our efforts, one fifth of all Web activity today happens through Firefox products.
-過去 15 年來，我們協助創新並塑造 Web，使其保持開放並供大家使用。在此番努力之下，造就目前全球 1/5 的網頁流量是由 Firefox 產品所發生。
+過去 15 年來，我們協助創新並塑造 Web，使其保持開放並供大家使用。在此番努力之下，目前全球 1/5 的網路活動是透過 Firefox 產品所進行。
 
 
 # Main title of the FxOS - Operators & Manufacturers section
@@ -190,12 +190,12 @@ Open Web 的優勢
 
 # List item
 ;Stimulate increased Internet use
-刺激網際網路的使用狀況
+刺激網際網路的使用與發展
 
 
 # List item
 ;Level the playing field against other OS and marketplace providers
-讓其他作業系統與商城供應商擁有公平的起跑點
+為其他作業系統與商城設立公平的起跑點
 
 
 # Title
@@ -222,7 +222,7 @@ Open Web 的優勢
 
 
 ;Grow your business by combining your own customer payment plans with our open source service offerings. Customize purchasing and app experiences to meet your specific needs and reach new markets.
-整合客戶的付款金流與我們的開放源碼服務。另可自訂 App 與購物體驗，以符合特殊需求並開拓全新市場。
+整合客戶的付款金流與我們的開放源碼服務。<br>另可自訂 App 與購物體驗，以符合特殊需求並開拓全新市場。
 
 
 # Title
@@ -318,7 +318,7 @@ Marketplace 提供：
 
 # List item
 ;Access to relatively untapped markets
-前進較低度開發的市場
+拓展至較低度開發的市場
 
 
 # Title
@@ -350,7 +350,7 @@ Marketplace 提供：
 
 # Title
 ;Customize relationships
-自訂關係
+自訂與客戶間的關係
 
 
 ;Provide your users with your own flavor of Firefox for Android and Firefox Marketplace for a more engaging user experience that increases the visibility of your brand.
