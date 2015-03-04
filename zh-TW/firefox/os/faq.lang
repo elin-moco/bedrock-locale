@@ -65,8 +65,8 @@ Mozilla 與全世界的社群通力合作，建構如 Firefox 的開放源碼產
 哪些手機將搭載 Firefox OS？
 
 
-;You can purchase Firefox OS on a ZTE Open, LG Fireweb or an Alcatel One Touch device.
-現在 ZTE Open 與 Alcatel One Touch 均已搭載 Firefox OS。
+;To see a full list of available Firefox OS phones, please visit the <a href="%(link)s">devices page</a>.
+完整的 Firefox OS 手機列表，請參考<a href="%(link)s">發佈機種</a>頁面。
 
 
 ;Firefox OS is available to buy across 14 countries across the globe. You can purchase a device in:
@@ -77,8 +77,8 @@ Firefox OS 裝置目前已在全球 14 個國家發佈，你可以在下列國�
 我在哪裡能買到 Firefox OS 裝置？
 
 
-;Firefox OS will be available to buy in July 2013 from Movistar stores in Spain, Venezuela and Colombia. You can also purchase through T-Mobile stores in Poland.
-自 2013 年 7 月起，可在西班牙、委內瑞拉、哥倫比亞境內的 Movistar 商店購得 Firefox OS 裝置。波蘭境內的 T-Mobile 商店亦將推出。
+;To purchase a Firefox OS phone, please visit the <a href="%(link)s">devices page</a> and select your available country.
+想要購買 Firefox OS 手機，請在<a href="%(link)s">發佈機種</a>頁面查詢你的國家是否有上市機種。
 
 
 ;To date, 17 Operators spanning the globe have committed to distributing Firefox OS devices:
